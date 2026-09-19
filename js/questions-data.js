@@ -9529,7 +9529,7 @@ const QUESTIONS = [
     "isSameProfessor": false,
     "page": 13,
     "qNumber": 13,
-    "question": "57 세 여자가 최근 악화된 피로감으로 내원하였다. 환자는 주 1회, 맥주 반병 정도 마신다고 하며 흡연은 하지 않는다. 몸무게는 72kg, 신장은 155cm 이었으며 진찰 소견 상 특이 소견 보이지 않았다. 혈액 검사에는 아래와 같고, 복부 컴퓨터촬영 검사는 다음과 같다.",
+    "question": "57세 여자가 최근 악화된 피로감으로 내원하였다. 환자는 주 1회, 맥주 반병 정도 마신다고 하며 흡연은 하지 않는다. 몸무게는 72kg, 신장은 155cm 이었으며 진찰 소견 상 특이 소견 보이지 않았다. 혈액검사는 아래와 같고, 복부 컴퓨터촬영 검사는 다음과 같다.\n이 환자에게 시행해야 할 적절한 조치 및 치료 계획으로 옳은 것은? (2가지)",
     "passage": "공복혈당 282mg/dl, AST 98 IU/L, ALT 69 IU/L, FANA(-), Anti-HAV IgM(-), HBsAg(-), HCV Ab(-), ТВ 2.1 mg/dl, Albumin 4.5 g/dl, Platelet 245,000/mm3, r-GTP 86 IU/L",
     "options": [
       "감염의 위험이 높으므로 즉시 항생제를 투여한다.",
@@ -10439,10 +10439,9 @@ const QUESTIONS = [
     "isSameProfessor": false,
     "page": 21,
     "qNumber": 21,
-    "question": "39. 36세 여자가 호흡곤란과 의식저하로 왔다. 임신 31주였으며, 하지 부종이 있었다. 혈압 160/90 mmHg, 맥박 132회/분, 호흡수 24회/분, 체온 36.8°C였다. 혈액검사 소견은 다음과 같았다.\n혈색소 9.6 g/dL, 혈소판 37,000/μL, 총빌리루빈 4.2 mg/dL, AST/ALT 567/428 U/mL, LDH 1,068 U/L, creatinine 1.8mg/dL, PT(INR) 1.9, IgM anti-HAV(-), HBsAg(-), IgM anti-HBc(-), Anti-HCV(-)",
-    "passage": "",
+    "question": "39. 36세 여자가 호흡곤란과 의식저하로 왔다. 임신 31주였으며, 하지 부종이 있었다. 혈압 160/90 mmHg, 맥박 132회/분, 호흡수 24회/분, 체온 36.8°C였다. 혈액검사 소견은 다음과 같았다.\n이 환자의 치료로 적절한 것은?",
+    "passage": "혈색소 9.6 g/dL, 혈소판 37,000/μL, 총빌리루빈 4.2 mg/dL, AST/ALT 567/428 U/mL, LDH 1,068 U/L, creatinine 1.8mg/dL, PT(INR) 1.9, IgM anti-HAV(-), HBsAg(-), IgM anti-HBc(-), Anti-HCV(-)",
     "options": [
-      "이 환자의 치료로 적절한 것은?",
       "간이식",
       "제왕절개분만",
       "Corticosteroid",
@@ -16164,7 +16163,7 @@ const QUESTIONS = [
     "isSameProfessor": false,
     "page": 71,
     "qNumber": 71,
-    "question": "35.  64 세 여자가 1 주일 전부터 배가 부르다고 하며 병원에 왔다. 6 년 전에 간경변 진단을 받았다. 혈압 110/65 mmHg, 체온 36.5 도 이다. 배는 팽만되어 있고, 압통과 반동압통은 없지만 이동탁음이 있다. 혈액검사결과는 다음과 같다. (2020 한준열 교수님)",
+    "question": "35. 64세 여자가 1주일 전부터 배가 부르다고 하며 병원에 왔다. 6년 전에 간경변 진단을 받았다. 혈압 110/65 mmHg, 체온 36.5도이다. 배는 팽만되어 있고, 압통과 반동압통은 없지만 이동탁음이 있다. 혈액검사결과는 다음과 같다. (2020 한준열 교수님)\n이 환자에게 가장 먼저 시행해야 할 적절한 치료는?",
     "passage": "혈청: 혈색소 10.2g/dl, 백혈구 4,500/ml, 혈소판 82,000/ml, 총단백질 5.2g/dl, 알부민 2.3g/dl, 총빌리루빈 2.1 mg/dl, 알칼리인산분해효소 85U/L, 아스테이트아미노전달효소 62U/L, 알라닌아미노전달효소 53U/L, 혈청 나트륨 134mEq/L 복수: 백혈구 120/ml(중성구 35%), 알부민 0.8g/dl",
     "options": [
       "염분제한",
@@ -17320,7 +17319,7 @@ const QUESTIONS = [
     "isSameProfessor": true,
     "page": 2,
     "qNumber": 2,
-    "question": "2. 24세 남자가 수일간 지속된 피로감을 주소로 내원하였다. 특이 기저질환은 동반되지 않았으며, 음주 및 약물 복용력은 없었다. 혈액검사 결과는 다음과 같았다.",
+    "question": "2. 24세 남자가 수일간 지속된 피로감을 주소로 내원하였다. 특이 기저질환은 동반되지 않았으며, 음주 및 약물 복용력은 없었다. 혈액검사 결과는 다음과 같았다.\n다음으로 가장 먼저 시행하여야 할 검사는 무엇인가?",
     "passage": "아스파르트산아미노전이효소 1807 IU/L, 알라닌아미노전이효소 1920 IU/L, 총빌리루빈 2.5mg/dL, 알칼리인산분해효소 283IU/L, 감마-글루타밀전이효소 180 IU/L HBsAg (-), HBsAb (+), Anti-HCV Ab (-), FANA (-)",
     "options": [
       "IgM anti-HAV Ab",
@@ -18341,14 +18340,14 @@ const QUESTIONS = [
     "isSameProfessor": true,
     "page": 2,
     "qNumber": 2,
-    "question": "선천적인 간내 효소(UGT1A1)의 저하에 의해 발생된다.\n진행성 질환으로 예후가 좋지 않은 편이다.\nUrsodeoxycholic acid (UDCA) 혹은 cholestyramine이 증상 개선에 도움이 된다.\n용혈성 빈혈이 동반되는 경우가 흔하다.\n간조직검사에서 간내담도의 염증과 폐색이 관찰된다.",
-    "passage": "아스파르테이트 아미노전이효소 29 IU/L, 알라닌 아미노전이효소 27 IU/L 알칼리인산분해효소 44 IU/L, 감마 글루타밀전이효소 53 IU/L 총 빌리루빈 2.8 mg/dL (참고치 <1.2 mg/dL), 직접 빌리루빈 0.3 mg/dL 헤모글로빈 16.8 mg/dL, HBsAg(-), HBsAb(+), Anti-HCV(-)",
+    "question": "무증상의 27세 남자가 건강검진 이상소견으로 내원하였다. 특이 기저질환은 동반되지 않았으며, 음주 및 약물 복용력은 없었다. 신체 검사에서도 특이소견은 없었으며, 혈액검사 결과는 다음과 같았다. 복부 초음파에서도 간 및 담도의 이상 소견은 관찰되지 않았다.\n본 증례에 해당하는 질환에 대한 설명으로 올바른 것은 무엇인가? (20학번 총시 짤)",
+    "passage": "아스파르테이트 아미노전이효소 29 IU/L, 알라닌 아미노전이효소 27 IU/L\n알칼리인산분해효소 44 IU/L, 감마 글루타밀전이효소 53 IU/L\n총 빌리루빈 2.8 mg/dL (참고치 <1.2 mg/dL), 직접 빌리루빈 0.3 mg/dL\n헤모글로빈 16.8 mg/dL, HBsAg(-), HBsAb(+), Anti-HCV(-)",
     "options": [
-      "1번 보기",
-      "2번 보기",
-      "3번 보기",
-      "4번 보기",
-      "5번 보기"
+      "선천적인 간내 효소(UGT1A1)의 저하에 의해 발생된다.",
+      "진행성 질환으로 예후가 좋지 않은 편이다.",
+      "Ursodeoxycholic acid (UDCA) 혹은 cholestyramine이 증상 개선에 도움이 된다.",
+      "용혈성 빈혈이 동반되는 경우가 흔하다.",
+      "간조직검사에서 간내담도의 염증과 폐색이 관찰된다."
     ],
     "answer": [
       1
@@ -28386,8 +28385,8 @@ const QUESTIONS = [
     "isSameProfessor": true,
     "page": 8,
     "qNumber": 8,
-    "question": "68세 여자가 비알콜성 지방간으로 인한 간경변증으로 추적관찰하던 중에 AFP 수치가 상승하여 왔다. CT와 혈액검사 소견이다.\nHemoglobin 10.3g/dL, platelet count 110,000/mcL, albumin 2.7g/dL, Total bilirubin 1.8mg/dL, Direct bilirubin 0.6ml/dL, AST 35U/L, ALT 38U/L, Prothrombin time INR 1.7, AFP 240ng/mL (참고치:1-10)",
-    "passage": "",
+    "question": "68세 여자가 비알콜성 지방간으로 인한 간경변증으로 추적관찰하던 중에 AFP 수치가 상승하여 왔다. CT와 혈액검사 소견이다.\n이 환자에게 가장 적절한 치료법은?",
+    "passage": "Hemoglobin 10.3g/dL, platelet count 110,000/mcL, albumin 2.7g/dL, Total bilirubin 1.8mg/dL, Direct bilirubin 0.6ml/dL, AST 35U/L, ALT 38U/L, Prothrombin time INR 1.7, AFP 240ng/mL (참고치:1-10)",
     "options": [
       "간이식",
       "소라페닙",
@@ -28495,8 +28494,8 @@ const QUESTIONS = [
     "isSameProfessor": true,
     "page": 11,
     "qNumber": 11,
-    "question": "AST/ALT 112/60 U/L, TB 4.6 mg/dL, albumin 2.6g/dL, PT(INR) 1.95 AFP: 3230ng/mL\nIgG anti-HAV(+), anti-HCV(-)\nHBsAg(+), anti-HBs(-), IgG anti-HBc(+), HBeAg/AB (-/+), HBV DNA 5*10^6 IU/mL",
-    "passage": "",
+    "question": "평소 병원에 전혀 방문하지 않았던 55세 남자환자가 최근 3개월 전부터 시작된 전신 쇠약감을 주소로 방문하였다. 검사 수치 및 영상 검사는 아래와 같다. 가장 적절한 조치는?",
+    "passage": "AST/ALT 112/60 U/L, TB 4.6 mg/dL, albumin 2.6g/dL, PT(INR) 1.95, AFP 3230ng/mL\nIgG anti-HAV(+), anti-HCV(-)\nHBsAg(+), anti-HBs(-), IgG anti-HBc(+), HBeAg/AB (-/+), HBV DNA 5*10^6 IU/mL",
     "options": [
       "경구용 항바이러스제를 바로 시작한다.",
       "간동맥 화학 색전술을 바로 시행한다.",
