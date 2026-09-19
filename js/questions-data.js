@@ -5228,9 +5228,9 @@ const QUESTIONS = [
     ],
     "answerText": "4번",
     "isMultipleChoice": false,
-    "explanation": "HCV 에 감염된 환자의 가족들도 HCV 검사를 시행하여 가족도 C 형 간염이 맞으면 함께 치료해야 한다. 왜냐하면 완치된 이후에도 재감염이 가능하기 때문이다. 작성자 해설) 올해 Quiz 3 와 유사합니다. 1) 침으로는 전염되지 않으므로, 따로 식사하거나 식기를 소독할 필요는 없습니다. 2) 칫솔/손톱깍이는 함께 사용하면 안됩니다. 3) 급성 HCV 는 드물게 자연치유되고, 대부분 만성으로 진행합니다. 5) 변이가 많아 백신 개발이 어려워 아직까지 백신은 없습니다. 21 학번 총시 1. 70 세 남자가 토혈로 내원하였다. 음주는 주 4-5 회, 소주 약 2 병 정도였다. 혈액검사 결과, 상부위장관 내시경 검사(사진1, 사진2) 및 역동적 간조영 전산화단층촬영(사진3)이다. 이 환자에서 가장 적절한 항바이러스 치료는 무엇인가?\n알라닌아미노전달효소 60IU/mL, 총빌리루빈 2.5mg/dL, 알부민 3.5mg/dL, 혈소판 98,000/mm3 감마글루타밀전달효소 350U/L, 크레아티닌 1.6mg/dL HBsAg/Ab +/-, HBV DNA target not detect U/mL HCV Ab+, HCV RNA 905,320IU/mL, genotype 1b",
-    "explanationFile": "HCV 에 감염된 환자의 가족들도 HCV 검사를 시행하여 가족도 C 형 간염이 맞으면 함께 치료해야 한다. 왜냐하면 완치된 이후에도 재감염이 가능하기 때문이다. 작성자 해설) 올해 Quiz 3 와 유사합니다. 1) 침으로는 전염되지 않으므로, 따로 식사하거나 식기를 소독할 필요는 없습니다. 2) 칫솔/손톱깍이는 함께 사용하면 안됩니다. 3) 급성 HCV 는 드물게 자연치유되고, 대부분 만성으로 진행합니다. 5) 변이가 많아 백신 개발이 어려워 아직까지 백신은 없습니다. 21 학번 총시 1. 70 세 남자가 토혈로 내원하였다. 음주는 주 4-5 회, 소주 약 2 병 정도였다. 혈액검사 결과, 상부위장관 내시경 검사(사진1, 사진2) 및 역동적 간조영 전산화단층촬영(사진3)이다. 이 환자에서 가장 적절한 항바이러스 치료는 무엇인가?\n알라닌아미노전달효소 60IU/mL, 총빌리루빈 2.5mg/dL, 알부민 3.5mg/dL, 혈소판 98,000/mm3 감마글루타밀전달효소 350U/L, 크레아티닌 1.6mg/dL HBsAg/Ab +/-, HBV DNA target not detect U/mL HCV Ab+, HCV RNA 905,320IU/mL, genotype 1b",
-    "explanationOfficial": "HCV 에 감염된 환자의 가족들도 HCV 검사를 시행하여 가족도 C 형 간염이 맞으면 함께 치료해야 한다. 왜냐하면 완치된 이후에도 재감염이 가능하기 때문이다. 작성자 해설) 올해 Quiz 3 와 유사합니다. 1) 침으로는 전염되지 않으므로, 따로 식사하거나 식기를 소독할 필요는 없습니다. 2) 칫솔/손톱깍이는 함께 사용하면 안됩니다. 3) 급성 HCV 는 드물게 자연치유되고, 대부분 만성으로 진행합니다. 5) 변이가 많아 백신 개발이 어려워 아직까지 백신은 없습니다. 21 학번 총시 1. 70 세 남자가 토혈로 내원하였다. 음주는 주 4-5 회, 소주 약 2 병 정도였다. 혈액검사 결과, 상부위장관 내시경 검사(사진1, 사진2) 및 역동적 간조영 전산화단층촬영(사진3)이다. 이 환자에서 가장 적절한 항바이러스 치료는 무엇인가?\n알라닌아미노전달효소 60IU/mL, 총빌리루빈 2.5mg/dL, 알부민 3.5mg/dL, 혈소판 98,000/mm3 감마글루타밀전달효소 350U/L, 크레아티닌 1.6mg/dL HBsAg/Ab +/-, HBV DNA target not detect U/mL HCV Ab+, HCV RNA 905,320IU/mL, genotype 1b",
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수3,4] C형 간염 기출]\n\nHCV 에 감염된 환자의 가족들도 HCV 검사를 시행하여 가족도 C 형 간염이 맞으면 함께 치료해야 한다. 왜냐하면 완치된 이후에도 재감염이 가능하기 때문이다. 작성자 해설) 올해 Quiz 3 와 유사합니다. 1) 침으로는 전염되지 않으므로, 따로 식사하거나 식기를 소독할 필요는 없습니다. 2) 칫솔/손톱깍이는 함께 사용하면 안됩니다. 3) 급성 HCV 는 드물게 자연치유되고, 대부분 만성으로 진행합니다. 5) 변이가 많아 백신 개발이 어려워 아직까지 백신은 없습니다.",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수3,4] C형 간염 기출]\n\nHCV 에 감염된 환자의 가족들도 HCV 검사를 시행하여 가족도 C 형 간염이 맞으면 함께 치료해야 한다. 왜냐하면 완치된 이후에도 재감염이 가능하기 때문이다. 작성자 해설) 올해 Quiz 3 와 유사합니다. 1) 침으로는 전염되지 않으므로, 따로 식사하거나 식기를 소독할 필요는 없습니다. 2) 칫솔/손톱깍이는 함께 사용하면 안됩니다. 3) 급성 HCV 는 드물게 자연치유되고, 대부분 만성으로 진행합니다. 5) 변이가 많아 백신 개발이 어려워 아직까지 백신은 없습니다.",
+    "explanationOfficial": "HCV 에 감염된 환자의 가족들도 HCV 검사를 시행하여 가족도 C 형 간염이 맞으면 함께 치료해야 한다. 왜냐하면 완치된 이후에도 재감염이 가능하기 때문이다. 작성자 해설) 올해 Quiz 3 와 유사합니다. 1) 침으로는 전염되지 않으므로, 따로 식사하거나 식기를 소독할 필요는 없습니다. 2) 칫솔/손톱깍이는 함께 사용하면 안됩니다. 3) 급성 HCV 는 드물게 자연치유되고, 대부분 만성으로 진행합니다. 5) 변이가 많아 백신 개발이 어려워 아직까지 백신은 없습니다.",
     "explanationAuthor": "",
     "explanationAI": "",
     "yamConcept": ""
@@ -5687,9 +5687,9 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanation": "Anti-HCV (+), HCV (-) ® 과거 HCV 감염 후 회복기가 가장 흔합니다 3. 30 세 여자환자가 피로감으로 왔다. 시행한 혈액검사소견이다. 치료를 위해 해야 할 다음 검사는? (+18, 17, 16 짤변)\nAspartate transaminase (AST) 56 U/L, Alanine transaminase (ALT) 94 U/L Total protein 6.8 g/dL, Albumin 8.6 g/dL, Total bilirubin 1.4 mg/dL, Direct bilirubin 0/5 mg/dL Alk-P 264 IU/L, r-GTP 88 IU/L, Prothrombin time 90  (INR 1.2) Sodium 136 mEq/L, Potassium 3.8 mEq/L, WBC 7,500 /uL (seg 55 ), Hb 12.6 g/dL, Platelet 173,00 uL, HBsAg (-), Anti-HBs (-), Anti-HCV (+), HCV RNA 2.4 x 10^-7 IU/mL",
-    "explanationFile": "Anti-HCV (+), HCV (-) ® 과거 HCV 감염 후 회복기가 가장 흔합니다 3. 30 세 여자환자가 피로감으로 왔다. 시행한 혈액검사소견이다. 치료를 위해 해야 할 다음 검사는? (+18, 17, 16 짤변)\nAspartate transaminase (AST) 56 U/L, Alanine transaminase (ALT) 94 U/L Total protein 6.8 g/dL, Albumin 8.6 g/dL, Total bilirubin 1.4 mg/dL, Direct bilirubin 0/5 mg/dL Alk-P 264 IU/L, r-GTP 88 IU/L, Prothrombin time 90  (INR 1.2) Sodium 136 mEq/L, Potassium 3.8 mEq/L, WBC 7,500 /uL (seg 55 ), Hb 12.6 g/dL, Platelet 173,00 uL, HBsAg (-), Anti-HBs (-), Anti-HCV (+), HCV RNA 2.4 x 10^-7 IU/mL",
-    "explanationOfficial": "Anti-HCV (+), HCV (-) ® 과거 HCV 감염 후 회복기가 가장 흔합니다 3. 30 세 여자환자가 피로감으로 왔다. 시행한 혈액검사소견이다. 치료를 위해 해야 할 다음 검사는? (+18, 17, 16 짤변)\nAspartate transaminase (AST) 56 U/L, Alanine transaminase (ALT) 94 U/L Total protein 6.8 g/dL, Albumin 8.6 g/dL, Total bilirubin 1.4 mg/dL, Direct bilirubin 0/5 mg/dL Alk-P 264 IU/L, r-GTP 88 IU/L, Prothrombin time 90  (INR 1.2) Sodium 136 mEq/L, Potassium 3.8 mEq/L, WBC 7,500 /uL (seg 55 ), Hb 12.6 g/dL, Platelet 173,00 uL, HBsAg (-), Anti-HBs (-), Anti-HCV (+), HCV RNA 2.4 x 10^-7 IU/mL",
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수3,4] C형 간염 기출]\n\nAnti-HCV (+), HCV (-) ® 과거 HCV 감염 후 회복기가 가장 흔합니다.",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수3,4] C형 간염 기출]\n\nAnti-HCV (+), HCV (-) ® 과거 HCV 감염 후 회복기가 가장 흔합니다.",
+    "explanationOfficial": "Anti-HCV (+), HCV (-) ® 과거 HCV 감염 후 회복기가 가장 흔합니다.",
     "explanationAuthor": "",
     "explanationAI": "",
     "yamConcept": ""
@@ -7276,14 +7276,14 @@ const QUESTIONS = [
     ],
     "answerText": "4번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설: 예후인자에 대해서는 정확히 배우지 않았습니다. 작년 강의에 의하면 심한 알코올성 간염의 나쁜 예후로 작용할 만한 인자들은 다음과 같다고 합니다.–coagulopathy, 프로트롬빈 시간 > 5 초 이상, 빈혈, 혈청알부민 <2.5g/ml, 혈청 빌리루빈 >8 mg/dl, 신부전, 복수 + MELD > 21, discriminant function > 32 (=severe AH)+ Cr > 2.5mg/dL이면 corticosteroid 금기에 해당하고 간신증후군에 빠질 수 있어서 예후가 불량한 것으로도 볼 수 있겠습니다.(x) 복부 CT상심한 지방간 소견은 나쁜 예후인자로 작용하는 것이 아닙니다.+ (짤변) 2019, 2016, 201555. 53 세 남자가 복부팽만으로 응급실에 내원하였다. 과거에 알코올 중독에 대한 알코올 전문 병원 입원 경력이 있었고, 내원 당일 아침까지 최소 12 개월 이상 하루 3 병 이상의 소주를 마셨다. 환자에서 예후가 불량할 것으로 판단되는 검사실 및 진찰 소견은? 1) Discrimination function score 11 점2) 혈청 알부민 3.8 g/dL3) MELD score 19 점4) 간 초음파 검사에서 심한 지방간 소견 관찰됨5) 혈청 크레아티닌 4.9 mg/dL장답: 563. 54 세 남자가 집에서 의식을 잃은 채 발견되었다. 평소 자주 다량의 음주를 하였다고 한다. 체온은 39도, 혈압은 100/70mmHg, 맥박은 110회/분, 호흡은 19회/분이었다. 검사실 소견은 다음과 같다. 뇌 CT 검사 결과 특이 소견 없었으며 신경학적 이상 소견은 없었다. 백혈구 18000/mm3, 헤모글로빈 9.8g/dL, 혈소판 110,000/mm3, 크레아틴 2.6mg/dL빌리루빈 25.5mg/dL, AST 450U/L, ALT 200U/L, Na 134mmol/L, K 3.0mmol/L, 알부민 2.2g/dL, 프로트롬빈 시간 연장 8 초(INR 4.5)HBsAg/Ab(-/+), HCV Ab(-), HAV IgG(+)검사 결과 중 환자의 예후가 불량할 것으로 시사하는 가장 적절한 것은? 1) AST/ALT ratio2) 혈소판 수치3) 저칼륨혈증4) 프로트롬빈 시간5) 혈청 Na 농도정답: 4",
+    "explanationOfficial": "해설: 예후인자에 대해서는 정확히 배우지 않았습니다. 작년 강의에 의하면 심한 알코올성 간염의 나쁜 예후로 작용할 만한 인자들은 다음과 같다고 합니다.–coagulopathy, 프로트롬빈 시간 > 5 초 이상, 빈혈, 혈청알부민 <2.5g/ml, 혈청 빌리루빈 >8 mg/dl, 신부전, 복수 + MELD > 21, discriminant function > 32 (=severe AH)+ Cr > 2.5mg/dL이면 corticosteroid 금기에 해당하고 간신증후군에 빠질 수 있어서 예후가 불량한 것으로도 볼 수 있겠습니다.(x) 복부 CT상심한 지방간 소견은 나쁜 예후인자로 작용하는 것이 아닙니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수5] 알코올 간질환 기출]\n\n해설: 예후인자에 대해서는 정확히 배우지 않았습니다. 작년 강의에 의하면 심한 알코올성 간염의 나쁜 예후로 작용할 만한 인자들은 다음과 같다고 합니다.–coagulopathy, 프로트롬빈 시간 > 5 초 이상, 빈혈, 혈청알부민 <2.5g/ml, 혈청 빌리루빈 >8 mg/dl, 신부전, 복수 + MELD > 21, discriminant function > 32 (=severe AH)+ Cr > 2.5mg/dL이면 corticosteroid 금기에 해당하고 간신증후군에 빠질 수 있어서 예후가 불량한 것으로도 볼 수 있겠습니다.(x) 복부 CT상심한 지방간 소견은 나쁜 예후인자로 작용하는 것이 아닙니다.+ (짤변) 2019, 2016, 201555. 53 세 남자가 복부팽만으로 응급실에 내원하였다. 과거에 알코올 중독에 대한 알코올 전문 병원 입원 경력이 있었고, 내원 당일 아침까지 최소 12 개월 이상 하루 3 병 이상의 소주를 마셨다. 환자에서 예후가 불량할 것으로 판단되는 검사실 및 진찰 소견은? 1) Discrimination function score 11 점2) 혈청 알부민 3.8 g/dL3) MELD score 19 점4) 간 초음파 검사에서 심한 지방간 소견 관찰됨5) 혈청 크레아티닌 4.9 mg/dL장답: 563. 54 세 남자가 집에서 의식을 잃은 채 발견되었다. 평소 자주 다량의 음주를 하였다고 한다. 체온은 39도, 혈압은 100/70mmHg, 맥박은 110회/분, 호흡은 19회/분이었다. 검사실 소견은 다음과 같다. 뇌 CT 검사 결과 특이 소견 없었으며 신경학적 이상 소견은 없었다. 백혈구 18000/mm3, 헤모글로빈 9.8g/dL, 혈소판 110,000/mm3, 크레아틴 2.6mg/dL빌리루빈 25.5mg/dL, AST 450U/L, ALT 200U/L, Na 134mmol/L, K 3.0mmol/L, 알부민 2.2g/dL, 프로트롬빈 시간 연장 8 초(INR 4.5)HBsAg/Ab(-/+), HCV Ab(-), HAV IgG(+)검사 결과 중 환자의 예후가 불량할 것으로 시사하는 가장 적절한 것은? 1) AST/ALT ratio2) 혈소판 수치3) 저칼륨혈증4) 프로트롬빈 시간5) 혈청 Na 농도정답: 4",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수5] 알콜성 간질환 기출]\n\n해설: 예후인자에 대해서는 정확히 배우지 않았습니다. 작년 강의에 의하면 심한 알코올성 간염의 나쁜 예후로 작용할 만한 인자들은 다음과 같다고 합니다.–coagulopathy, 프로트롬빈 시간 > 5 초 이상, 빈혈, 혈청알부민 <2.5g/ml, 혈청 빌리루빈 >8 mg/dl, 신부전, 복수 + MELD > 21, discriminant function > 32 (=severe AH)+ Cr > 2.5mg/dL이면 corticosteroid 금기에 해당하고 간신증후군에 빠질 수 있어서 예후가 불량한 것으로도 볼 수 있겠습니다.(x) 복부 CT상심한 지방간 소견은 나쁜 예후인자로 작용하는 것이 아닙니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수5] 알코올 간질환 기출]\n\n해설: 예후인자에 대해서는 정확히 배우지 않았습니다. 작년 강의에 의하면 심한 알코올성 간염의 나쁜 예후로 작용할 만한 인자들은 다음과 같다고 합니다.–coagulopathy, 프로트롬빈 시간 > 5 초 이상, 빈혈, 혈청알부민 <2.5g/ml, 혈청 빌리루빈 >8 mg/dl, 신부전, 복수 + MELD > 21, discriminant function > 32 (=severe AH)+ Cr > 2.5mg/dL이면 corticosteroid 금기에 해당하고 간신증후군에 빠질 수 있어서 예후가 불량한 것으로도 볼 수 있겠습니다.(x) 복부 CT상심한 지방간 소견은 나쁜 예후인자로 작용하는 것이 아닙니다.+ (짤변) 2019, 2016, 201555. 53 세 남자가 복부팽만으로 응급실에 내원하였다. 과거에 알코올 중독에 대한 알코올 전문 병원 입원 경력이 있었고, 내원 당일 아침까지 최소 12 개월 이상 하루 3 병 이상의 소주를 마셨다. 환자에서 예후가 불량할 것으로 판단되는 검사실 및 진찰 소견은? 1) Discrimination function score 11 점2) 혈청 알부민 3.8 g/dL3) MELD score 19 점4) 간 초음파 검사에서 심한 지방간 소견 관찰됨5) 혈청 크레아티닌 4.9 mg/dL장답: 563. 54 세 남자가 집에서 의식을 잃은 채 발견되었다. 평소 자주 다량의 음주를 하였다고 한다. 체온은 39도, 혈압은 100/70mmHg, 맥박은 110회/분, 호흡은 19회/분이었다. 검사실 소견은 다음과 같다. 뇌 CT 검사 결과 특이 소견 없었으며 신경학적 이상 소견은 없었다. 백혈구 18000/mm3, 헤모글로빈 9.8g/dL, 혈소판 110,000/mm3, 크레아틴 2.6mg/dL빌리루빈 25.5mg/dL, AST 450U/L, ALT 200U/L, Na 134mmol/L, K 3.0mmol/L, 알부민 2.2g/dL, 프로트롬빈 시간 연장 8 초(INR 4.5)HBsAg/Ab(-/+), HCV Ab(-), HAV IgG(+)검사 결과 중 환자의 예후가 불량할 것으로 시사하는 가장 적절한 것은? 1) AST/ALT ratio2) 혈소판 수치3) 저칼륨혈증4) 프로트롬빈 시간5) 혈청 Na 농도정답: 4"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수5] 알콜성 간질환 기출]\n\n해설: 예후인자에 대해서는 정확히 배우지 않았습니다. 작년 강의에 의하면 심한 알코올성 간염의 나쁜 예후로 작용할 만한 인자들은 다음과 같다고 합니다.–coagulopathy, 프로트롬빈 시간 > 5 초 이상, 빈혈, 혈청알부민 <2.5g/ml, 혈청 빌리루빈 >8 mg/dl, 신부전, 복수 + MELD > 21, discriminant function > 32 (=severe AH)+ Cr > 2.5mg/dL이면 corticosteroid 금기에 해당하고 간신증후군에 빠질 수 있어서 예후가 불량한 것으로도 볼 수 있겠습니다.(x) 복부 CT상심한 지방간 소견은 나쁜 예후인자로 작용하는 것이 아닙니다."
   },
   {
     "id": "wed5_q10",
@@ -7353,16 +7353,16 @@ const QUESTIONS = [
     ],
     "answerText": "2번, 6번",
     "isMultipleChoice": true,
-    "explanationOfficial": "해설: 음주력이 주어졌고, AST>ALT를 통해 알코올성 간염을 생각할 수 있습니다. MDF나 MELD score가 주어지지 않았지만, 빌리루빈 수치가 10을 넘어가는 경우에는 바로 steroid 치료를 시행해야 하지만, 3.2 이므로 금주 및 수액, 대증치료를 해야 합니다. + (짤변) 2018, 2017, 2016, 201556 세 남자가 수주 전부터 발생한 피로감과 전신쇠약으로 내원하였다. 환자는 약 10 년전부터 주 4 회, 소주 1.5 병 정도 마신다고 하며 흡연은 하지 않는 상태이다. 몸무게는 62kg, 신장은 164cm 이었으며 진찰 소견 상 경도의 간비대 소견 외에 특이 소견 보이지 않았다. 혈액 검사에서 공복 혈당 115mg/dl, AST 142IU/L, ALT 80 IU/L, HBsAg(-), HBsAb(+), HCV Ab(-), TB 2.6 mg/dl, Albumin 4.0g/dl, platelet 245,000/mm3, r-GTP 210 IU/L 이었고 간 초음파 검사는 다음과 같다(그림). 다음 환자에 대한 처치 중 옳은 것은? (2가지) -> 경증을 시사하며 마찬가지로 TB가 2.6으로, 10을 넘어가는 높은 수치가 아닙니다.",
+    "explanationOfficial": "해설: 음주력이 주어졌고, AST>ALT를 통해 알코올성 간염을 생각할 수 있습니다. MDF나 MELD score가 주어지지 않았지만, 빌리루빈 수치가 10을 넘어가는 경우에는 바로 steroid 치료를 시행해야 하지만, 3.2 이므로 금주 및 수액, 대증치료를 해야 합니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수5] 알코올 간질환 기출]\n\n해설: 음주력이 주어졌고, AST>ALT를 통해 알코올성 간염을 생각할 수 있습니다. MDF나 MELD score가 주어지지 않았지만, 빌리루빈 수치가 10을 넘어가는 경우에는 바로 steroid 치료를 시행해야 하지만, 3.2 이므로 금주 및 수액, 대증치료를 해야 합니다. + (짤변) 2018, 2017, 2016, 201556 세 남자가 수주 전부터 발생한 피로감과 전신쇠약으로 내원하였다. 환자는 약 10 년전부터 주 4 회, 소주 1.5 병 정도 마신다고 하며 흡연은 하지 않는 상태이다. 몸무게는 62kg, 신장은 164cm 이었으며 진찰 소견 상 경도의 간비대 소견 외에 특이 소견 보이지 않았다. 혈액 검사에서 공복 혈당 115mg/dl, AST 142IU/L, ALT 80 IU/L, HBsAg(-), HBsAb(+), HCV Ab(-), TB 2.6 mg/dl, Albumin 4.0g/dl, platelet 245,000/mm3, r-GTP 210 IU/L 이었고 간 초음파 검사는 다음과 같다(그림). 다음 환자에 대한 처치 중 옳은 것은? (2가지) -> 경증을 시사하며 마찬가지로 TB가 2.6으로, 10을 넘어가는 높은 수치가 아닙니다.",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수5] 알콜성 간질환 기출]\n\n해설: 음주력이 주어졌고, AST>ALT를 통해 알코올성 간염을 생각할 수 있습니다. MDF나 MELD score가 주어지지 않았지만, 빌리루빈 수치가 10을 넘어가는 경우에는 바로 steroid 치료를 시행해야 하지만, 3.2 이므로 금주 및 수액, 대증치료를 해야 합니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/wed0909_5/image6.png",
     "images": [
       "images/wed0909_5/image6.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수5] 알코올 간질환 기출]\n\n해설: 음주력이 주어졌고, AST>ALT를 통해 알코올성 간염을 생각할 수 있습니다. MDF나 MELD score가 주어지지 않았지만, 빌리루빈 수치가 10을 넘어가는 경우에는 바로 steroid 치료를 시행해야 하지만, 3.2 이므로 금주 및 수액, 대증치료를 해야 합니다. + (짤변) 2018, 2017, 2016, 201556 세 남자가 수주 전부터 발생한 피로감과 전신쇠약으로 내원하였다. 환자는 약 10 년전부터 주 4 회, 소주 1.5 병 정도 마신다고 하며 흡연은 하지 않는 상태이다. 몸무게는 62kg, 신장은 164cm 이었으며 진찰 소견 상 경도의 간비대 소견 외에 특이 소견 보이지 않았다. 혈액 검사에서 공복 혈당 115mg/dl, AST 142IU/L, ALT 80 IU/L, HBsAg(-), HBsAb(+), HCV Ab(-), TB 2.6 mg/dl, Albumin 4.0g/dl, platelet 245,000/mm3, r-GTP 210 IU/L 이었고 간 초음파 검사는 다음과 같다(그림). 다음 환자에 대한 처치 중 옳은 것은? (2가지) -> 경증을 시사하며 마찬가지로 TB가 2.6으로, 10을 넘어가는 높은 수치가 아닙니다."
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수5] 알콜성 간질환 기출]\n\n해설: 음주력이 주어졌고, AST>ALT를 통해 알코올성 간염을 생각할 수 있습니다. MDF나 MELD score가 주어지지 않았지만, 빌리루빈 수치가 10을 넘어가는 경우에는 바로 steroid 치료를 시행해야 하지만, 3.2 이므로 금주 및 수액, 대증치료를 해야 합니다."
   },
   {
     "id": "wed5_q12",
@@ -7753,14 +7753,14 @@ const QUESTIONS = [
     ],
     "answerText": "3번",
     "isMultipleChoice": false,
-    "explanationOfficial": "공식해설) 환자의 복수 검사에서 호중구가 250/mm3 이상으로 자발성 세균성 복막염이 의심되는 상황이다. 따라서 세프트리악손과 같은 항생제 치료가 필요하다.중성구 수는 650으로 SBP의 기준을 만족합니다. SBP의 치료는 1. ceftriaxone(or cefotaxime)2. albumin 입니다.\n\n19학번 송명준 교수님19학번 송명준 교수님",
+    "explanationOfficial": "공식해설) 환자의 복수 검사에서 호중구가 250/mm3 이상으로 자발성 세균성 복막염이 의심되는 상황이다. 따라서 세프트리악손과 같은 항생제 치료가 필요하다.중성구 수는 650으로 SBP의 기준을 만족합니다. SBP의 치료는 1. ceftriaxone(or cefotaxime)2. albumin 입니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n공식해설) 환자의 복수 검사에서 호중구가 250/mm3 이상으로 자발성 세균성 복막염이 의심되는 상황이다. 따라서 세프트리악손과 같은 항생제 치료가 필요하다.중성구 수는 650으로 SBP의 기준을 만족합니다. SBP의 치료는 1. ceftriaxone(or cefotaxime)2. albumin 입니다.\n\n19학번 송명준 교수님19학번 송명준 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n공식해설) 환자의 복수 검사에서 호중구가 250/mm3 이상으로 자발성 세균성 복막염이 의심되는 상황이다. 따라서 세프트리악손과 같은 항생제 치료가 필요하다.중성구 수는 650으로 SBP의 기준을 만족합니다. SBP의 치료는 1. ceftriaxone(or cefotaxime)2. albumin 입니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n공식해설) 환자의 복수 검사에서 호중구가 250/mm3 이상으로 자발성 세균성 복막염이 의심되는 상황이다. 따라서 세프트리악손과 같은 항생제 치료가 필요하다.중성구 수는 650으로 SBP의 기준을 만족합니다. SBP의 치료는 1. ceftriaxone(or cefotaxime)2. albumin 입니다.\n\n19학번 송명준 교수님19학번 송명준 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n공식해설) 환자의 복수 검사에서 호중구가 250/mm3 이상으로 자발성 세균성 복막염이 의심되는 상황이다. 따라서 세프트리악손과 같은 항생제 치료가 필요하다.중성구 수는 650으로 SBP의 기준을 만족합니다. SBP의 치료는 1. ceftriaxone(or cefotaxime)2. albumin 입니다."
   },
   {
     "id": "wed6_q03",
@@ -7858,14 +7858,14 @@ const QUESTIONS = [
     ],
     "answerText": "3번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.정답: 3해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.\n\n18학번 송명준교수님18학번 송명준교수님",
+    "explanationOfficial": "해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.정답: 3해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.정답: 3해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.\n\n18학번 송명준교수님18학번 송명준교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.정답: 3해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.정답: 3해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.\n\n18학번 송명준교수님18학번 송명준교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다.정답: 3해설: 복수천자를 한 걸 보고 SBP(자발성 세균성 복막염)을 떠올릴 수 있으며 WBC의 50%가 neutrophil이므로 250 cell은 넘는다는 것을 알 수 있습니다. 항생제로 3세대 cehpalosporin계를 사용하며 알부민을 투여하고 이뇨제는 중단합니다. Terlipressin은 간 신증후군이 발생한 후에 사용합니다. NSAID는 관련 없습니다."
   },
   {
     "id": "wed6_q06",
@@ -8122,16 +8122,16 @@ const QUESTIONS = [
     ],
     "answerText": "5번, 7번",
     "isMultipleChoice": true,
-    "explanationOfficial": "해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.정답: 5, 7해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.\n\n16학번 송도선교수님16학번 송도선교수님",
+    "explanationOfficial": "해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.정답: 5, 7해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.정답: 5, 7해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.\n\n16학번 송도선교수님16학번 송도선교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.정답: 5, 7해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/wed0909_6/image6.jpeg",
     "images": [
       "images/wed0909_6/image6.jpeg"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.정답: 5, 7해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.\n\n16학번 송도선교수님16학번 송도선교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다.정답: 5, 7해설: 재출혈 예방으로 비선택적 베타 차단제+내시경 정맥류 결찰술을 시행할 수 있습니다."
   },
   {
     "id": "wed6_q13",
@@ -8566,14 +8566,14 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.정답: 5해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.\n\n13학번 송명준, 정은선교수님13학번 송명준, 정은선교수님",
+    "explanationOfficial": "해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.정답: 5해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.정답: 5해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.\n\n13학번 송명준, 정은선교수님13학번 송명준, 정은선교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.정답: 5해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.정답: 5해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.\n\n13학번 송명준, 정은선교수님13학번 송명준, 정은선교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다.정답: 5해설: 정맥류 출혈이 의심되는 상황으로 바로 somatostatin이나 terlipressin을 투여하여야 하며 hemoglobin, platelet이 낮고, prothrombin time이 연장된 상태이므로 즉각적 수혈(packed RBC, platelet concentration, FFP)이 필요한 상태입니다. 비선택 적 베타차단제는 주로 예방적 의미로 투여하며 3% NaCl은 저나트륨혈증의 교정이 필요할 때 사용합니다."
   },
   {
     "id": "wed6_q25",
@@ -8605,9 +8605,9 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.정답: 5해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.\n\n12학번 김창욱교수님12학번 김창욱교수님",
+    "explanationOfficial": "해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.정답: 5해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.정답: 5해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.\n\n12학번 김창욱교수님12학번 김창욱교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.정답: 5해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/wed0909_6/image12.jpeg",
@@ -8615,7 +8615,7 @@ const QUESTIONS = [
       "images/wed0909_6/image12.jpeg",
       "images/wed0909_6/image13.jpeg"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.정답: 5해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.\n\n12학번 김창욱교수님12학번 김창욱교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다.정답: 5해설: 그림1) collateral vessel due to liver cirrhosis, 그림 2) spider angioma는 간경변을 시사하는 소견입니다."
   },
   {
     "id": "wed6_q26",
@@ -8682,14 +8682,14 @@ const QUESTIONS = [
     ],
     "answerText": "3번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.정답: 3해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.\n\n11학번 김창욱교수님11학번 김창욱교수님",
+    "explanationOfficial": "해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.정답: 3해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.정답: 3해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.\n\n11학번 김창욱교수님11학번 김창욱교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.정답: 3해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.정답: 3해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.\n\n11학번 김창욱교수님11학번 김창욱교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다.정답: 3해설: Hb 수치가 6.9 이므로 수혈을 합니다. 의식이 저하되면 내시경이 아니라 수술적 처치가 필요하다 합니다. 투여할 약제로는 항 생제+혈관수축제. ceftriaxone/norfloxacin + somatostatin/terlipressin가 있습니다. 복부CT는 응급처치에 해당하지 않습니다."
   },
   {
     "id": "wed6_q28",
@@ -8984,14 +8984,14 @@ const QUESTIONS = [
     ],
     "answerText": "1번, 4번, 5번, 7번",
     "isMultipleChoice": true,
-    "explanationOfficial": "해설: SAAG >1.1에 해당하는 원인들을 고릅니다.정답: 1, 4, 5, 7해설: SAAG >1.1에 해당하는 원인들을 고릅니다.\n\n10학번 최종영교수님10학번 최종영교수님",
+    "explanationOfficial": "해설: SAAG >1.1에 해당하는 원인들을 고릅니다.정답: 1, 4, 5, 7해설: SAAG >1.1에 해당하는 원인들을 고릅니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: SAAG >1.1에 해당하는 원인들을 고릅니다.정답: 1, 4, 5, 7해설: SAAG >1.1에 해당하는 원인들을 고릅니다.\n\n10학번 최종영교수님10학번 최종영교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: SAAG >1.1에 해당하는 원인들을 고릅니다.정답: 1, 4, 5, 7해설: SAAG >1.1에 해당하는 원인들을 고릅니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: SAAG >1.1에 해당하는 원인들을 고릅니다.정답: 1, 4, 5, 7해설: SAAG >1.1에 해당하는 원인들을 고릅니다.\n\n10학번 최종영교수님10학번 최종영교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수6] 간경변의 실제 기출]\n\n해설: SAAG >1.1에 해당하는 원인들을 고릅니다.정답: 1, 4, 5, 7해설: SAAG >1.1에 해당하는 원인들을 고릅니다."
   },
   {
     "id": "wed6_q36",
@@ -10488,14 +10488,14 @@ const QUESTIONS = [
     ],
     "answerText": "1번",
     "isMultipleChoice": false,
-    "explanationOfficial": ") 급성 A형간염으로 인한 급성간부전으로 의식저하가 발생하였으므로 간이식을 준비하는 것이 가장 예후를 개선시킬 수 있는 치료이다.\n\n작성자 : 이미 간성뇌증이 나타났기 때문에 빠르게 간이식을 고려해야 합니다.\n\n총시 21. 47세 남자가 황달을 주소로 내원했다. 만성 음주력(주 3회, 소주 약 1병)이 있으며, 제 2형 당뇨병으로 약물 치료 중이다. 내원 후 지남력 장애가 관찰되었고, 퍼덕떨림(flapping tremor, asterixis)이 확인되었다. 혈액검사 및 기타 검사 결과는 다음과 같다. 이 환자에게 가장 적절한 치료는 무엇인가?",
+    "explanationOfficial": ") 급성 A형간염으로 인한 급성간부전으로 의식저하가 발생하였으므로 간이식을 준비하는 것이 가장 예후를 개선시킬 수 있는 치료이다.\n\n작성자 : 이미 간성뇌증이 나타났기 때문에 빠르게 간이식을 고려해야 합니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수8] 간기능부전 기출]\n\n공식해설) 급성 A형간염으로 인한 급성간부전으로 의식저하가 발생하였으므로 간이식을 준비하는 것이 가장 예후를 개선시킬 수 있는 치료이다.\n\n작성자 해설: 이미 간성뇌증이 나타났기 때문에 빠르게 간이식을 고려해야 합니다.",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-09 [수8] 간기능부전 기출]\n\n) 급성 A형간염으로 인한 급성간부전으로 의식저하가 발생하였으므로 간이식을 준비하는 것이 가장 예후를 개선시킬 수 있는 치료이다.\n\n작성자 : 이미 간성뇌증이 나타났기 때문에 빠르게 간이식을 고려해야 합니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수8] 간기능부전 기출]\n\n공식해설) 급성 A형간염으로 인한 급성간부전으로 의식저하가 발생하였으므로 간이식을 준비하는 것이 가장 예후를 개선시킬 수 있는 치료이다.\n\n작성자 해설: 이미 간성뇌증이 나타났기 때문에 빠르게 간이식을 고려해야 합니다."
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-09 [수8] 간기능부전 기출]\n\n) 급성 A형간염으로 인한 급성간부전으로 의식저하가 발생하였으므로 간이식을 준비하는 것이 가장 예후를 개선시킬 수 있는 치료이다.\n\n작성자 : 이미 간성뇌증이 나타났기 때문에 빠르게 간이식을 고려해야 합니다."
   },
   {
     "id": "wed8_q23",
@@ -10774,16 +10774,16 @@ const QUESTIONS = [
     ],
     "answerText": "2번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제답: 2해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제\n\n18학번 장우임 교수님18학번 장우임 교수님",
+    "explanationOfficial": "해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제답: 2해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제답: 2해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제\n\n18학번 장우임 교수님18학번 장우임 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제답: 2해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_1/image4.jpeg",
     "images": [
       "images/thu0910_1/image4.jpeg"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제답: 2해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제\n\n18학번 장우임 교수님18학번 장우임 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제답: 2해설: Hepatitis 표의 immune checkpoint inhibitor 중에 nivolumab이 있기는 합니다. 배우지는 않았습니다. 파드 해설: 강조하신 immune checkpoint inhibitor에서 출제"
   },
   {
     "id": "thu1_q08",
@@ -10811,16 +10811,16 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "답 : 5\n\n사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!해설: 사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!\n\n17학번 장우임 교수님17학번 장우임 교수님",
+    "explanationOfficial": "답 : 5\n\n사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!해설: 사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n답 : 5\n\n사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!해설: 사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!\n\n17학번 장우임 교수님17학번 장우임 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n답 : 5\n\n사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!해설: 사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_1/image6.jpeg",
     "images": [
       "images/thu0910_1/image6.jpeg"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n답 : 5\n\n사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!해설: 사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!\n\n17학번 장우임 교수님17학번 장우임 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n답 : 5\n\n사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!해설: 사진을 보고 Fatty liver인 것을 알면 됩니다. 올해는 유발 약물로 Amiodarone, valproic acid, methotrexate, tamoxifen을 배웠습니다.작야: 이때는 지방간을 또 세부적으로 나눠서 유발 약물을 다르게 배웠습니다.. 우리는 그냥 valproic acid라고 골라야합 니다!"
   },
   {
     "id": "thu1_q09",
@@ -10896,14 +10896,14 @@ const QUESTIONS = [
     ],
     "answerText": "1번, 6번, 8번",
     "isMultipleChoice": true,
-    "explanationOfficial": "해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.답: 1, 6, 8해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.\n\n16학번 장우임 교수님16학번 장우임 교수님",
+    "explanationOfficial": "해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.답: 1, 6, 8해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.답: 1, 6, 8해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.\n\n16학번 장우임 교수님16학번 장우임 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.답: 1, 6, 8해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.답: 1, 6, 8해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.\n\n16학번 장우임 교수님16학번 장우임 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다.답: 1, 6, 8해설: 잠복기가 짧고 용량 의존성이 있으므로 내인성(intrinsic) 간손상입니다. Acetaminophen만 배웠고, 표에는amiodarone, valproate, methotrexate도 있습니다.작야: 아무래도 내인성 간손상에 대한 설명인 것 같습니다. 저희는 acetaminophen만 배웠습니다."
   },
   {
     "id": "thu1_q11",
@@ -11073,14 +11073,14 @@ const QUESTIONS = [
     ],
     "answerText": "2번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.답: 2번해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.\n\n15학번 장우임 교수님15학번 장우임 교수님",
+    "explanationOfficial": "해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.답: 2번해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.답: 2번해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.\n\n15학번 장우임 교수님15학번 장우임 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.답: 2번해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.답: 2번해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.\n\n15학번 장우임 교수님15학번 장우임 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다.답: 2번해설: 보기 중 Acetaminophen 치료에서 배운 것에 해당하는 게 N-acetylcysteine밖에 없고, 답입니다. 밑의 작야 해설 참고 해주세요.작야: 복용 후 시간이 나오지 않아 확실하지 않습니다.. 하지만 PT INR이 앞의 문제보다 확실히 작습니다. 따라서 이번에 는 hepatic failure가 오지 않았다고 판단하고 NAC를 투여할 수 있을 것 같습니다."
   },
   {
     "id": "thu1_q16",
@@ -11113,14 +11113,14 @@ const QUESTIONS = [
     ],
     "answerText": "3번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity답: 3해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity\n\n<종합평가> - X\n\n14학번 장우임 교수님14학번 장우임 교수님",
+    "explanationOfficial": "해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity답: 3해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity\n\n<종합평가> - X",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity답: 3해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity\n\n<종합평가> - X\n\n14학번 장우임 교수님14학번 장우임 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity답: 3해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity\n\n<종합평가> - X",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity답: 3해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity\n\n<종합평가> - X\n\n14학번 장우임 교수님14학번 장우임 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity답: 3해설: 내인성 간독성이 용량 의존성이 있고, 잠복 기간이 짧다는 것, 특발성 간독성에 isoniazid가 해당함을 배웠습니다. 파드 해설: 3번 빼고는 다 idiosyncratic hepatotoxicity\n\n<종합평가> - X"
   },
   {
     "id": "thu1_q17",
@@ -13696,14 +13696,14 @@ const QUESTIONS = [
     ],
     "answerText": "1번",
     "isMultipleChoice": false,
-    "explanationOfficial": "복수는 타진을 통해 진단합니다. 이동탁음에 대해선 구체적 언급은 없으셨으나 1차 범위 내용으로 풀수 있습니다.\n\n17학번 송도선 교수님",
+    "explanationOfficial": "복수는 타진을 통해 진단합니다. 이동탁음에 대해선 구체적 언급은 없으셨으나 1차 범위 내용으로 풀수 있습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n복수는 타진을 통해 진단합니다. 이동탁음에 대해선 구체적 언급은 없으셨으나 1차 범위 내용으로 풀수 있습니다.\n\n17학번 송도선 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n복수는 타진을 통해 진단합니다. 이동탁음에 대해선 구체적 언급은 없으셨으나 1차 범위 내용으로 풀수 있습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n복수는 타진을 통해 진단합니다. 이동탁음에 대해선 구체적 언급은 없으셨으나 1차 범위 내용으로 풀수 있습니다.\n\n17학번 송도선 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n복수는 타진을 통해 진단합니다. 이동탁음에 대해선 구체적 언급은 없으셨으나 1차 범위 내용으로 풀수 있습니다."
   },
   {
     "id": "thu56_5_q04",
@@ -13806,9 +13806,9 @@ const QUESTIONS = [
     ],
     "answerText": "1번",
     "isMultipleChoice": false,
-    "explanationOfficial": "수업 중 짧게 이야기 하고 넘어가신 부분입니다. 총 5가지의 문맥 고혈압의 발생 위치에 대한 분류 중 간경변은 sinusoidal입니다. 1번 알코올 간염의 경우에도 간경변을 유발할 수 있습니다.\n\n21학번 송명준 교수님 (소화기2차)",
+    "explanationOfficial": "수업 중 짧게 이야기 하고 넘어가신 부분입니다. 총 5가지의 문맥 고혈압의 발생 위치에 대한 분류 중 간경변은 sinusoidal입니다. 1번 알코올 간염의 경우에도 간경변을 유발할 수 있습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n수업 중 짧게 이야기 하고 넘어가신 부분입니다. 총 5가지의 문맥 고혈압의 발생 위치에 대한 분류 중 간경변은 sinusoidal입니다. 1번 알코올 간염의 경우에도 간경변을 유발할 수 있습니다.\n\n21학번 송명준 교수님 (소화기2차)",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n수업 중 짧게 이야기 하고 넘어가신 부분입니다. 총 5가지의 문맥 고혈압의 발생 위치에 대한 분류 중 간경변은 sinusoidal입니다. 1번 알코올 간염의 경우에도 간경변을 유발할 수 있습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_5/image2.png",
@@ -13817,7 +13817,7 @@ const QUESTIONS = [
       "images/thu0910_5/image2.png",
       "images/thu0910_5/image2.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n수업 중 짧게 이야기 하고 넘어가신 부분입니다. 총 5가지의 문맥 고혈압의 발생 위치에 대한 분류 중 간경변은 sinusoidal입니다. 1번 알코올 간염의 경우에도 간경변을 유발할 수 있습니다.\n\n21학번 송명준 교수님 (소화기2차)"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n수업 중 짧게 이야기 하고 넘어가신 부분입니다. 총 5가지의 문맥 고혈압의 발생 위치에 대한 분류 중 간경변은 sinusoidal입니다. 1번 알코올 간염의 경우에도 간경변을 유발할 수 있습니다."
   },
   {
     "id": "thu56_5_q07",
@@ -13882,16 +13882,16 @@ const QUESTIONS = [
     ],
     "answerText": "2번",
     "isMultipleChoice": false,
-    "explanationOfficial": ") 본 증례는 간경변증 환자에서 식도 정맥류 출혈에 대한 급성기 치료에 대한 문제로 내시경 정맥류 결찰술을 하고 추후 비선택제 베타차단제를 추가하여 정맥류 출혈을 예방한다.\n\n20학번 송명준 교수님 (소화기2차)",
+    "explanationOfficial": ") 본 증례는 간경변증 환자에서 식도 정맥류 출혈에 대한 급성기 치료에 대한 문제로 내시경 정맥류 결찰술을 하고 추후 비선택제 베타차단제를 추가하여 정맥류 출혈을 예방한다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n) 본 증례는 간경변증 환자에서 식도 정맥류 출혈에 대한 급성기 치료에 대한 문제로 내시경 정맥류 결찰술을 하고 추후 비선택제 베타차단제를 추가하여 정맥류 출혈을 예방한다.\n\n20학번 송명준 교수님 (소화기2차)",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n) 본 증례는 간경변증 환자에서 식도 정맥류 출혈에 대한 급성기 치료에 대한 문제로 내시경 정맥류 결찰술을 하고 추후 비선택제 베타차단제를 추가하여 정맥류 출혈을 예방한다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_5/image4.png",
     "images": [
       "images/thu0910_5/image4.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n) 본 증례는 간경변증 환자에서 식도 정맥류 출혈에 대한 급성기 치료에 대한 문제로 내시경 정맥류 결찰술을 하고 추후 비선택제 베타차단제를 추가하여 정맥류 출혈을 예방한다.\n\n20학번 송명준 교수님 (소화기2차)"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n) 본 증례는 간경변증 환자에서 식도 정맥류 출혈에 대한 급성기 치료에 대한 문제로 내시경 정맥류 결찰술을 하고 추후 비선택제 베타차단제를 추가하여 정맥류 출혈을 예방한다."
   },
   {
     "id": "thu56_5_q09",
@@ -13956,14 +13956,14 @@ const QUESTIONS = [
     ],
     "answerText": "4번",
     "isMultipleChoice": false,
-    "explanationOfficial": "공식해설)알부민 3점 빌리루빈:3점 PT-INR:2점 복수 :3점 간성혼수:1점 총점 12점\n\n13학번 송명준 교수님",
+    "explanationOfficial": "공식해설)알부민 3점 빌리루빈:3점 PT-INR:2점 복수 :3점 간성혼수:1점 총점 12점",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n공식해설)알부민 3점 빌리루빈:3점 PT-INR:2점 복수 :3점 간성혼수:1점 총점 12점\n\n13학번 송명준 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n공식해설)알부민 3점 빌리루빈:3점 PT-INR:2점 복수 :3점 간성혼수:1점 총점 12점",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n공식해설)알부민 3점 빌리루빈:3점 PT-INR:2점 복수 :3점 간성혼수:1점 총점 12점\n\n13학번 송명준 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n공식해설)알부민 3점 빌리루빈:3점 PT-INR:2점 복수 :3점 간성혼수:1점 총점 12점"
   },
   {
     "id": "thu56_5_q11",
@@ -14175,9 +14175,9 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "짤\n\n16학번 양진모 교수님\n\n??세 남자 환자가 황달과 복부팽만로 병원에 왔다. 퍼덕이기 진전은 없었다. 환자의 혈액검사와 복부 컴퓨터 단층촬영 사건은 다음과 같\n\n다. 이 환자의 Child Pugh score는?\n\nWBC 3,520/mm3 Hb 10.2g/dL, PLT 93,000mm3, PT INR 1.9, Bilirubin 12.1mg/dL, Albumin 2.6g/dL, AST/ALT 113/85 IU/L BUN 19.3mg/dL, Cr 0.8 mg/dL\n\n1) 6\n\n2) 8\n\n3) 10\n\n4) 12\n\n5) 14",
+    "explanationOfficial": "간경변증 환자에서 혈청 나트륨 120mmol/L (저나트륨혈증) 소견은 나쁜 예후를 시사합니다. (기출 짤 문항)",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n짤\n\n16학번 양진모 교수님\n\n??세 남자 환자가 황달과 복부팽만로 병원에 왔다. 퍼덕이기 진전은 없었다. 환자의 혈액검사와 복부 컴퓨터 단층촬영 사건은 다음과 같\n\n다. 이 환자의 Child Pugh score는?\n\nWBC 3,520/mm3 Hb 10.2g/dL, PLT 93,000mm3, PT INR 1.9, Bilirubin 12.1mg/dL, Albumin 2.6g/dL, AST/ALT 113/85 IU/L BUN 19.3mg/dL, Cr 0.8 mg/dL\n\n1) 6\n\n2) 8\n\n3) 10\n\n4) 12\n\n5) 14",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n간경변증 환자에서 혈청 나트륨 120mmol/L (저나트륨혈증) 소견은 나쁜 예후를 시사합니다. (기출 짤 문항)",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_5/image1.png",
@@ -14186,7 +14186,7 @@ const QUESTIONS = [
       "images/thu0910_5/image1.png",
       "images/thu0910_5/image6.jpeg"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n짤\n\n16학번 양진모 교수님\n\n??세 남자 환자가 황달과 복부팽만로 병원에 왔다. 퍼덕이기 진전은 없었다. 환자의 혈액검사와 복부 컴퓨터 단층촬영 사건은 다음과 같\n\n다. 이 환자의 Child Pugh score는?\n\nWBC 3,520/mm3 Hb 10.2g/dL, PLT 93,000mm3, PT INR 1.9, Bilirubin 12.1mg/dL, Albumin 2.6g/dL, AST/ALT 113/85 IU/L BUN 19.3mg/dL, Cr 0.8 mg/dL\n\n1) 6\n\n2) 8\n\n3) 10\n\n4) 12\n\n5) 14"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n간경변증 환자에서 혈청 나트륨 120mmol/L (저나트륨혈증) 소견은 나쁜 예후를 시사합니다. (기출 짤 문항)"
   },
   {
     "id": "thu56_5_q17",
@@ -14214,9 +14214,9 @@ const QUESTIONS = [
     ],
     "answerText": "4번",
     "isMultipleChoice": false,
-    "explanationOfficial": "빌리루빈 3점 PT INR 2점 알부민 3점 복수 3점 간성뇌증 1점\n\n15학번 양진모 교수님",
+    "explanationOfficial": "빌리루빈 3점 PT INR 2점 알부민 3점 복수 3점 간성뇌증 1점",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n빌리루빈 3점 PT INR 2점 알부민 3점 복수 3점 간성뇌증 1점\n\n15학번 양진모 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n빌리루빈 3점 PT INR 2점 알부민 3점 복수 3점 간성뇌증 1점",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_5/image1.png",
@@ -14224,7 +14224,7 @@ const QUESTIONS = [
       "images/thu0910_5/image1.png",
       "images/thu0910_5/image7.jpeg"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n빌리루빈 3점 PT INR 2점 알부민 3점 복수 3점 간성뇌증 1점\n\n15학번 양진모 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n빌리루빈 3점 PT INR 2점 알부민 3점 복수 3점 간성뇌증 1점"
   },
   {
     "id": "thu56_5_q18",
@@ -14399,9 +14399,9 @@ const QUESTIONS = [
     ],
     "answerText": "1번",
     "isMultipleChoice": false,
-    "explanationOfficial": "간질환 등급 결정을 위해 필요한 검사라는 게 말이 애매하긴 한데 아마 차일드 퍼 스코어에서 측정하는 항목을 묻는 문항인 듯 합니다.\n\n14학번 조세현 교수님",
+    "explanationOfficial": "간질환 등급 결정을 위해 필요한 검사라는 게 말이 애매하긴 한데 아마 차일드 퍼 스코어에서 측정하는 항목을 묻는 문항인 듯 합니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n간질환 등급 결정을 위해 필요한 검사라는 게 말이 애매하긴 한데 아마 차일드 퍼 스코어에서 측정하는 항목을 묻는 문항인 듯 합니다.\n\n14학번 조세현 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n간질환 등급 결정을 위해 필요한 검사라는 게 말이 애매하긴 한데 아마 차일드 퍼 스코어에서 측정하는 항목을 묻는 문항인 듯 합니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_5/image1.png",
@@ -14409,7 +14409,7 @@ const QUESTIONS = [
       "images/thu0910_5/image1.png",
       "images/thu0910_5/image1.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n간질환 등급 결정을 위해 필요한 검사라는 게 말이 애매하긴 한데 아마 차일드 퍼 스코어에서 측정하는 항목을 묻는 문항인 듯 합니다.\n\n14학번 조세현 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n간질환 등급 결정을 위해 필요한 검사라는 게 말이 애매하긴 한데 아마 차일드 퍼 스코어에서 측정하는 항목을 묻는 문항인 듯 합니다."
   },
   {
     "id": "thu56_5_q23",
@@ -14437,9 +14437,9 @@ const QUESTIONS = [
     ],
     "answerText": "1번",
     "isMultipleChoice": false,
-    "explanationOfficial": "누가봐도 간경변입니다. 가장 먼저하고 많이하는 검사가 초음파였죠.\n\n14학번 양진모 교수님",
+    "explanationOfficial": "누가봐도 간경변입니다. 가장 먼저하고 많이하는 검사가 초음파였죠.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n누가봐도 간경변입니다. 가장 먼저하고 많이하는 검사가 초음파였죠.\n\n14학번 양진모 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n누가봐도 간경변입니다. 가장 먼저하고 많이하는 검사가 초음파였죠.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_5/image8.jpeg",
@@ -14448,7 +14448,7 @@ const QUESTIONS = [
       "images/thu0910_5/image1.png",
       "images/thu0910_5/image1.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n누가봐도 간경변입니다. 가장 먼저하고 많이하는 검사가 초음파였죠.\n\n14학번 양진모 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n누가봐도 간경변입니다. 가장 먼저하고 많이하는 검사가 초음파였죠."
   },
   {
     "id": "thu56_5_q24",
@@ -14581,9 +14581,9 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "AST>ALT는 직접적으로 언급하시진 않았지만 PBL때 알코올성 간질환에서 흔히 볼 수 있는 검사 소견으로 배웠습니다. 범혈구 감소증이 발생하기 때문에 5번은 대놓고 틀렸네요\n\n13학번 양진모 교수님",
+    "explanationOfficial": "AST>ALT는 직접적으로 언급하시진 않았지만 PBL때 알코올성 간질환에서 흔히 볼 수 있는 검사 소견으로 배웠습니다. 범혈구 감소증이 발생하기 때문에 5번은 대놓고 틀렸네요",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\nAST>ALT는 직접적으로 언급하시진 않았지만 PBL때 알코올성 간질환에서 흔히 볼 수 있는 검사 소견으로 배웠습니다. 범혈구 감소증이 발생하기 때문에 5번은 대놓고 틀렸네요\n\n13학번 양진모 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\nAST>ALT는 직접적으로 언급하시진 않았지만 PBL때 알코올성 간질환에서 흔히 볼 수 있는 검사 소견으로 배웠습니다. 범혈구 감소증이 발생하기 때문에 5번은 대놓고 틀렸네요",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/thu0910_5/image1.png",
@@ -14591,7 +14591,7 @@ const QUESTIONS = [
       "images/thu0910_5/image1.png",
       "images/thu0910_5/image1.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\nAST>ALT는 직접적으로 언급하시진 않았지만 PBL때 알코올성 간질환에서 흔히 볼 수 있는 검사 소견으로 배웠습니다. 범혈구 감소증이 발생하기 때문에 5번은 대놓고 틀렸네요\n\n13학번 양진모 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\nAST>ALT는 직접적으로 언급하시진 않았지만 PBL때 알코올성 간질환에서 흔히 볼 수 있는 검사 소견으로 배웠습니다. 범혈구 감소증이 발생하기 때문에 5번은 대놓고 틀렸네요"
   },
   {
     "id": "thu56_5_q28",
@@ -14767,14 +14767,14 @@ const QUESTIONS = [
     ],
     "answerText": "4번",
     "isMultipleChoice": false,
-    "explanationOfficial": "알부민 3 빌리루빈 3 PT 2 복수3 뇌증1\n\n10학번 양진모 교수님",
+    "explanationOfficial": "알부민 3 빌리루빈 3 PT 2 복수3 뇌증1",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n알부민 3 빌리루빈 3 PT 2 복수3 뇌증1\n\n10학번 양진모 교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n알부민 3 빌리루빈 3 PT 2 복수3 뇌증1",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n알부민 3 빌리루빈 3 PT 2 복수3 뇌증1\n\n10학번 양진모 교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목5,6] 간경변 합병증 기출]\n\n알부민 3 빌리루빈 3 PT 2 복수3 뇌증1"
   },
   {
     "id": "thu56_5_q33",
@@ -18319,14 +18319,14 @@ const QUESTIONS = [
     ],
     "answerText": "4번",
     "isMultipleChoice": false,
-    "explanationOfficial": "(공식해설) 구리 대사 이상으로 구리가 축적되어 주로 간과 뇌에 구리 독성이 나타나는 질환으로 윌슨병에 해당한다. 증례에서 혈중 Ceruloplasmin 농도가 저하되어 있으며, 소변 구리 농도가 증가되어 있어 윌슨병으로 진단이 가능하다. 윌슨병의 치료에는 Zinc 혹은 Penicillamine이 활용될 수 있다. 19학번에서는 윌슨병으로 진단되었다는 발문 없이 출제되었지만, Lab 결과를 통해 윌슨병을 진단할 수 있습니다.\n\n무증상의 27세 남자가 건강검진 이상소견으로 내원하였다. 특이 기저질환은 동반되지 않았으며, 음주 및 약물 복용력은 없었다. 신체 검사에서도 특이소견은 없었으며, 혈액검사 결과는 다음과 같았다. 복부 초음파에서도 간 및 담도의 이상 소견은 관찰되지 않았다. 본 증례에 해당하는 질환에 대한 설명으로 올바른 것은 무엇인가? (20학번  총시 짤)",
+    "explanationOfficial": "(공식해설) 구리 대사 이상으로 구리가 축적되어 주로 간과 뇌에 구리 독성이 나타나는 질환으로 윌슨병에 해당한다. 증례에서 혈중 Ceruloplasmin 농도가 저하되어 있으며, 소변 구리 농도가 증가되어 있어 윌슨병으로 진단이 가능하다. 윌슨병의 치료에는 Zinc 혹은 Penicillamine이 활용될 수 있다. 19학번에서는 윌슨병으로 진단되었다는 발문 없이 출제되었지만, Lab 결과를 통해 윌슨병을 진단할 수 있습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목8] 대사성 간질환 기출]\n\n(공식해설) 구리 대사 이상으로 구리가 축적되어 주로 간과 뇌에 구리 독성이 나타나는 질환으로 윌슨병에 해당한다. 증례에서 혈중 Ceruloplasmin 농도가 저하되어 있으며, 소변 구리 농도가 증가되어 있어 윌슨병으로 진단이 가능하다. 윌슨병의 치료에는 Zinc 혹은 Penicillamine이 활용될 수 있다. 19학번에서는 윌슨병으로 진단되었다는 발문 없이 출제되었지만, Lab 결과를 통해 윌슨병을 진단할 수 있습니다.\n\n무증상의 27세 남자가 건강검진 이상소견으로 내원하였다. 특이 기저질환은 동반되지 않았으며, 음주 및 약물 복용력은 없었다. 신체 검사에서도 특이소견은 없었으며, 혈액검사 결과는 다음과 같았다. 복부 초음파에서도 간 및 담도의 이상 소견은 관찰되지 않았다. 본 증례에 해당하는 질환에 대한 설명으로 올바른 것은 무엇인가? (20학번  총시 짤)",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목8] 대사성 간질환 기출]\n\n(공식해설) 구리 대사 이상으로 구리가 축적되어 주로 간과 뇌에 구리 독성이 나타나는 질환으로 윌슨병에 해당한다. 증례에서 혈중 Ceruloplasmin 농도가 저하되어 있으며, 소변 구리 농도가 증가되어 있어 윌슨병으로 진단이 가능하다. 윌슨병의 치료에는 Zinc 혹은 Penicillamine이 활용될 수 있다. 19학번에서는 윌슨병으로 진단되었다는 발문 없이 출제되었지만, Lab 결과를 통해 윌슨병을 진단할 수 있습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목8] 대사성 간질환 기출]\n\n(공식해설) 구리 대사 이상으로 구리가 축적되어 주로 간과 뇌에 구리 독성이 나타나는 질환으로 윌슨병에 해당한다. 증례에서 혈중 Ceruloplasmin 농도가 저하되어 있으며, 소변 구리 농도가 증가되어 있어 윌슨병으로 진단이 가능하다. 윌슨병의 치료에는 Zinc 혹은 Penicillamine이 활용될 수 있다. 19학번에서는 윌슨병으로 진단되었다는 발문 없이 출제되었지만, Lab 결과를 통해 윌슨병을 진단할 수 있습니다.\n\n무증상의 27세 남자가 건강검진 이상소견으로 내원하였다. 특이 기저질환은 동반되지 않았으며, 음주 및 약물 복용력은 없었다. 신체 검사에서도 특이소견은 없었으며, 혈액검사 결과는 다음과 같았다. 복부 초음파에서도 간 및 담도의 이상 소견은 관찰되지 않았다. 본 증례에 해당하는 질환에 대한 설명으로 올바른 것은 무엇인가? (20학번  총시 짤)"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목8] 대사성 간질환 기출]\n\n(공식해설) 구리 대사 이상으로 구리가 축적되어 주로 간과 뇌에 구리 독성이 나타나는 질환으로 윌슨병에 해당한다. 증례에서 혈중 Ceruloplasmin 농도가 저하되어 있으며, 소변 구리 농도가 증가되어 있어 윌슨병으로 진단이 가능하다. 윌슨병의 치료에는 Zinc 혹은 Penicillamine이 활용될 수 있다. 19학번에서는 윌슨병으로 진단되었다는 발문 없이 출제되었지만, Lab 결과를 통해 윌슨병을 진단할 수 있습니다."
   },
   {
     "id": "thu8_q02",
@@ -27350,14 +27350,14 @@ const QUESTIONS = [
     ],
     "answerText": "2번",
     "isMultipleChoice": false,
-    "explanationOfficial": "Kocher maneuver는 Duodenum과 Head of pancreas를 후복막에서 박리하여 오른쪽으로 회전시키는 술기로, 이로 인해 후복막 구조물들이 노출됨. 이 maneuver를 시행하면 후복막에 위치한 구조물들, 특히 하대정맥(inferior vena cava), 오른쪽 신정맥(right renal vein), 상장간막정맥(superior mesenteric vein), 상장간막동맥(superior mesenteric artery) 등이 시야에 들어옴. Superior mesenteric vein은 췌장의 후방을 지나면서 portal vein을 형성하는 주요 구조물로, Kocher maneuver 시에 가장 먼저 확인되는 혈관 구조물 중 하나임.\n\n20학번 김세준교수님\n\n누락이라고 합니다..\n\n19학번 김세준교수님",
+    "explanationOfficial": "Kocher maneuver는 Duodenum과 Head of pancreas를 후복막에서 박리하여 오른쪽으로 회전시키는 술기로, 이로 인해 후복막 구조물들이 노출됨. 이 maneuver를 시행하면 후복막에 위치한 구조물들, 특히 하대정맥(inferior vena cava), 오른쪽 신정맥(right renal vein), 상장간막정맥(superior mesenteric vein), 상장간막동맥(superior mesenteric artery) 등이 시야에 들어옴. Superior mesenteric vein은 췌장의 후방을 지나면서 portal vein을 형성하는 주요 구조물로, Kocher maneuver 시에 가장 먼저 확인되는 혈관 구조물 중 하나임.\n\n20학번 김세준교수님\n\n누락이라고 합니다..",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nKocher maneuver는 Duodenum과 Head of pancreas를 후복막에서 박리하여 오른쪽으로 회전시키는 술기로, 이로 인해 후복막 구조물들이 노출됨. 이 maneuver를 시행하면 후복막에 위치한 구조물들, 특히 하대정맥(inferior vena cava), 오른쪽 신정맥(right renal vein), 상장간막정맥(superior mesenteric vein), 상장간막동맥(superior mesenteric artery) 등이 시야에 들어옴. Superior mesenteric vein은 췌장의 후방을 지나면서 portal vein을 형성하는 주요 구조물로, Kocher maneuver 시에 가장 먼저 확인되는 혈관 구조물 중 하나임.\n\n20학번 김세준교수님\n\n누락이라고 합니다..\n\n19학번 김세준교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nKocher maneuver는 Duodenum과 Head of pancreas를 후복막에서 박리하여 오른쪽으로 회전시키는 술기로, 이로 인해 후복막 구조물들이 노출됨. 이 maneuver를 시행하면 후복막에 위치한 구조물들, 특히 하대정맥(inferior vena cava), 오른쪽 신정맥(right renal vein), 상장간막정맥(superior mesenteric vein), 상장간막동맥(superior mesenteric artery) 등이 시야에 들어옴. Superior mesenteric vein은 췌장의 후방을 지나면서 portal vein을 형성하는 주요 구조물로, Kocher maneuver 시에 가장 먼저 확인되는 혈관 구조물 중 하나임.\n\n20학번 김세준교수님\n\n누락이라고 합니다..",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nKocher maneuver는 Duodenum과 Head of pancreas를 후복막에서 박리하여 오른쪽으로 회전시키는 술기로, 이로 인해 후복막 구조물들이 노출됨. 이 maneuver를 시행하면 후복막에 위치한 구조물들, 특히 하대정맥(inferior vena cava), 오른쪽 신정맥(right renal vein), 상장간막정맥(superior mesenteric vein), 상장간막동맥(superior mesenteric artery) 등이 시야에 들어옴. Superior mesenteric vein은 췌장의 후방을 지나면서 portal vein을 형성하는 주요 구조물로, Kocher maneuver 시에 가장 먼저 확인되는 혈관 구조물 중 하나임.\n\n20학번 김세준교수님\n\n누락이라고 합니다..\n\n19학번 김세준교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nKocher maneuver는 Duodenum과 Head of pancreas를 후복막에서 박리하여 오른쪽으로 회전시키는 술기로, 이로 인해 후복막 구조물들이 노출됨. 이 maneuver를 시행하면 후복막에 위치한 구조물들, 특히 하대정맥(inferior vena cava), 오른쪽 신정맥(right renal vein), 상장간막정맥(superior mesenteric vein), 상장간막동맥(superior mesenteric artery) 등이 시야에 들어옴. Superior mesenteric vein은 췌장의 후방을 지나면서 portal vein을 형성하는 주요 구조물로, Kocher maneuver 시에 가장 먼저 확인되는 혈관 구조물 중 하나임.\n\n20학번 김세준교수님\n\n누락이라고 합니다.."
   },
   {
     "id": "fri3_q03",
@@ -27385,16 +27385,16 @@ const QUESTIONS = [
     ],
     "answerText": "4번",
     "isMultipleChoice": false,
-    "explanationOfficial": "교수님이 말씀하신 GB fossa 나 rt. kidney 는 보이지 않습니다.\n\n그러나 hepatic v.이 수평하게 가지 않으므로 간우엽의 아래쪽, posterior segment, 즉 s 6 임을 알 수 있습니다.\n\nkidney 가 보이지 않아 7 이라는 주장이 있었으나, 사진에 앞쪽 간이 보이지 않기 때문에 6 이라고 합니다.\n\n17학번 김세준교수님",
+    "explanationOfficial": "교수님이 말씀하신 GB fossa 나 rt. kidney 는 보이지 않습니다.\n\n그러나 hepatic v.이 수평하게 가지 않으므로 간우엽의 아래쪽, posterior segment, 즉 s 6 임을 알 수 있습니다.\n\nkidney 가 보이지 않아 7 이라는 주장이 있었으나, 사진에 앞쪽 간이 보이지 않기 때문에 6 이라고 합니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n교수님이 말씀하신 GB fossa 나 rt. kidney 는 보이지 않습니다.\n\n그러나 hepatic v.이 수평하게 가지 않으므로 간우엽의 아래쪽, posterior segment, 즉 s 6 임을 알 수 있습니다.\n\nkidney 가 보이지 않아 7 이라는 주장이 있었으나, 사진에 앞쪽 간이 보이지 않기 때문에 6 이라고 합니다.\n\n17학번 김세준교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n교수님이 말씀하신 GB fossa 나 rt. kidney 는 보이지 않습니다.\n\n그러나 hepatic v.이 수평하게 가지 않으므로 간우엽의 아래쪽, posterior segment, 즉 s 6 임을 알 수 있습니다.\n\nkidney 가 보이지 않아 7 이라는 주장이 있었으나, 사진에 앞쪽 간이 보이지 않기 때문에 6 이라고 합니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/fri0911_3/image2.png",
     "images": [
       "images/fri0911_3/image2.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n교수님이 말씀하신 GB fossa 나 rt. kidney 는 보이지 않습니다.\n\n그러나 hepatic v.이 수평하게 가지 않으므로 간우엽의 아래쪽, posterior segment, 즉 s 6 임을 알 수 있습니다.\n\nkidney 가 보이지 않아 7 이라는 주장이 있었으나, 사진에 앞쪽 간이 보이지 않기 때문에 6 이라고 합니다.\n\n17학번 김세준교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n교수님이 말씀하신 GB fossa 나 rt. kidney 는 보이지 않습니다.\n\n그러나 hepatic v.이 수평하게 가지 않으므로 간우엽의 아래쪽, posterior segment, 즉 s 6 임을 알 수 있습니다.\n\nkidney 가 보이지 않아 7 이라는 주장이 있었으나, 사진에 앞쪽 간이 보이지 않기 때문에 6 이라고 합니다."
   },
   {
     "id": "fri3_q04",
@@ -27527,16 +27527,16 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "복강경을 통한 간구역절제술 시 caudate lobe 가 가장 접근이 힘들고, 다음으로 간의 윗쪽 구역에 접근하기 힘듭니다.\n\n간의 윗쪽 구역에는 s2,7,8 이 있습니다.\n\n16학번 김세준교수님",
+    "explanationOfficial": "복강경을 통한 간구역절제술 시 caudate lobe 가 가장 접근이 힘들고, 다음으로 간의 윗쪽 구역에 접근하기 힘듭니다.\n\n간의 윗쪽 구역에는 s2,7,8 이 있습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n복강경을 통한 간구역절제술 시 caudate lobe 가 가장 접근이 힘들고, 다음으로 간의 윗쪽 구역에 접근하기 힘듭니다.\n\n간의 윗쪽 구역에는 s2,7,8 이 있습니다.\n\n16학번 김세준교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n복강경을 통한 간구역절제술 시 caudate lobe 가 가장 접근이 힘들고, 다음으로 간의 윗쪽 구역에 접근하기 힘듭니다.\n\n간의 윗쪽 구역에는 s2,7,8 이 있습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/fri0911_3/image3.png",
     "images": [
       "images/fri0911_3/image3.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n복강경을 통한 간구역절제술 시 caudate lobe 가 가장 접근이 힘들고, 다음으로 간의 윗쪽 구역에 접근하기 힘듭니다.\n\n간의 윗쪽 구역에는 s2,7,8 이 있습니다.\n\n16학번 김세준교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n복강경을 통한 간구역절제술 시 caudate lobe 가 가장 접근이 힘들고, 다음으로 간의 윗쪽 구역에 접근하기 힘듭니다.\n\n간의 윗쪽 구역에는 s2,7,8 이 있습니다."
   },
   {
     "id": "fri3_q08",
@@ -27599,14 +27599,14 @@ const QUESTIONS = [
     ],
     "answerText": "3번",
     "isMultipleChoice": false,
-    "explanationOfficial": "퀴즈 문제입니다. 중간 간정맥과 인접한 구역은 s 4,5,8 입니다.\n\n15학번 김세준교수님",
+    "explanationOfficial": "퀴즈 문제입니다. 중간 간정맥과 인접한 구역은 s 4,5,8 입니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n퀴즈 문제입니다. 중간 간정맥과 인접한 구역은 s 4,5,8 입니다.\n\n15학번 김세준교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n퀴즈 문제입니다. 중간 간정맥과 인접한 구역은 s 4,5,8 입니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n퀴즈 문제입니다. 중간 간정맥과 인접한 구역은 s 4,5,8 입니다.\n\n15학번 김세준교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n퀴즈 문제입니다. 중간 간정맥과 인접한 구역은 s 4,5,8 입니다."
   },
   {
     "id": "fri3_q10",
@@ -27634,16 +27634,16 @@ const QUESTIONS = [
     ],
     "answerText": "1번",
     "isMultipleChoice": false,
-    "explanationOfficial": "Gastroduodenal a.가 분지되기 전 결찰하면 SMA 와의 문합으로 인해 간으로의 혈류가 보존됩니다.\n\n-> common hepatic a.에서 결찰해도 간으로의 혈류가 보존됩니다.\n\n14학번 김세준교수님",
+    "explanationOfficial": "Gastroduodenal a.가 분지되기 전 결찰하면 SMA 와의 문합으로 인해 간으로의 혈류가 보존됩니다.\n\n-> common hepatic a.에서 결찰해도 간으로의 혈류가 보존됩니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nGastroduodenal a.가 분지되기 전 결찰하면 SMA 와의 문합으로 인해 간으로의 혈류가 보존됩니다.\n\n-> common hepatic a.에서 결찰해도 간으로의 혈류가 보존됩니다.\n\n14학번 김세준교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nGastroduodenal a.가 분지되기 전 결찰하면 SMA 와의 문합으로 인해 간으로의 혈류가 보존됩니다.\n\n-> common hepatic a.에서 결찰해도 간으로의 혈류가 보존됩니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/fri0911_3/image4.png",
     "images": [
       "images/fri0911_3/image4.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nGastroduodenal a.가 분지되기 전 결찰하면 SMA 와의 문합으로 인해 간으로의 혈류가 보존됩니다.\n\n-> common hepatic a.에서 결찰해도 간으로의 혈류가 보존됩니다.\n\n14학번 김세준교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nGastroduodenal a.가 분지되기 전 결찰하면 SMA 와의 문합으로 인해 간으로의 혈류가 보존됩니다.\n\n-> common hepatic a.에서 결찰해도 간으로의 혈류가 보존됩니다."
   },
   {
     "id": "fri3_q11",
@@ -27706,14 +27706,14 @@ const QUESTIONS = [
     ],
     "answerText": "2번",
     "isMultipleChoice": false,
-    "explanationOfficial": "13학번 김세준교수님",
+    "explanationOfficial": "",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nSMV(상장간막정맥)은 췌장의 목(neck) 부위 뒤를 주행하며, 췌장의 머리(head)와 몸통(body)을 구분하는 중요한 해부학적 지표(landmark)입니다. 췌십이지장 절제술(Whipple 수술) 시 SMV에 의해 절제 범위가 결정됩니다.",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\nSMV(상장간막정맥)은 췌장의 목(neck) 부위 뒤를 주행하며, 췌장의 머리(head)와 몸통(body)을 구분하는 중요한 해부학적 지표(landmark)입니다. 췌십이지장 절제술(Whipple 수술) 시 SMV에 의해 절제 범위가 결정됩니다."
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n"
   },
   {
     "id": "fri3_q13",
@@ -27778,14 +27778,14 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "간 우엽의 posterior segment 은 s 6,7 입니다.\n\n10학번 김세준교수님",
+    "explanationOfficial": "간 우엽의 posterior segment 은 s 6,7 입니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n간 우엽의 posterior segment 은 s 6,7 입니다.\n\n10학번 김세준교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n간 우엽의 posterior segment 은 s 6,7 입니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n간 우엽의 posterior segment 은 s 6,7 입니다.\n\n10학번 김세준교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n간 우엽의 posterior segment 은 s 6,7 입니다."
   },
   {
     "id": "fri3_q15",
@@ -27848,14 +27848,14 @@ const QUESTIONS = [
     ],
     "answerText": "2번",
     "isMultipleChoice": false,
-    "explanationOfficial": "올해는 그냥 이런게 있다~정도만 알고 넘어가라고 하셨습니다.위전절제술 시 원위동맥을 결찰하게 되는데, type2 변이의 경우는 왼위동맥에서 왼간동맥이 분지되므로 왼간 허혈이 발생할 수 있다고 합니다.\n\n09학번 김세준교수님",
+    "explanationOfficial": "올해는 그냥 이런게 있다~정도만 알고 넘어가라고 하셨습니다.위전절제술 시 원위동맥을 결찰하게 되는데, type2 변이의 경우는 왼위동맥에서 왼간동맥이 분지되므로 왼간 허혈이 발생할 수 있다고 합니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n올해는 그냥 이런게 있다~정도만 알고 넘어가라고 하셨습니다.위전절제술 시 원위동맥을 결찰하게 되는데, type2 변이의 경우는 왼위동맥에서 왼간동맥이 분지되므로 왼간 허혈이 발생할 수 있다고 합니다.\n\n09학번 김세준교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n올해는 그냥 이런게 있다~정도만 알고 넘어가라고 하셨습니다.위전절제술 시 원위동맥을 결찰하게 되는데, type2 변이의 경우는 왼위동맥에서 왼간동맥이 분지되므로 왼간 허혈이 발생할 수 있다고 합니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n올해는 그냥 이런게 있다~정도만 알고 넘어가라고 하셨습니다.위전절제술 시 원위동맥을 결찰하게 되는데, type2 변이의 경우는 왼위동맥에서 왼간동맥이 분지되므로 왼간 허혈이 발생할 수 있다고 합니다.\n\n09학번 김세준교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금3] 간담췌의 해부학 기출]\n\n올해는 그냥 이런게 있다~정도만 알고 넘어가라고 하셨습니다.위전절제술 시 원위동맥을 결찰하게 되는데, type2 변이의 경우는 왼위동맥에서 왼간동맥이 분지되므로 왼간 허혈이 발생할 수 있다고 합니다."
   },
   {
     "id": "fri3_q17",
@@ -28288,16 +28288,16 @@ const QUESTIONS = [
     ],
     "answerText": "2번",
     "isMultipleChoice": false,
-    "explanationOfficial": "R&B 해설: Varix가 있는 진행성 간암 Atezolizumab + Bevacizumab의 절대 금기 : Varix bleeding  Sorafenib or lenvatinib을 쓰면 된다. 2025년 작성자 해설: 레고라페닙, 카보잔티닙, 라루시루맙은 2nd line 이다.\n\n<간기능 및 혈액 검사 (진단시점)>Child-Pugh score 5, 알파태아단백 100ng/mL<3 주 후 소견>Child-Pugh score 6, 알파태아단백 200ng/mL<간기능 및 혈액 검사 (진단시점)>Child-Pugh score 5, 알파태아단백 100ng/mL<3 주 후 소견>Child-Pugh score 6, 알파태아단백 200ng/mL간세포암종을 진단받은 65 세 여자 환자의 진단시점 소견은 아래와 같다. 이 환자는 sorafenib 치료를 받았으나 약물 부작용으로 3 주 후 치료가 중단되었다. 이 환자의 임상 경과 및 치료 선택 설명으로 옳은 설명은?\n\n단백뇨가 가장 흔한 약제 부작용이다.",
+    "explanationOfficial": "R&B 해설: Varix가 있는 진행성 간암 Atezolizumab + Bevacizumab의 절대 금기 : Varix bleeding  Sorafenib or lenvatinib을 쓰면 된다. 2025년 작성자 해설: 레고라페닙, 카보잔티닙, 라루시루맙은 2nd line 이다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\nR&B 해설: Varix가 있는 진행성 간암 Atezolizumab + Bevacizumab의 절대 금기 : Varix bleeding  Sorafenib or lenvatinib을 쓰면 된다. 2025년 작성자 해설: 레고라페닙, 카보잔티닙, 라루시루맙은 2nd line 이다.\n\n<간기능 및 혈액 검사 (진단시점)>Child-Pugh score 5, 알파태아단백 100ng/mL<3 주 후 소견>Child-Pugh score 6, 알파태아단백 200ng/mL<간기능 및 혈액 검사 (진단시점)>Child-Pugh score 5, 알파태아단백 100ng/mL<3 주 후 소견>Child-Pugh score 6, 알파태아단백 200ng/mL간세포암종을 진단받은 65 세 여자 환자의 진단시점 소견은 아래와 같다. 이 환자는 sorafenib 치료를 받았으나 약물 부작용으로 3 주 후 치료가 중단되었다. 이 환자의 임상 경과 및 치료 선택 설명으로 옳은 설명은?\n\n단백뇨가 가장 흔한 약제 부작용이다.",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\nR&B 해설: Varix가 있는 진행성 간암 Atezolizumab + Bevacizumab의 절대 금기 : Varix bleeding  Sorafenib or lenvatinib을 쓰면 된다. 2025년 작성자 해설: 레고라페닙, 카보잔티닙, 라루시루맙은 2nd line 이다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/fri0911_5/image5.jpeg",
     "images": [
       "images/fri0911_5/image5.jpeg"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\nR&B 해설: Varix가 있는 진행성 간암 Atezolizumab + Bevacizumab의 절대 금기 : Varix bleeding  Sorafenib or lenvatinib을 쓰면 된다. 2025년 작성자 해설: 레고라페닙, 카보잔티닙, 라루시루맙은 2nd line 이다.\n\n<간기능 및 혈액 검사 (진단시점)>Child-Pugh score 5, 알파태아단백 100ng/mL<3 주 후 소견>Child-Pugh score 6, 알파태아단백 200ng/mL<간기능 및 혈액 검사 (진단시점)>Child-Pugh score 5, 알파태아단백 100ng/mL<3 주 후 소견>Child-Pugh score 6, 알파태아단백 200ng/mL간세포암종을 진단받은 65 세 여자 환자의 진단시점 소견은 아래와 같다. 이 환자는 sorafenib 치료를 받았으나 약물 부작용으로 3 주 후 치료가 중단되었다. 이 환자의 임상 경과 및 치료 선택 설명으로 옳은 설명은?\n\n단백뇨가 가장 흔한 약제 부작용이다."
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\nR&B 해설: Varix가 있는 진행성 간암 Atezolizumab + Bevacizumab의 절대 금기 : Varix bleeding  Sorafenib or lenvatinib을 쓰면 된다. 2025년 작성자 해설: 레고라페닙, 카보잔티닙, 라루시루맙은 2nd line 이다."
   },
   {
     "id": "fri5_q06",
@@ -28325,16 +28325,16 @@ const QUESTIONS = [
     ],
     "answerText": "4번",
     "isMultipleChoice": false,
-    "explanationOfficial": "해설 정답률 4%. 1차 치료제 중 가장 좋은 건 Atezo+Beva. 이외 1차 치료제는 sorafenib, lenvatinib이 있다. Sorafenib의 가장 대표적인 부작용은 손발 피부가 벗겨지는 hand-foot syndrome. 영상소견 상 BCLC stage C. HCC의 second-line therapy를 묻는 문제. Regorafenib은 PD가 증명된 환자에게만 쓸 수 있다. Ramucirumab은 AFP가 400 이상일 때만 쓸 수 있다. Cabozantinib은 2차, 3차 치료제로 사용할 수 있다. 3차까지 쓸 수 있는 건 이 약이 유일. 그래서 답이 4 제일 많이 고른 답은 5번. 그러나 Ate+Beva는 이미 sorafenib을 썼기 때문에 쓸 수 없다. 교수님이라면 이차 치료제로 nivolumab을 쓸 것 같다고 하심. 그래도 낫지 않으면 3차로 cabozantinib 밖에 쓸 수 없다고 하심. PD가 증명되었다는 게 정확히 무슨 뜻인지는 모르겠습니다. Regorafenib은 sorafenib과 유사한 분자구조를 가지고 있기 때문에, sorafenib에 약물 부작용을 보이는 환자에게는 regorafenib을 사용할 수 없습니다. 예…. 올해 이렇게 자세히 설명해주시지 않았습니다.\n\n18학번 장정원교수님18학번 장정원교수님",
+    "explanationOfficial": "해설 정답률 4%. 1차 치료제 중 가장 좋은 건 Atezo+Beva. 이외 1차 치료제는 sorafenib, lenvatinib이 있다. Sorafenib의 가장 대표적인 부작용은 손발 피부가 벗겨지는 hand-foot syndrome. 영상소견 상 BCLC stage C. HCC의 second-line therapy를 묻는 문제. Regorafenib은 PD가 증명된 환자에게만 쓸 수 있다. Ramucirumab은 AFP가 400 이상일 때만 쓸 수 있다. Cabozantinib은 2차, 3차 치료제로 사용할 수 있다. 3차까지 쓸 수 있는 건 이 약이 유일. 그래서 답이 4 제일 많이 고른 답은 5번. 그러나 Ate+Beva는 이미 sorafenib을 썼기 때문에 쓸 수 없다. 교수님이라면 이차 치료제로 nivolumab을 쓸 것 같다고 하심. 그래도 낫지 않으면 3차로 cabozantinib 밖에 쓸 수 없다고 하심. PD가 증명되었다는 게 정확히 무슨 뜻인지는 모르겠습니다. Regorafenib은 sorafenib과 유사한 분자구조를 가지고 있기 때문에, sorafenib에 약물 부작용을 보이는 환자에게는 regorafenib을 사용할 수 없습니다. 예…. 올해 이렇게 자세히 설명해주시지 않았습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n해설 정답률 4%. 1차 치료제 중 가장 좋은 건 Atezo+Beva. 이외 1차 치료제는 sorafenib, lenvatinib이 있다. Sorafenib의 가장 대표적인 부작용은 손발 피부가 벗겨지는 hand-foot syndrome. 영상소견 상 BCLC stage C. HCC의 second-line therapy를 묻는 문제. Regorafenib은 PD가 증명된 환자에게만 쓸 수 있다. Ramucirumab은 AFP가 400 이상일 때만 쓸 수 있다. Cabozantinib은 2차, 3차 치료제로 사용할 수 있다. 3차까지 쓸 수 있는 건 이 약이 유일. 그래서 답이 4 제일 많이 고른 답은 5번. 그러나 Ate+Beva는 이미 sorafenib을 썼기 때문에 쓸 수 없다. 교수님이라면 이차 치료제로 nivolumab을 쓸 것 같다고 하심. 그래도 낫지 않으면 3차로 cabozantinib 밖에 쓸 수 없다고 하심. PD가 증명되었다는 게 정확히 무슨 뜻인지는 모르겠습니다. Regorafenib은 sorafenib과 유사한 분자구조를 가지고 있기 때문에, sorafenib에 약물 부작용을 보이는 환자에게는 regorafenib을 사용할 수 없습니다. 예…. 올해 이렇게 자세히 설명해주시지 않았습니다.\n\n18학번 장정원교수님18학번 장정원교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n해설 정답률 4%. 1차 치료제 중 가장 좋은 건 Atezo+Beva. 이외 1차 치료제는 sorafenib, lenvatinib이 있다. Sorafenib의 가장 대표적인 부작용은 손발 피부가 벗겨지는 hand-foot syndrome. 영상소견 상 BCLC stage C. HCC의 second-line therapy를 묻는 문제. Regorafenib은 PD가 증명된 환자에게만 쓸 수 있다. Ramucirumab은 AFP가 400 이상일 때만 쓸 수 있다. Cabozantinib은 2차, 3차 치료제로 사용할 수 있다. 3차까지 쓸 수 있는 건 이 약이 유일. 그래서 답이 4 제일 많이 고른 답은 5번. 그러나 Ate+Beva는 이미 sorafenib을 썼기 때문에 쓸 수 없다. 교수님이라면 이차 치료제로 nivolumab을 쓸 것 같다고 하심. 그래도 낫지 않으면 3차로 cabozantinib 밖에 쓸 수 없다고 하심. PD가 증명되었다는 게 정확히 무슨 뜻인지는 모르겠습니다. Regorafenib은 sorafenib과 유사한 분자구조를 가지고 있기 때문에, sorafenib에 약물 부작용을 보이는 환자에게는 regorafenib을 사용할 수 없습니다. 예…. 올해 이렇게 자세히 설명해주시지 않았습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/fri0911_5/image6.jpeg",
     "images": [
       "images/fri0911_5/image6.jpeg"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n해설 정답률 4%. 1차 치료제 중 가장 좋은 건 Atezo+Beva. 이외 1차 치료제는 sorafenib, lenvatinib이 있다. Sorafenib의 가장 대표적인 부작용은 손발 피부가 벗겨지는 hand-foot syndrome. 영상소견 상 BCLC stage C. HCC의 second-line therapy를 묻는 문제. Regorafenib은 PD가 증명된 환자에게만 쓸 수 있다. Ramucirumab은 AFP가 400 이상일 때만 쓸 수 있다. Cabozantinib은 2차, 3차 치료제로 사용할 수 있다. 3차까지 쓸 수 있는 건 이 약이 유일. 그래서 답이 4 제일 많이 고른 답은 5번. 그러나 Ate+Beva는 이미 sorafenib을 썼기 때문에 쓸 수 없다. 교수님이라면 이차 치료제로 nivolumab을 쓸 것 같다고 하심. 그래도 낫지 않으면 3차로 cabozantinib 밖에 쓸 수 없다고 하심. PD가 증명되었다는 게 정확히 무슨 뜻인지는 모르겠습니다. Regorafenib은 sorafenib과 유사한 분자구조를 가지고 있기 때문에, sorafenib에 약물 부작용을 보이는 환자에게는 regorafenib을 사용할 수 없습니다. 예…. 올해 이렇게 자세히 설명해주시지 않았습니다.\n\n18학번 장정원교수님18학번 장정원교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n해설 정답률 4%. 1차 치료제 중 가장 좋은 건 Atezo+Beva. 이외 1차 치료제는 sorafenib, lenvatinib이 있다. Sorafenib의 가장 대표적인 부작용은 손발 피부가 벗겨지는 hand-foot syndrome. 영상소견 상 BCLC stage C. HCC의 second-line therapy를 묻는 문제. Regorafenib은 PD가 증명된 환자에게만 쓸 수 있다. Ramucirumab은 AFP가 400 이상일 때만 쓸 수 있다. Cabozantinib은 2차, 3차 치료제로 사용할 수 있다. 3차까지 쓸 수 있는 건 이 약이 유일. 그래서 답이 4 제일 많이 고른 답은 5번. 그러나 Ate+Beva는 이미 sorafenib을 썼기 때문에 쓸 수 없다. 교수님이라면 이차 치료제로 nivolumab을 쓸 것 같다고 하심. 그래도 낫지 않으면 3차로 cabozantinib 밖에 쓸 수 없다고 하심. PD가 증명되었다는 게 정확히 무슨 뜻인지는 모르겠습니다. Regorafenib은 sorafenib과 유사한 분자구조를 가지고 있기 때문에, sorafenib에 약물 부작용을 보이는 환자에게는 regorafenib을 사용할 수 없습니다. 예…. 올해 이렇게 자세히 설명해주시지 않았습니다."
   },
   {
     "id": "fri5_q07",
@@ -28473,14 +28473,14 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용\n\n평소 병원에 전혀 방문하지 않았던 55세 남자환자가 최근 3개월 전부터 시작된 전신 쇠약감을 주소로 방문하였다. 검사 수치 및 영상 검사는 아래와 같다. 가장 적절한 조치는?",
+    "explanationOfficial": "공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용\n\n평소 병원에 전혀 방문하지 않았던 55세 남자환자가 최근 3개월 전부터 시작된 전신 쇠약감을 주소로 방문하였다. 검사 수치 및 영상 검사는 아래와 같다. 가장 적절한 조치는?",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용\n\n평소 병원에 전혀 방문하지 않았던 55세 남자환자가 최근 3개월 전부터 시작된 전신 쇠약감을 주소로 방문하였다. 검사 수치 및 영상 검사는 아래와 같다. 가장 적절한 조치는?"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용공식 : 수술 – 4개 이상의 결절이 양엽에 위치하고 있어 어려움.간이식 – 밀란기준 (3개 3cm 이내이거나 1개 5cm)을 넘기 때문에 이식 불가능. 고주파열치료 – 3개 3cm 이내라는 기준에 해당하지 않아 부적합.전신항암 – 타 장기 전이가 있을 때 사용하는 방법이므로 부적합.밀란 기준을 충족하지 못하면 이식할 수 없습니다. RFA는 임상적으로는 2cm 이하의 단일 간암을 치료할 때 사용한다고 설명하셨지만, 알고리즘대로라면 관련질환이 있는 환자에서 3개 3cm 이하일 때 사용합니다.2025 작성자: 4개의 종괴이다. Portal invasion, 간외전이가 있다는 말이 없으므로 중기간암으로 보고 치료한다 하면 중기간암의 치료는 최근에 3개로 update되었다. 문제에 제시된 정보로만 판단하기 어려우나 중기면 대부분 색전술.2026 작성자: 중기 치료는 TACE로 그냥 알아두라고 하셨습니다. 1) 색전술(기존 치료, 대부분 이걸로 함)2) Extended Criteria를 적용해 간이식 고려3) Diffuse, Infiltrative, Extensive한 간 침범 있는 경우 진행성에 준하여 항암제 사용"
   },
   {
     "id": "fri5_q11",
@@ -28545,16 +28545,16 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "Arterial enhancement, Portal washout을 보이는 HCC입니다.2, 3번은 잘 모르겠습니다. 이식의 경우 밀란 기준을 만족해야 하는데, 혈관침범 소견이 있는 경우 기준을 만족하지 못하기 때문에 이 환자의 경우 이식이 불가능합니다.Child-pugh score C는 아닙니다. Portal invasion이 있으므로 Advanced stage이고, 이 경우 Atezo-Beva를 사용합니다.(2017 기준 sorafenib)2025 작성자: 2, 3, 4 모두 ablation이며 curative treatment이다. Ablation 중엔 보통 RFA(고주파열치료)를 사용한다. 이외에 특이한 경우에 RFA 외 방법을 사용한다.  resection이 불가능할 때, 또는 liver transplantation을 받기 전 bridge용으로 사용한다.2) 체외 방사선 치료 (EBRT, External-Beam Radiation Therapy)3) 경피적 에탄올 주입술 (PEI 또는 PEIT, Percutaneous Ethanol Injection): Ablation의 일종.정답 : 5\n\n14학번 장정원교수님14학번 장정원교수님",
+    "explanationOfficial": "Arterial enhancement, Portal washout을 보이는 HCC입니다.2, 3번은 잘 모르겠습니다. 이식의 경우 밀란 기준을 만족해야 하는데, 혈관침범 소견이 있는 경우 기준을 만족하지 못하기 때문에 이 환자의 경우 이식이 불가능합니다.Child-pugh score C는 아닙니다. Portal invasion이 있으므로 Advanced stage이고, 이 경우 Atezo-Beva를 사용합니다.(2017 기준 sorafenib)2025 작성자: 2, 3, 4 모두 ablation이며 curative treatment이다. Ablation 중엔 보통 RFA(고주파열치료)를 사용한다. 이외에 특이한 경우에 RFA 외 방법을 사용한다.  resection이 불가능할 때, 또는 liver transplantation을 받기 전 bridge용으로 사용한다.2) 체외 방사선 치료 (EBRT, External-Beam Radiation Therapy)3) 경피적 에탄올 주입술 (PEI 또는 PEIT, Percutaneous Ethanol Injection): Ablation의 일종.정답 : 5",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\nArterial enhancement, Portal washout을 보이는 HCC입니다.2, 3번은 잘 모르겠습니다. 이식의 경우 밀란 기준을 만족해야 하는데, 혈관침범 소견이 있는 경우 기준을 만족하지 못하기 때문에 이 환자의 경우 이식이 불가능합니다.Child-pugh score C는 아닙니다. Portal invasion이 있으므로 Advanced stage이고, 이 경우 Atezo-Beva를 사용합니다.(2017 기준 sorafenib)2025 작성자: 2, 3, 4 모두 ablation이며 curative treatment이다. Ablation 중엔 보통 RFA(고주파열치료)를 사용한다. 이외에 특이한 경우에 RFA 외 방법을 사용한다.  resection이 불가능할 때, 또는 liver transplantation을 받기 전 bridge용으로 사용한다.2) 체외 방사선 치료 (EBRT, External-Beam Radiation Therapy)3) 경피적 에탄올 주입술 (PEI 또는 PEIT, Percutaneous Ethanol Injection): Ablation의 일종.정답 : 5\n\n14학번 장정원교수님14학번 장정원교수님",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\nArterial enhancement, Portal washout을 보이는 HCC입니다.2, 3번은 잘 모르겠습니다. 이식의 경우 밀란 기준을 만족해야 하는데, 혈관침범 소견이 있는 경우 기준을 만족하지 못하기 때문에 이 환자의 경우 이식이 불가능합니다.Child-pugh score C는 아닙니다. Portal invasion이 있으므로 Advanced stage이고, 이 경우 Atezo-Beva를 사용합니다.(2017 기준 sorafenib)2025 작성자: 2, 3, 4 모두 ablation이며 curative treatment이다. Ablation 중엔 보통 RFA(고주파열치료)를 사용한다. 이외에 특이한 경우에 RFA 외 방법을 사용한다.  resection이 불가능할 때, 또는 liver transplantation을 받기 전 bridge용으로 사용한다.2) 체외 방사선 치료 (EBRT, External-Beam Radiation Therapy)3) 경피적 에탄올 주입술 (PEI 또는 PEIT, Percutaneous Ethanol Injection): Ablation의 일종.정답 : 5",
     "explanationAI": "",
     "yamConcept": "",
     "image": "images/fri0911_5/image14.png",
     "images": [
       "images/fri0911_5/image14.png"
     ],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\nArterial enhancement, Portal washout을 보이는 HCC입니다.2, 3번은 잘 모르겠습니다. 이식의 경우 밀란 기준을 만족해야 하는데, 혈관침범 소견이 있는 경우 기준을 만족하지 못하기 때문에 이 환자의 경우 이식이 불가능합니다.Child-pugh score C는 아닙니다. Portal invasion이 있으므로 Advanced stage이고, 이 경우 Atezo-Beva를 사용합니다.(2017 기준 sorafenib)2025 작성자: 2, 3, 4 모두 ablation이며 curative treatment이다. Ablation 중엔 보통 RFA(고주파열치료)를 사용한다. 이외에 특이한 경우에 RFA 외 방법을 사용한다.  resection이 불가능할 때, 또는 liver transplantation을 받기 전 bridge용으로 사용한다.2) 체외 방사선 치료 (EBRT, External-Beam Radiation Therapy)3) 경피적 에탄올 주입술 (PEI 또는 PEIT, Percutaneous Ethanol Injection): Ablation의 일종.정답 : 5\n\n14학번 장정원교수님14학번 장정원교수님"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\nArterial enhancement, Portal washout을 보이는 HCC입니다.2, 3번은 잘 모르겠습니다. 이식의 경우 밀란 기준을 만족해야 하는데, 혈관침범 소견이 있는 경우 기준을 만족하지 못하기 때문에 이 환자의 경우 이식이 불가능합니다.Child-pugh score C는 아닙니다. Portal invasion이 있으므로 Advanced stage이고, 이 경우 Atezo-Beva를 사용합니다.(2017 기준 sorafenib)2025 작성자: 2, 3, 4 모두 ablation이며 curative treatment이다. Ablation 중엔 보통 RFA(고주파열치료)를 사용한다. 이외에 특이한 경우에 RFA 외 방법을 사용한다.  resection이 불가능할 때, 또는 liver transplantation을 받기 전 bridge용으로 사용한다.2) 체외 방사선 치료 (EBRT, External-Beam Radiation Therapy)3) 경피적 에탄올 주입술 (PEI 또는 PEIT, Percutaneous Ethanol Injection): Ablation의 일종.정답 : 5"
   },
   {
     "id": "fri5_q13",
@@ -28761,14 +28761,14 @@ const QUESTIONS = [
     ],
     "answerText": "5번",
     "isMultipleChoice": false,
-    "explanationOfficial": "간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.\n\n10학번 배시현 교수님 외10학번 배시현 교수님 외",
+    "explanationOfficial": "간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.\n\n10학번 배시현 교수님 외10학번 배시현 교수님 외",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.\n\n10학번 배시현 교수님 외10학번 배시현 교수님 외"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금5] 간종양 기출]\n\n간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다.간 기능은 좋고, Large multinodular합니다. Intermediate라고 생각할 수 있는데, 이 경우 TACE가 치료 방법입니다. PEI는 경피적 에탄올 주입술로, 언제 쓰는지 모르겠습니다."
   },
   {
     "id": "fri5_q19",
