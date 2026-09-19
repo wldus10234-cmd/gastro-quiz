@@ -21766,23 +21766,23 @@
       "images/tue0915_1/image27.png"
     ],
     "options": [
-      "1) 1번 조직 소견 (Ballooning degeneration)",
-      "2) 2번 조직 소견 (Apoptotic body)",
-      "3) 3번 조직 소견 (Spotty necrosis)",
-      "4) 4번 조직 소견 (Mallory body)",
-      "5) 5번 조직 소견 (Fatty change)"
+      "1번 조직 소견",
+      "2번 조직 소견",
+      "3번 조직 소견",
+      "4번 조직 소견",
+      "5번 조직 소견"
     ],
     "answer": [
       1
     ],
     "isMultipleChoice": false,
-    "explanation": "조직 소견 감별:\n- 1) Ballooning degeneration: 간세포가 풍선처럼 부풀고 세포질이 과립상으로 흩어짐\n- 2) Apoptotic body (Councilman body): 호산성의 응축된 세포질\n- 3) Spotty necrosis: 염증세포 군집에 둘러싸인 단일 간세포 괴사\n- 4) Mallory body: 불규칙한 호산성 세포골격 응집체\n- 5) Fatty change (Steatosis): 뚜렷한 지방공포",
-    "explanationOfficial": "조직 소견 감별:\n- 1) Ballooning degeneration: 간세포가 풍선처럼 부풀고 세포질이 과립상으로 흩어짐\n- 2) Apoptotic body (Councilman body): 호산성의 응축된 세포질\n- 3) Spotty necrosis: 염증세포 군집에 둘러싸인 단일 간세포 괴사\n- 4) Mallory body: 불규칙한 호산성 세포골격 응집체\n- 5) Fatty change (Steatosis): 뚜렷한 지방공포",
+    "explanation": "각 번호별 조직 소견 해설:\n- 1번 조직 소견: Ballooning degeneration (간세포가 풍선처럼 부풀고 세포질이 투명해지며 핵이 밀려남) [정답]\n- 2번 조직 소견: Apoptotic body (Councilman body, 짙은 호산성의 둥근 세포 사멸체)\n- 3번 조직 소견: Spotty necrosis (국소적인 간세포 탈락 및 주변 단핵염증세포 침윤)\n- 4번 조직 소견: Mallory body (알코올 간염 등에서 관찰되는 불규칙한 호산성 세포질 봉입체)\n- 5번 조직 소견: Fatty change (Steatosis, 세포질 내 크고 둥근 투명한 지방 적)",
+    "explanationOfficial": "각 번호별 조직 소견 해설:\n- 1번 조직 소견: Ballooning degeneration (간세포가 풍선처럼 부풀고 세포질이 투명해지며 핵이 밀려남) [정답]\n- 2번 조직 소견: Apoptotic body (Councilman body, 짙은 호산성의 둥근 세포 사멸체)\n- 3번 조직 소견: Spotty necrosis (국소적인 간세포 탈락 및 주변 단핵염증세포 침윤)\n- 4번 조직 소견: Mallory body (알코올 간염 등에서 관찰되는 불규칙한 호산성 세포질 봉입체)\n- 5번 조직 소견: Fatty change (Steatosis, 세포질 내 크고 둥근 투명한 지방 적)",
     "explanationAuthor": "14학번 단독 사진 식별 문제입니다.",
     "importance": 3,
     "explanationAI": "",
     "yamConcept": "",
-    "explanationFile": "조직 소견 감별:\n- 1) Ballooning degeneration: 간세포가 풍선처럼 부풀고 세포질이 과립상으로 흩어짐\n- 2) Apoptotic body (Councilman body): 호산성의 응축된 세포질\n- 3) Spotty necrosis: 염증세포 군집에 둘러싸인 단일 간세포 괴사\n- 4) Mallory body: 불규칙한 호산성 세포골격 응집체\n- 5) Fatty change (Steatosis): 뚜렷한 지방공포"
+    "explanationFile": "각 번호별 조직 소견 해설:\n- 1번 조직 소견: Ballooning degeneration (간세포가 풍선처럼 부풀고 세포질이 투명해지며 핵이 밀려남) [정답]\n- 2번 조직 소견: Apoptotic body (Councilman body, 짙은 호산성의 둥근 세포 사멸체)\n- 3번 조직 소견: Spotty necrosis (국소적인 간세포 탈락 및 주변 단핵염증세포 침윤)\n- 4번 조직 소견: Mallory body (알코올 간염 등에서 관찰되는 불규칙한 호산성 세포질 봉입체)\n- 5번 조직 소견: Fatty change (Steatosis, 세포질 내 크고 둥근 투명한 지방 적)"
   },
   {
     "id": "0915_tue1_14",
@@ -21924,11 +21924,11 @@
       "images/tue0915_1/image39.png"
     ],
     "options": [
-      "1) 조합 1",
-      "2) 조합 2",
-      "3) 조합 3",
-      "4) 조합 4",
-      "5) 조합 5 (Portal fibrosis - Perisinusoidal fibrosis - Cirrhosis)"
+      "1) Septal fibrosis - Periportal fibrosis - Cirrhosis",
+      "2) Fibrosis 없음 - Septal fibrosis - Cirrhosis",
+      "3) Perisinusoidal fibrosis - Cirrhosis - Periportal fibrosis",
+      "4) Cirrhosis - Fibrosis 없음 - Portal fibrosis",
+      "5) Portal fibrosis - Perisinusoidal fibrosis - Cirrhosis"
     ],
     "answer": [
       5
@@ -21966,23 +21966,23 @@
       "images/tue0915_1/image50.png"
     ],
     "options": [
-      "1) 자가면역성 간염 소견",
-      "2) 만성 간염의 교락 섬유화 소견",
-      "3) 만성 B형 간염 Ground glass cell 소견",
-      "4) 급성 간염의 림프구 침윤 및 소엽성 간염 소견 (Acute hepatitis)",
-      "5) 간경변 소견 (Cirrhosis)"
+      "1번 조직 소견",
+      "2번 조직 소견",
+      "3번 조직 소견",
+      "4번 조직 소견",
+      "5번 조직 소견"
     ],
     "answer": [
       4
     ],
     "isMultipleChoice": false,
-    "explanation": "A형 간염 바이러스(HAV)는 만성화되지 않고 오직 급성 간염(Acute hepatitis)만을 유발합니다. 따라서 섬유화나 간경변 소견이 없으며, 소엽 전반에 걸친 림프구 침윤과 세포 괴사를 보이는 급성 간염 소견인 4번 사진이 가장 합당합니다.",
-    "explanationOfficial": "A형 간염 바이러스(HAV)는 만성화되지 않고 오직 급성 간염(Acute hepatitis)만을 유발합니다. 따라서 섬유화나 간경변 소견이 없으며, 소엽 전반에 걸친 림프구 침윤과 세포 괴사를 보이는 급성 간염 소견인 4번 사진이 가장 합당합니다.",
+    "explanation": "해설:\nA형 간염(HAV)은 만성화되지 않고 오직 급성 간염(Acute hepatitis)의 경과를 보입니다.\n따라서 섬유화나 간경변 소견 없이, 소엽 전반에 걸친 심한 림프구 침윤과 간세포 괴사를 보이는 급성 간염 소견인 4번 조직 소견이 가장 합당합니다.\n\n각 번호별 조직 소견:\n- 1번 조직 소견: 자가면역성 간염 (Autoimmune hepatitis)\n- 2번 조직 소견: 만성 간염의 가교 섬유화 (Bridging fibrosis)\n- 3번 조직 소견: 만성 B형 간염의 원형질 유리양 세포 (Ground glass cell)\n- 4번 조직 소견: 급성 간염 소견 (림프구 침윤 및 소엽 손상) [정답]\n- 5번 조직 소견: 간경변증 소견 (Cirrhosis, 재생 결절 및 섬유화 격벽)",
+    "explanationOfficial": "해설:\nA형 간염(HAV)은 만성화되지 않고 오직 급성 간염(Acute hepatitis)의 경과를 보입니다.\n따라서 섬유화나 간경변 소견 없이, 소엽 전반에 걸친 심한 림프구 침윤과 간세포 괴사를 보이는 급성 간염 소견인 4번 조직 소견이 가장 합당합니다.\n\n각 번호별 조직 소견:\n- 1번 조직 소견: 자가면역성 간염 (Autoimmune hepatitis)\n- 2번 조직 소견: 만성 간염의 가교 섬유화 (Bridging fibrosis)\n- 3번 조직 소견: 만성 B형 간염의 원형질 유리양 세포 (Ground glass cell)\n- 4번 조직 소견: 급성 간염 소견 (림프구 침윤 및 소엽 손상) [정답]\n- 5번 조직 소견: 간경변증 소견 (Cirrhosis, 재생 결절 및 섬유화 격벽)",
     "explanationAuthor": "A형 간염은 급성만 존재하므로 만성 섬유화가 없는 급성 소엽성 간염 소견을 골라야 합니다.",
     "importance": 3,
     "explanationAI": "",
     "yamConcept": "",
-    "explanationFile": "A형 간염 바이러스(HAV)는 만성화되지 않고 오직 급성 간염(Acute hepatitis)만을 유발합니다. 따라서 섬유화나 간경변 소견이 없으며, 소엽 전반에 걸친 림프구 침윤과 세포 괴사를 보이는 급성 간염 소견인 4번 사진이 가장 합당합니다."
+    "explanationFile": "해설:\nA형 간염(HAV)은 만성화되지 않고 오직 급성 간염(Acute hepatitis)의 경과를 보입니다.\n따라서 섬유화나 간경변 소견 없이, 소엽 전반에 걸친 심한 림프구 침윤과 간세포 괴사를 보이는 급성 간염 소견인 4번 조직 소견이 가장 합당합니다.\n\n각 번호별 조직 소견:\n- 1번 조직 소견: 자가면역성 간염 (Autoimmune hepatitis)\n- 2번 조직 소견: 만성 간염의 가교 섬유화 (Bridging fibrosis)\n- 3번 조직 소견: 만성 B형 간염의 원형질 유리양 세포 (Ground glass cell)\n- 4번 조직 소견: 급성 간염 소견 (림프구 침윤 및 소엽 손상) [정답]\n- 5번 조직 소견: 간경변증 소견 (Cirrhosis, 재생 결절 및 섬유화 격벽)"
   },
   {
     "id": "0915_tue1_19",
@@ -22088,23 +22088,23 @@
       "images/tue0915_2/image1.png"
     ],
     "options": [
-      "1번 조직 소견 (간세포 기원)",
-      "2번 조직 소견 (간세포 기원)",
-      "3번 조직 소견 (담관상피세포 기원 - Cholangiocarcinoma)",
-      "4번 조직 소견 (간세포 기원)",
-      "5번 조직 소견 (간세포 기원)"
+      "1번 조직 소견",
+      "2번 조직 소견",
+      "3번 조직 소견",
+      "4번 조직 소견",
+      "5번 조직 소견"
     ],
     "answer": [
       3
     ],
     "isMultipleChoice": false,
-    "explanation": "해설: 3번 조직 소견은 담관암종(Cholangiocarcinoma)으로 담관상피세포(Bile duct epithelium) 기원입니다. 반면 1, 2, 4, 5번은 모두 간세포암종(Hepatocellular carcinoma, HCC)의 다양한 아형 소견으로 간세포(Hepatocyte) 기원입니다.",
-    "explanationOfficial": "해설: 3번 조직 소견은 담관암종(Cholangiocarcinoma)으로 담관상피세포(Bile duct epithelium) 기원입니다. 반면 1, 2, 4, 5번은 모두 간세포암종(Hepatocellular carcinoma, HCC)의 다양한 아형 소견으로 간세포(Hepatocyte) 기원입니다.",
+    "explanation": "해설:\n- 3번 조직 소견: 담관암종(Cholangiocarcinoma)으로 담관상피세포(Bile duct epithelium) 기원입니다. (풍부한 섬유성 기질-desmoplasia과 선구조 형성) [정답]\n- 1, 2, 4, 5번 조직 소견: 모두 간세포암종(Hepatocellular carcinoma, HCC)의 아형들로 간세포(Hepatocyte) 기원입니다.\n  · 1번: 가선성(Pseudoglandular) 아형\n  · 2번: 경화성(Scirrhous) 아형\n  · 4번: 섬유주(Trabecular) 아형\n  · 5번: 고분화도(Well-differentiated) HCC",
+    "explanationOfficial": "해설:\n- 3번 조직 소견: 담관암종(Cholangiocarcinoma)으로 담관상피세포(Bile duct epithelium) 기원입니다. (풍부한 섬유성 기질-desmoplasia과 선구조 형성) [정답]\n- 1, 2, 4, 5번 조직 소견: 모두 간세포암종(Hepatocellular carcinoma, HCC)의 아형들로 간세포(Hepatocyte) 기원입니다.\n  · 1번: 가선성(Pseudoglandular) 아형\n  · 2번: 경화성(Scirrhous) 아형\n  · 4번: 섬유주(Trabecular) 아형\n  · 5번: 고분화도(Well-differentiated) HCC",
     "explanationAuthor": "21학번 기출 기반 재구성 문항입니다. Cholangiocarcinoma(담관상피) vs HCC(간세포) 기원세포 감별이 핵심입니다.",
     "importance": 3,
     "explanationAI": "",
     "yamConcept": "",
-    "explanationFile": "해설: 3번 조직 소견은 담관암종(Cholangiocarcinoma)으로 담관상피세포(Bile duct epithelium) 기원입니다. 반면 1, 2, 4, 5번은 모두 간세포암종(Hepatocellular carcinoma, HCC)의 다양한 아형 소견으로 간세포(Hepatocyte) 기원입니다."
+    "explanationFile": "해설:\n- 3번 조직 소견: 담관암종(Cholangiocarcinoma)으로 담관상피세포(Bile duct epithelium) 기원입니다. (풍부한 섬유성 기질-desmoplasia과 선구조 형성) [정답]\n- 1, 2, 4, 5번 조직 소견: 모두 간세포암종(Hepatocellular carcinoma, HCC)의 아형들로 간세포(Hepatocyte) 기원입니다.\n  · 1번: 가선성(Pseudoglandular) 아형\n  · 2번: 경화성(Scirrhous) 아형\n  · 4번: 섬유주(Trabecular) 아형\n  · 5번: 고분화도(Well-differentiated) HCC"
   },
   {
     "id": "0915_tue2_02",
@@ -25417,9 +25417,8 @@
     "page": 21,
     "qNumber": 21,
     "question": "direct acting antiviral 치료로 HCV RNA 음성 되었고, 6회 경동맥화학 색전술을 시행 후 알부민 3.1g/dl, total bilirubin 2.1mg/dl, AFP 29ng/ml, PIVKA-II 57mAU/ml 이었다. 치료 후 CT/MRI 소견이다.\n(좌: 치료 전 CT·MRI, 간문맥침습은 없음 / 우: 치료 후 CT·MRI)\n(수치 여전히 5cm 초과)\n이 환자에게 해볼 수 있는 치료는?",
-    "passage": "알부민 2.75g/dl, tb 2.63mg/dl, AST/ALT 139/93U/L, INR 1.34, AFP 833ng/ml, PIVKA II 53mAU/ml, CA19-9 68U/ml, HBsAg(-), HBsAb 6.32, anti-HCV Ab +, HCV DNA 6.5 x 10^6 IU/ml 술 못함, 당뇨/고혈압 없음.",
+    "passage": "간내 종괴로 내원. 일상생활은 가능. 혈액 검사 소견 (간악성종양 배시현)\n알부민 2.75g/dl, tb 2.63mg/dl, AST/ALT 139/93U/L, INR 1.34, AFP 833ng/ml, PIVKA II 53mAU/ml, CA19-9 68U/ml, HBsAg(-), HBsAb 6.32, anti-HCV Ab +, HCV DNA 6.5 x 10^6 IU/ml 술 못함, 당뇨/고혈압 없음.",
     "options": [
-      "간내 종괴로 내원. 일상생활은 가능. 혈액 검사 소견 (간악성종양 배시현)",
       "간절제술",
       "간이식",
       "고주파열치료",

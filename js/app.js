@@ -775,7 +775,8 @@
       if (images.length > 0) {
         this.dom.qImageBox.classList.remove('hidden');
         this.dom.qImageBox.innerHTML = images.map((imgSrc, i) => `
-          <div class="image-wrapper" data-zoom-src="${imgSrc}" style="margin-bottom: 10px; cursor: zoom-in;" title="클릭하여 원본 크기로 확대">
+          <div class="image-wrapper" data-zoom-src="${imgSrc}" style="margin-bottom: 14px; cursor: zoom-in; display: flex; flex-direction: column; align-items: center;" title="클릭하여 원본 크기로 확대">
+            ${images.length > 1 ? `<div style="align-self: flex-start; margin-bottom: 6px; padding: 3px 10px; background: rgba(99, 102, 241, 0.15); border: 1px solid rgba(99, 102, 241, 0.4); border-radius: 12px; color: #a5b4fc; font-size: 0.82rem; font-weight: 700; letter-spacing: 0.02em;">[${i + 1}번 조직 소견]</div>` : ''}
             <img src="${imgSrc}" alt="임상 소견 이미지 ${i + 1}" loading="lazy" style="max-height: 420px; width: auto; max-width: 100%; object-fit: contain; border-radius: 8px;">
           </div>
         `).join('');
@@ -1170,8 +1171,9 @@
           imageHTML = `
             <div class="question-image-box" style="margin-bottom: 14px; display: flex; flex-direction: column; gap: 10px; align-items: center;">
               ${images.map((imgSrc, i) => `
-                <div class="image-wrapper" data-zoom-src="${imgSrc}" style="max-height: 380px; width: 100%; display: flex; justify-content: center; background: #000; border-radius: 8px; overflow: hidden; cursor: zoom-in;" title="클릭하여 확대">
-                  <img src="${imgSrc}" alt="문제 임상 이미지 ${i + 1}" loading="lazy" style="max-height: 380px; width: auto; max-width: 100%; object-fit: contain;">
+                <div class="image-wrapper" data-zoom-src="${imgSrc}" style="max-height: 380px; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; background: #000; border-radius: 8px; overflow: hidden; cursor: zoom-in; padding: 6px;" title="클릭하여 확대">
+                  ${images.length > 1 ? `<div style="align-self: flex-start; margin-bottom: 6px; padding: 2px 8px; background: rgba(99, 102, 241, 0.25); border: 1px solid rgba(99, 102, 241, 0.4); border-radius: 10px; color: #a5b4fc; font-size: 0.78rem; font-weight: 700;">[${i + 1}번 조직 소견]</div>` : ''}
+                  <img src="${imgSrc}" alt="문제 임상 이미지 ${i + 1}" loading="lazy" style="max-height: 350px; width: auto; max-width: 100%; object-fit: contain;">
                 </div>
               `).join('')}
             </div>
