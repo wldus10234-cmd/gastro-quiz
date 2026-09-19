@@ -3944,9 +3944,9 @@
       "현재 약제를 중단하면 바이러스 재활성률은 30% 정도이다."
     ],
     "answer": [
-      5
+      4
     ],
-    "answerText": "5번",
+    "answerText": "4번",
     "isMultipleChoice": false,
     "explanationOfficial": "해설\n\n최근 1년 이내 혈청전환이 일어난 환자입니다. HBV DNA도 10 이하이므로 precore 변이도 아니겠네요.\n\n한 가지 걸리는 게 HBsAg입니다. 100 이하면 치료 중단을 고려한다고 했는데, 지금 600이네요. 재검한 후 투약 중단을 고려해볼 수 있겠습니다. 정확한 기간을 몰라도 이렇게 푸는 게 최선 아닐까요..\n\n1) 간경변증 소견은 없습니다. 애초에 fibroscan도 6.5kpa로, 섬유화가 심하지도 않네요.\n\n2) 조직 검사까지 해야 할 정도로 위험한 소견은 없어 보입니다.\n\n3) 약제 중단은 애초에 1년이 지난 후 가능했습니다.\n\n4) 정답\n\n5) 바로 끊으면 70%가 재발합니다. 지엽적이네요..",
     "explanationAuthor": "",
@@ -5294,9 +5294,9 @@
       "약 300 개의 아미노산으로 구성된 전구단백질을 형성한다."
     ],
     "answer": [
-      5
+      4
     ],
-    "answerText": "5번",
+    "answerText": "4번",
     "isMultipleChoice": false,
     "explanation": "1) ssRNA  2) 6 개의 major genotype  3) RNA-dependent RNA polymerase  4) 정답  5) 3300 개의 아미노산이 모여 polyprotein 구성 ® 선지 4), 5)만 바뀐 짤에 가까운 짤변입니다.",
     "explanationFile": "1) ssRNA  2) 6 개의 major genotype  3) RNA-dependent RNA polymerase  4) 정답  5) 3300 개의 아미노산이 모여 polyprotein 구성 ® 선지 4), 5)만 바뀐 짤에 가까운 짤변입니다.",
@@ -10665,14 +10665,14 @@
     ],
     "answerText": "2번",
     "isMultipleChoice": true,
-    "explanationOfficial": "복용 후 8시간 만에 왔으므로, 8시간 이내에 투여하면 효과적인 N-acetylcysteine을 투여하면 됩니다.간이식을 하기에는 PT prolongation도 없고(INR 정상 수치: 0.8~1.1), 의식도 명료합니다.cholestyramine과 5) 위세척 및 activated charcoal은 30분 이내에 해야 효과가 있습니다.답 : 3복용 후 8시간 만에 왔으므로, 8시간 이내에 투여하면 효과적인 N-acetylcysteine을 투여하면 됩니다.간이식을 하기에는 PT prolongation도 없고(INR 정상 수치: 0.8~1.1), 의식도 명료합니다.cholestyramine과 5) 위세척 및 activated charcoal은 30분 이내에 해야 효과가 있습니다.\n\n여기부터 다른 교수님들 문제입니다. 총시 문제 먼저 배치했습니다.\n\n안푸시는걸 추천드립니다.\n\n17학번 총시17학번 총시",
+    "explanationOfficial": "유방암 수술 후 호르몬 요법으로 복용하는 타목시펜(Tamoxifen)은 지방간(Steatosis/NASH) 및 간기능 이상을 유발하는 대표적인 약제입니다.",
     "explanationAuthor": "",
-    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n복용 후 8시간 만에 왔으므로, 8시간 이내에 투여하면 효과적인 N-acetylcysteine을 투여하면 됩니다.간이식을 하기에는 PT prolongation도 없고(INR 정상 수치: 0.8~1.1), 의식도 명료합니다.cholestyramine과 5) 위세척 및 activated charcoal은 30분 이내에 해야 효과가 있습니다.답 : 3복용 후 8시간 만에 왔으므로, 8시간 이내에 투여하면 효과적인 N-acetylcysteine을 투여하면 됩니다.간이식을 하기에는 PT prolongation도 없고(INR 정상 수치: 0.8~1.1), 의식도 명료합니다.cholestyramine과 5) 위세척 및 activated charcoal은 30분 이내에 해야 효과가 있습니다.\n\n여기부터 다른 교수님들 문제입니다. 총시 문제 먼저 배치했습니다.\n\n안푸시는걸 추천드립니다.\n\n17학번 총시17학번 총시",
+    "explanationFile": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성간염 기출]\n\n유방암 수술 후 호르몬 요법으로 복용하는 타목시펜(Tamoxifen)은 지방간(Steatosis/NASH) 및 간기능 이상을 유발하는 대표적인 약제입니다.",
     "explanationAI": "",
     "yamConcept": "",
     "image": "",
     "images": [],
-    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성 간염 기출]\n\n복용 후 8시간 만에 왔으므로, 8시간 이내에 투여하면 효과적인 N-acetylcysteine을 투여하면 됩니다.간이식을 하기에는 PT prolongation도 없고(INR 정상 수치: 0.8~1.1), 의식도 명료합니다.cholestyramine과 5) 위세척 및 activated charcoal은 30분 이내에 해야 효과가 있습니다.답 : 3복용 후 8시간 만에 왔으므로, 8시간 이내에 투여하면 효과적인 N-acetylcysteine을 투여하면 됩니다.간이식을 하기에는 PT prolongation도 없고(INR 정상 수치: 0.8~1.1), 의식도 명료합니다.cholestyramine과 5) 위세척 및 activated charcoal은 30분 이내에 해야 효과가 있습니다.\n\n여기부터 다른 교수님들 문제입니다. 총시 문제 먼저 배치했습니다.\n\n안푸시는걸 추천드립니다.\n\n17학번 총시17학번 총시"
+    "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목1] 약제유발성간염 기출]\n\n유방암 수술 후 호르몬 요법으로 복용하는 타목시펜(Tamoxifen)은 지방간(Steatosis/NASH) 및 간기능 이상을 유발하는 대표적인 약제입니다."
   },
   {
     "id": "thu1_q05",
