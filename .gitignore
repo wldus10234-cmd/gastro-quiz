@@ -1,0 +1,16 @@
+# Developer and scratch files
+tools/
+scratch/
+dist/
+*.zip
+*.log
+*.bak
+*.py
+*.bat
+*.txt
+*.docx
+*.pdf
+pdf_dump/
+share_url.txt
+__pycache__/
+*.pyc
