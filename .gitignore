@@ -15,3 +15,4 @@ share_url.txt
 __pycache__/
 *.pyc
 .venv/
+*.exe

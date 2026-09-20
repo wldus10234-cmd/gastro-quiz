@@ -12651,7 +12651,7 @@
     "yamConcept": "",
     "image": "images/thu0910_3/image2.emf",
     "images": [
-      "images/thu0910_3/image2.emf"
+      "images/thu0910_3/image2.png"
     ],
     "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목3,4] 만성 간염 기출]\n\n해설) 일단 이번시간 수업 내용 기준으로 답이 애매합니다. (다른 교수님 출제 문제로 추정됩니다.)\n\n간수치 정상보다 상승했지만 80보단 아래고, DNA>2000으로 상승해있습니다. 조금 애매한 상황이지만,\n\nCT를 보니 복수가 차있습니다. 다른거 볼 것도 없이 항바이러스제 치료해야합니다.\n\n그런데 Cr이 높고 GFR이 낮은 환자입니다. 신기능이 좋지 않기에, 올해 수업에 따르면 제일 좋은건 TAF,\n\n굳이 신기능 저하자에서 TDF나 ETV를 쓰고싶으면 투여 간격을 48~72시간 간격으로 연장해야한다 배웠습니다.\n\n이 알고리즘만 생각하면 3번도 답이 될 법 하지만..\n\n이전수업들에서 신기능저하자에서는 TDF쓰지 말고 ETV나 TAF 쓴다고 배웠던 것에 따르면 1번이 답인 것 같습니다."
   },
@@ -13305,7 +13305,7 @@
     "yamConcept": "",
     "image": "images/thu0910_4/image9.emf",
     "images": [
-      "images/thu0910_4/image9.emf"
+      "images/thu0910_4/image9.png"
     ],
     "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목3,4] 만성 간염 기출]\n\n파드해설: ALT만 살짝 높고 HBV DNA가 2000이하이므로 HBV 치료를 하지 않는다. gGTP가 정상 상한치인 50보다 높아 지방간으로 추정된다. 지방간의 치료는 생활습관 교정이다.\n\n[작성자해설] 원본에 총빌리루빈이 10으로 나와있었는데 그러면 문제가 꼬여서, 아마 1.0의 오기일 것 같아 그렇게 수정.\n\n오답해설\n\n2) HBV DNA 낮음\n\n3) 저바이러스혈증군 → 경과관찰이 기본\n\n4) 자가항체검사는 원인불명 간질환 감별에 사용\n\n5) ERCP(내시경역행담췌관조영술)는 담도폐쇄, 담관염 근거 있을 때"
   },
@@ -13523,7 +13523,7 @@
     "yamConcept": "",
     "image": "images/thu0910_4/image13.emf",
     "images": [
-      "images/thu0910_4/image13.emf"
+      "images/thu0910_4/image13.png"
     ],
     "explanation": "📌 [출처 및 출제 정보: 2026-09-10 [목3,4] 만성 간염 기출]\n\n해설: HCV-Ab (+), HCV RNA (+)이므로 sofosbuvir/velpatasvir 또는 glecaprevir/pibrentasvir를 투여해야 한다.\n\n병합요법이 표준인데 왜 sofosbuvir 단독으로 출제됐는지는 의문입니다. 옛날엔 그랬나 봅니다. 병합으로 외우셔야함.\n\n1, 2) HBV 약제"
   },
@@ -30461,5 +30461,2989 @@
     "image": "",
     "images": [],
     "explanation": "📌 [출처 및 출제 정보: 2026-09-11 [금8] 악성 간종양 기출]\n\n절제 가능한 간내담관암에서는 음성 절제연을 확보하는 외과적 절제술이 근치적 치료의 기본이다. 절제 불가능하거나 전이된 경우에는 전신치료 등 다른 치료를 고려한다."
+  },
+  {
+    "id": "0916_wed1_01",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 71,
+    "question": "32세 남자가 2일 전부터 윗배와 배꼽 주위가 아프다고 병원에 왔다. 아프기 전까지 3일 동안 소주 2~3병을 매일 마셨다고 한다. 토하거나 속이 쓰리지는 않았다. 복통은 내원 전일보다는 좋아졌다고 하며 배도 고프다고 한다. 혈압 110/60 mmHg, 맥박 110회/분, 호흡 22회/분, 체온 37.6℃이다. 장음은 잘 들리며 배 전체에 경미한 압통이 있고 반동압통은 없다. 복부 컴퓨터 단층촬영 사진 (사진1)이다. 혈액검사 결과는 다음과 같다. 조치는?\n\n- 혈색소 12.0 g/dL, 백혈구 14,000/mm3, 혈소판 328,000/mm3\n- 혈액요소질소 9.8 mg/dL, 크레아티닌 0.5 mg/dL\n- 총빌리루빈 0.7 mg/dL, 직접빌리루빈 0.5 mg/dL\n- 아스파트산아미노기전달효소 35 U/L, 알라닌아미노기전달효소 21 U/L\n- 알칼리성인산염분해효소 215 U/L\n- 녹말분해효소 247 U/L, 지방분해효소 311 U/L",
+    "options": [
+      "수액 주사",
+      "항생제 주사",
+      "내시경배액",
+      "피부경유배액",
+      "양성자펌프억제제 주사"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "공식해설) 급성 췌장염 진단시 적극적인 수액 치료가 필수적이다. 네 수액이 가장 중요하댔죠…강조점입니다.",
+    "images": [
+      "images/wed0916_1/page01_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_02",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "65세 여자가 내원 전일부터 배가 아프다고 병원에 왔다. 윗배에 1 시간 이상 지속되는 통증과 함께 오심 및 구토를 동반하였다. 술 또는 흡연의 기왕력은 없었다. 혈압 140/90, 맥박 수 105, 호흡수 22, 체온 37.8 이다. 장음은 감소되어 있고, 윗배 압통이 있고 반동압통은 없다. 혈액검사 결과는 다음과 같다. 치료는?",
+    "options": [
+      "수액",
+      "복강경쓸개절제",
+      "내시경역행췌담관조영",
+      "피부경유쓸개배액",
+      "쓸개즙용해제"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "윗배에 1 시간 이상 지속되는 통증과 아밀라아제/리파제 수치 모두 급성 췌장염의 소견을 보입니다. 급성췌장염에서는 effective volume 이 감소하므로 대량의 hydration 이 필요하므로 수액이 맞는 답입니다.",
+    "images": [
+      "images/wed0916_1/page02_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_03",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "25세 남자 배꼽 주위가 아프다고 병원에 왔다. 아프기 전까지 2 일 동안 알코올을 ~씩 매일 마셨다고 한다. 내원 후 전일보다는 좋아졌다고 하며 배도 고프다고 한다. 바이탈 수치 중 체온만 미열. 배 전체에 경미한 압통이 있고 반동압통은 없다. 혈액검사 소견과 ct 소견은 다음과 같다. 치료는?\n(화살표는 없었다)",
+    "options": [
+      "내시경배액",
+      "경구식이",
+      "항생제",
+      "양성자펌프억제제",
+      "완전비경구영양법"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "올해는 “멕일 수 있으면 멕인다” 정도로 굉장히 간단히 언급하시고 넘어가셨습니다.\n작파해설: 수업시간에 조기 경구영양을 강조하셨고, '복통이 사라지면 먹이는 것에서 → 좀 아파도 먹을 수 있으면 먹이고, 장음 좀 돌아오고, 변을 볼 수 있으면 먹이는 것으로 바뀌었다' 라고 말씀하셨습니다. 또 ct 소견을 보면 necrosis 까지 가지 않았고(interstitial pancreatitis 에 해당함), 환자가 전일보다 상태가 나아졌다고 주어졌으므로 경구식이가 적절합니다.",
+    "images": [
+      "images/wed0916_1/page03_img1.png",
+      "images/wed0916_1/page03_img2.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_04",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "급성 췌장염의 초기치료 후 예후를 반영하는 인자는?",
+    "options": [
+      "혈중 헤모글로빈",
+      "혈중 헤마토크릿",
+      "혈중 인 (phosphate)",
+      "혈중 아밀라제",
+      "혈중 리페이즈"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "작성자: Hematocrit 은 급성췌장염 초기치료 48 시간 후 환자의 예후를 반영하는 중요한 인자입니다. (탈수 정도를 보여주는 수치였죠? 올해도 강조하셨습니다.)\n과거 해설) Ranson's criteria 는 해리슨에서 제외되었으나 워낙 중요하게 다뤄졌기 때문에 알길 바란다고 수업 때 말씀하셨다. 더 자세히는 Hct>44%에서 48 시간 이내 10% 이상 감소 시 나쁜 예후 인자입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_05",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 45,
+    "question": "55세 남자 환자가 복통과 함께 점차 배가 불러오는 증상으로 왔다. 평소 매일 소주 2 병씩 마신다고 하였으며, 음주 후 발생하는 심한 복통으로 여러 차례 입원치료를 받아왔다. 혈압은 120/75 mmHg, 맥박 95 회/분, 호흡 20 회/분, 체온은 37.1 도였다. 복부 진찰시 윗배에 압통을 동반한 아이 주먹 크기의 덩이가 만져졌다. 혈액검사 결과 및 복부 단층촬영 사진이다. 치료는?",
+    "options": [
+      "낭종배액술",
+      "낭종절제술",
+      "위부분절제술",
+      "췌공장문합술",
+      "전체이자절제술"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "급성췌장염 후 발생하는 췌장가성낭종의 특징적 임상양상 및 CT 소견이며 치료시 수술보다는 배액술을 먼저 고려한다.",
+    "images": [
+      "images/wed0916_1/page05_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_06",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 2,
+    "question": "50세 남자가 갑작스러운 복통으로 입원하였습니다. 혈압은 110/80, 체온은 36.8, 호흡은 20/분, pulse rate 는 90/분이였습니다. 그리고 다음과 같은 혈액 검사 결과와 영상 검사 결과가 나왔습니다. 치료는?\n(시험에 나온 사진은 아니지만 최대한 비슷한 사진을 구글에서 가져와 봤습니다)",
+    "options": [
+      "응급개복술",
+      "피부간경유배액",
+      "비위관삽입배액술",
+      "복강동맥 조영술",
+      "복강경하 탐색"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "사진은 acute pancreatitis 의 합병증인 acute necrotic collection 이 췌관을 침범하여 췌관이 CT 상에서 보일 정도로 dilation 되어 있는 듯한 사진이다. 췌관 main duct 의 손상이 매우 심하여 pancreas 가 exocrine, endocrine function 을 수행하지 못하게 될 수도 있기 때문에 응급개복술을 시행한다.",
+    "images": [
+      "images/wed0916_1/page06_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_07",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 3,
+    "question": "담낭 결석이 있는 42세 남성 환자가 상 복부 통증으로 내원하였다. 장음이 소실되어 있었으며 amylase 와 lipase 가 상승했다. 치료는?",
+    "options": [
+      "경과 관찰",
+      "수액 보충",
+      "담석 제거 후 퇴원 전 담낭 제거술",
+      "담석 제거 후 경과 관찰",
+      "보존적 치료만 지속"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "담석으로 인한 췌장염시 담석 먼저 제거하고 회복 후 퇴원 전 담낭 절제술을 시행합니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_08",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 4,
+    "question": "급성췌장염 환자의 중증도를 입원 초기에 평가하여, 예후를 예측하고, 치료에 반영하기 위한 여러 단일 인자와 점수 체제들이 알려져 있다. 이 중에서 가장 최근에 연구되어 간편하게 사용할 수 있는 BISAP score 는 몇점 이상인 경우 사망의 위험이 증가하는 것으로 알려져 있나?",
+    "options": [
+      "1점",
+      "2점",
+      "3점",
+      "4점",
+      "5점"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "다섯 항목의 임상 그리고 검사실 지표를 이용한 BISAP 은 입원 첫 24 시간 내에 중증도를 평가하는데 유용하게 사용될 수 있다. 3 점 이상인 경우 병원내 사망의 위협이 증가하는 것으로 알려져 있다. (BUN, Impaired mental status, SIRS, Age > 60, Pleural effusion)",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_09",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 5,
+    "question": "급성 췌장염에서 예후가 위중하여 사망률이 높을 수 있는 중증 급성췌장염 (severe pancreatitis)의 정의는?",
+    "options": [
+      "국소 합병증이 있는 경우",
+      "국소 합병증과 장기부전이 없는 경우",
+      "48시간 이상 지속되는 장기부전이 있는 경우",
+      "48시간 이내 회복되는 일시적 장기부전이 있는 경우",
+      "국소 합병증과 48시간 이내 회복되는 일시적 장기부전이 있는 경우"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "급성 췌장염의 중증도는 mild, moderately severe, severe 로 나누고, severe 인 경우는 48 시간 이상 지속되는 장기부전(persistent organ failure)이 있는 경우이다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_10",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 6,
+    "question": "45세 남자가 하루 전부터 윗배가 심하게 아파서 병원에 왔다. 6 개월 전 사업실패로 매일 소주 1~2 병씩 먹었다고 한다. 혈압 110/80 mmHg, 맥박 120 회/분, 호흡 20 회/분, 체온 37.6 도였다. 복부청진에서 창자소리의 소실이 있었으며, 윗배에 심한 압통이 있었으나 반발 압통은 없었다. 복부 컴퓨터단층사진은 다음과 같았다. 이 환자의 초기 치료 원칙으로 옳은 것은? (2가지)",
+    "options": [
+      "경피적 배액술",
+      "예방적 항생제 투여",
+      "적극적인 수액 투여 (Lactated Ringer's)",
+      "응급 개복술",
+      "즉각적인 경구 영양 공급",
+      "항콜린제 투여",
+      "스테로이드 투여",
+      "마약성 진통제 투여"
+    ],
+    "answer": [
+      3,
+      8
+    ],
+    "explanation": "공식 해설) 급성췌장염의 일반적인 초기 치료에는 금식, 주사용 마약성진통제, 산소 공급 등과 함께 급속 수액 요법(Lactated Ringer solution)을 실시한다.",
+    "images": [
+      "images/wed0916_1/page08_img1.png",
+      "images/wed0916_1/page08_img2.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_11",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "정은선 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 6,
+    "question": "췌장세엽세포 (pancreatic acinar cell)를 손상시켜 급성췌장염을 일으킬 수 있는 췌장효소?",
+    "options": [
+      "아밀라제 (amylase)",
+      "리파제 (lipase)",
+      "트립신 (trypsin)",
+      "포스포리파아제 (phospholipase A2)",
+      "키모트립시노젠 (chymotrypsinogen)"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Trypsinogen이 Trypsin으로 활성화되는 것이 모든 zymogen 활성화 및 acinar cell 손상의 시작점입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_12",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 7,
+    "question": "52세 남자가 복부통증으로 응급실로 와서 시행한 신체검사에서 아래와 같았다. 과거에 만성적인 음주력이 있고 활력징후는 체온 36.5℃, 맥박수 100회, 호흡수 14회였고, 혈청 total bilirubin 1.0 mg/dL, amylase 1000 IU/L, lipase 1300 IU/L 이었다. 사진에서 보이는 이학적 소견은?",
+    "options": [
+      "Rovsing's sign",
+      "Murphy's sign",
+      "Grey Turner sign",
+      "Trousseau sign",
+      "Homan's sign"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "과거해설) Necrotizing pancreatitis 가 심해서 복벽출혈이 발생하면 복벽 tissue catabolism 이 발생하여 옆구리에 푸르스름한 반상출혈이 나타나는 Grey Turner's sign 의 전형적인 소견이다.",
+    "images": [
+      "images/wed0916_1/page09_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_13",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 8,
+    "question": "급성 췌장염 환자의 초기치료에 포함되는 것은?",
+    "options": [
+      "예방적 광범위 항생제 투여",
+      "소마토스타틴 유사물질 투여",
+      "모든 환자에서 비위관(L-tube) 삽입",
+      "조기 개복술을 통한 괴사조직 제거",
+      "충분한 정맥 수액 공급"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "급성 췌장염 환자의 가장 중요하고 기본적인 초기 치료는 적극적인 정맥 수액 치료(Hydration)입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_14",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 9,
+    "question": "45세 남자가 만성적인 음주 병력이 있는 환자로, 2달 전부터 발생한 상복부 통증으로 내원하였다. 진찰 소견상 상복부에 압통이 있는 덩이가 만져졌다. 혈액검사 결과는 다음과 같았다. 복부컴퓨터단층촬영 사진이다. 진단은?",
+    "options": [
+      "이자거짓낭 (pseudocyst)",
+      "위창자기질종양",
+      "이자점액낭샘종",
+      "이자점액낭샘암종",
+      "췌관내 유두상점액종양"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "만성 음주 병력이 있는 남자 환자에서 두달전부터 복통이 있었으므로 당시 이미 급성췌장염이 발병한 것으로 추정됩니다. 약 두달간 관찰 후 급성췌장염의 국소합병증으로 이자거짓낭(pseudocyst)이 발생한 상황입니다. CT 에서 homogenous fluid collection 과 얇은 낭벽의 특징이 보입니다.",
+    "images": [
+      "images/wed0916_1/page10_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_15",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "천영국 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 10,
+    "question": "급성 췌장염으로 진단 받은 환자에서 혈청 아밀라제가 정상으로 나올 수 있는 경우는?",
+    "options": [
+      "채취 후 24 시간 내에 검사실에 내려 보낸 경우",
+      "혈중 triglyceride 농도가 175mg/dl",
+      "당뇨병 케토산증이 동반되어 있는 경우",
+      "만성 췌장염에서 급성 췌장염이 동반되어 있는 경우",
+      "췌장 가성 낭종이 발생"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "만성 췌장염 환자에서는 췌장 외분비 기능이 이미 소실되어 있어 급성 악화가 일어나도 아밀라제 분비가 불가능하여 정상으로 측정될 수 있습니다. (또는 고중성지방혈증 심할 때 false negative 가능)",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_16",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "천영국 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 11,
+    "question": "평소 술을 즐겨 마시는 38 세 남자가 최근에 심한 상복부 동통으로 내원하였다. 내원당시 검사실 소견에서 AST 85 IU/L, ALT 53 IU/L, amylase 738 U/L, lipase 1235 U/L 였다. 입원하여 치료 3 일 뒤에 좌상복부 쪽으로 통증을 동반하지 않은 종괴성 병변이 발견되어 복부 CT 를 촬영하였다. 가장 적절한 치료는?",
+    "options": [
+      "배액술을 바로 실행한다.",
+      "항생제 투여",
+      "수술을 시행한다.",
+      "6 주정도 추적 관찰한다.",
+      "소마토스타틴 유사물질을 투여한다."
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "CT 소견상 급성 체액저류 또는 초기 가성낭종 의심 소견입니다. 감염을 동반하지 않고 증상이 없는 췌장 체액저류/가성낭종은 약 75%에서 수 주 이내에 자연 흡수되어 소실되기 때문에 6주 정도 추적 관찰합니다.",
+    "images": [
+      "images/wed0916_1/page11_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_17",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "천영국 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 12,
+    "question": "증상이 발생한 후 24 시간이나 48 시간 후에 응급실을 방문한 급성췌장염이 의심되는 환자에서 급성췌장염의 확진에 가장 민감도와 특이도가 높은 검사는?",
+    "options": [
+      "elevated serum amylase",
+      "hyperglycemia",
+      "elevated serum lipase",
+      "elevated liver enzyme",
+      "leukocytosis"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "아밀라아제는 발병 2~3일 후 정상화될 수 있으나 리파아제는 7~14일까지 지속 상승하며 췌장 특이도가 높아 지연 내원 환자에서 확진에 가장 민감도와 특이도가 높습니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_18",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "천영국 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 13,
+    "question": "65세 남자가 상복부 동통이 심해 응급실로 내원하였다. 술을 즐겨 마시지는 않았으나 최근에 스트레스로 인해 과음을 하였다고 한다. 체온은 38.3 도, 혈압은 105/65 mmHg, 호흡수는 23회/분이었다. 응급실에서 시행한 검사실 소견과 흉부 x-선 소견이다. 이 환자에서 췌장염의 중증도에서 예후와 관련 없는 소견은?",
+    "options": [
+      "BUN 38 mg/dL",
+      "65세 나이",
+      "흉부 x-선 소견 (Pleural effusion)",
+      "LDH 300 IU/L",
+      "체온 38.3도 (SIRS)"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "BISAP score는 BUN (>25 mg/dL), Impaired mental status, SIRS (체온 >38도 등), Age (>60세), Pleural effusion(흉부 X선) 5가지 항목으로 평가합니다. LDH는 BISAP 항목에 포함되지 않습니다.",
+    "images": [
+      "images/wed0916_1/page13_img1.png",
+      "images/wed0916_1/page13_img2.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_19",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 13,
+    "question": "평소에 음주 많이 하던 45세 남자가 2개월 전 급성 췌장염으로 한 달 입원 치료 후 퇴원하였다. 퇴원 후 다시 간혹 음주를 계속하였으며 수 일 전부터 복통이 재발하면서 열이 나서 내원하였다. 내원 시 체온 38.4℃였다. 2개월 전 입원했을 때의 복부 CT (A), 금번 입원 시 복부 CT (B, C)사진이다. 환자에게 수액을 투여하면서, 혈액 배양 검사를 시행 후, 광범위 항생제를 투여하였다. 하지만 4일 째에도 복통 호전 없고, 4일 간 계속 38.0℃ 아래로 열이 떨어지지 않았다. 이 환자에게 가장 먼저 고려해야 할 치료는?",
+    "options": [
+      "췌장 절제술 (pancreatectomy)",
+      "개복 괴사조직제거술 (open necrosectomy)",
+      "경피적 괴사조직제거술 (percutaneous necrosectomy)",
+      "내시경 경위 배액술 (endoscopic transgastric drainage)",
+      "내시경 경위 괴사조직제거술 (endoscopic transgastric necrosectomy)"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "감염된 낭종성 체액저류/가성낭종 또는 WON에서 항생제 투여에도 호전이 없을 때 step-up approach에 따라 내시경 경위 배액술(endoscopic transluminal drainage)을 먼저 고려합니다.",
+    "images": [
+      "images/wed0916_1/page14_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_20",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 14,
+    "question": "57세 남자가 복통으로 내원하여 시행한 혈액검사에서 amylase가 650 U/L 로 나왔다. 원인으로 생각해 볼 수 있는 복부질환이 아닌 것은?",
+    "options": [
+      "담낭염",
+      "장폐색",
+      "소화성 궤양 천공",
+      "자궁 외 임신 파열",
+      "만성 염증성 장질환"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "자궁외 임신 파열은 난관 질환으로 hyperamylasemia를 유발할 수 있으나 환자가 '남자'이므로 출제 오류로 4번, 5번 모두 정답 처리되었습니다. 본래 hyperamylasemia를 잘 유발하지 않는 복부 질환은 만성 염증성 장질환(5번)입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_21",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 15,
+    "question": "평소 음주 많이 하여 간경화로 간 내과 외래 추적하던 42세 남자가 3일간의 복통을 주소로 내원하여 혈액검사, 복부 CT를 시행 후, 혈관촬영을 하였다. 이 환자에게 가장 먼저 고려해야할 치료는?",
+    "options": [
+      "광범위 항생제 투여",
+      "색전술 (embolization)",
+      "내시경역행성담췌관조영술을 통한 췌관스텐트 삽입",
+      "경피적 괴사조직제거술 (percutaneous necrosectomy)",
+      "내시경 경위 괴사조직제거술 (endoscopic transgastric necrosectomy)"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "급성 췌장염의 혈관 합병증(가성동맥류 pseudoaneurysm 출혈 등 perivascular complications) 시 혈관조영술을 통한 색전술(angiographic embolization)이 1차 치료입니다.",
+    "images": [
+      "images/wed0916_1/page15_img1.png",
+      "images/wed0916_1/page15_img2.png",
+      "images/wed0916_1/page15_img3.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_22",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 16,
+    "question": "45세 남자환자가 복통으로 응급실로 내원하여, 급성 췌장염으로 진단받았다. 위 환자에서 첫 24시간 이내 중증도를 평가하는 경우 향후 나쁜 예후를 시사하는 항목이 아닌 것은?",
+    "options": [
+      "BUN 30 mg/dL",
+      "PaO2 55 mmHg",
+      "PCO2 35 mmHg",
+      "헤마토크릿 47%",
+      "혈청 Creatinine 3.0 mg/dL"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "나쁜 예후 인자: BUN > 20~25, PaO2 < 60 mmHg (호흡부전), Hct > 44% (혈액농축), Cr > 2.0 (신부전). PCO2 35 mmHg는 정상 범위입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_23",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 17,
+    "question": "54세 여자 환자가 2일간의 상복부 및 우하복부 통증으로 응급실으로 내원하였다. 최근 10년동안 매일 소주 두 병씩 먹던 환자였다. 내원 당시 혈압 116/65mmHg, 맥박수 분당 104회, 호흡수 분당 20회, 체온 36.5도였고 의식은 명료하였고, 급성 병색 소견을 보였으며, 내원 시 검사실 소견에서 Cr 2.1 mg/dL, 복부 CT에서 췌장 주위 다량의 액체 저류가 관찰되었다. 입원 3일째 Cr이 1.4 mg/dL로 호전되었다. 이 환자의 급성 췌장염의 중증도는?",
+    "options": [
+      "mild",
+      "mildly moderate",
+      "moderately severe",
+      "severe",
+      "평가할 수 없다"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "중등도 중증(moderately severe) 급성 췌장염은 48시간 이내에 회복되는 일시적 장기부전(transient organ failure: 본 증례에서 Cr 2.1 -> 1.4로 호전)이 있거나, 지속적 장기부전이 없는 국소 또는 전신 합병증이 있는 경우입니다. 48시간 이상 장기부전이 지속되면 severe 입니다.",
+    "images": [
+      "images/wed0916_1/page16_img1.png",
+      "images/wed0916_1/page16_img2.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_24",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "천영국 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 18,
+    "question": "74세 남자가 복부통증으로 응급실에서 시행한 복부 CT 에서 급성췌장염으로 진단 후 치료하였으나 입원 후 8 일이 지나도 항생제요법으로 호전되지 않고 38 도 고열과 복통이 지속되어 복부 CT 를 다시 시행한 사진이다. 치료는?",
+    "options": [
+      "세척 배액술",
+      "전췌장절제술",
+      "저지방식을 권장한다",
+      "항생제 투여 후 수액공급 후 경과관찰",
+      "역행적 췌담도 내시경을 통한 도관 삽입술"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "과거 해설) 급성췌장염에서 증상이 점점 악화되거나 감염이 동반된 광범위 괴사성췌장염은 배액술 또는 괴사조직 세척배액술을 시행한다.",
+    "images": [
+      "images/wed0916_1/page17_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_25",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "천영국 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 19,
+    "question": "37세 남자가 매일 음주 후 복통으로 내원하여 시행한 혈액검사와 복부 CT이다. 이후 통증과 고열이 지속되어 경피적배액술을 시행하였다. 이 환자에서 시행해야 할 치료는?",
+    "options": [
+      "개복 괴사조직절제술",
+      "내시경 경위배액술",
+      "내시경 경위 괴사조직절제술",
+      "경피적 괴사조직절제술",
+      "내시경역행성담췌관조영술을 통한 췌장스텐트 삽입"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "지속되는 췌관 파열이나 췌액 누출, 췌관 협착이 동반되어 있을 때 ERCP를 통한 췌장스텐트 삽입(pancreatic duct stent)을 시행합니다.",
+    "images": [
+      "images/wed0916_1/page18_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_26",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "신명석 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 20,
+    "question": "13세 남아가 구토와 급성 복통으로 응급실에 방문하였다. 혈액 검사 소견으로 amylase 565IU/L, lipase 279 IU/L 로 상승되었다. 복부 전산화 단층 촬영은 췌장의 크기가 증가하고 주위에 액체 저류가 관찰되었다. 이 환아에 대한 치료로 적절한 것은?",
+    "options": [
+      "구토 완화 시 조기 식이 진행",
+      "고지질 저당질 식이 소량씩 시도",
+      "구토 완화를 위해 항구토제 투여",
+      "통증 완화를 위해 morphine 투여",
+      "재발 방지를 위해 복통 소실 후까지 금식"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "최근 진료지침에서는 복통과 구토가 완화되고 장마비(ileus)가 호전되면 조기 경구/경장 식이(early enteral nutrition)를 가능한 한 빨리 진행하는 것을 권장합니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_27",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 21,
+    "question": "58세 여자가 심한 상복부 통증으로 내원하였다. 혈액검사와 복부CT결과가 아래와 같다. 가장 가능성 있는 진단은?\n\n- WBC 11,000/㎕ (seg 85%), Hb 14.5g/dl, Plt 157,000/㎕\n- AST/ALT 20/25 IU/L, TB/DB 2.2/1.5 mg/dl\n- Alk-P 105 IU/L, γGT 150 IU/L, amylase 1850 U/L",
+    "options": [
+      "급성 쓸개염",
+      "급성 쓸개관염",
+      "급성 췌장염",
+      "급성 창자막힘",
+      "급성 창자허혈"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "심한 상복부 통증, 정상치 3배 이상의 혈청 amylase 상승 (1850 U/L), CT상 췌장 종대 및 주위 침윤 소견으로 급성 췌장염에 합당합니다.",
+    "images": [
+      "images/wed0916_1/page20_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_28",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 22,
+    "question": "45세 남자가 이틀 전 시작된 심한 복통으로 응급실에 있다. 복부 전반으로 심한 압통이 있었고 반발통은 없었다. 복부 컴퓨터 단층촬영과 혈액검사이다. 나쁜 예후를 시사하는 지표는?\n\n- WBC 14,000/mm3 (호중구 85%)\n- Hb 14.5 g/dL, PLT 157,000/mm3\n- BUN/Cr 56/5.7 mg/dL\n- AST/ALT 70/80 IU/L, TB/DB 2.2/1.5 mg/dL\n- ALP 175 IU/L, γGT 150 IU/L, amylase 1223 U/L, lipase 956 U/L",
+    "options": [
+      "백혈구",
+      "혈소판",
+      "복통정도",
+      "리파제",
+      "크레아티닌"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "혈청 Cr > 2.0 mg/dL (증례에서 5.7 mg/dL) 및 BUN > 20~25 (증례에서 56 mg/dL)은 신부전(장기부전)을 시사하며 급성 췌장염에서 가장 중요한 중증 불량 예후 인자입니다.",
+    "images": [
+      "images/wed0916_1/page20_img2.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_29",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 23,
+    "question": "다음은 급성 췌장염의 원인들이다. 이중 가장 흔한 원인은?",
+    "options": [
+      "외상",
+      "음주",
+      "담석증",
+      "고중성지방혈증",
+      "오디괄약근 기능부전"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "급성 췌장염의 가장 흔한 원인은 담석증(Gallstone, ~40-70%)이며, 두 번째가 음주(Alcohol, ~25-35%)입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_30",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 24,
+    "question": "다음 중 급성 췌장염의 수술 적응증이 아닌 것은?",
+    "options": [
+      "장 천공과 같은 급성 외과 질환이 배제되지 않을 때",
+      "췌장 농양이 발생",
+      "췌장 관해 후 선택적 담도 외과 수술이 필요할 때",
+      "적절한 치료에도 호전이 안됨 (감염성 괴사 의심)",
+      "무증상의 단순 췌장 가성 낭종"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "무증상의 단순 췌장 가성 낭종은 상당수가 자연 소실되므로 수술 대상이 아니며 경과관찰합니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_31",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 25,
+    "question": "급성 췌장염의 국소합병증 중 수술적 치료(중재적 제거술)가 우선인 경우는?",
+    "options": [
+      "췌장부종",
+      "췌장복수",
+      "췌장 가성낭종",
+      "췌장 주위 수분 저류",
+      "감염성 췌장괴사"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "감염성 췌장괴사(Infected pancreatic necrosis)는 패혈증 및 사망 위험이 매우 높아 카테터 배액술 또는 수술적/내시경적 괴사조직제거술이 반드시 필요합니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_32",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 26,
+    "question": "50세 남자, 술을 마신 후 발생한 복통으로 내원하여 시행한 검사실 소견으로 amylase 590 IU/L, lipase 960 IU/L로 확인되었다. 상기 환자에 대해 설명으로 맞는 것은?",
+    "options": [
+      "금식은 효과가 없다",
+      "모든 환자에게 L-tube를 삽입한다.",
+      "배고픔을 호소할 때 oral intake를 시작한다.",
+      "amylase수치는 예후를 반영한다.",
+      "복통은 바로 누울 때 완화된다."
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "급성 췌장염에서 통증이 가라앉고 배고픔을 호소하며 장운동이 돌아오면 경구 식이를 시작합니다. 똑바로 누우면 후복막 자극으로 복통이 악화되며, 아밀라아제 수치는 예후와 비례하지 않습니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_33",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 27,
+    "question": "45세 남자가 급성 췌장염 4주 후 CT소견에서 4-5cm의 cyst가 발견되었을 때 치료방법은?",
+    "options": [
+      "경과 관찰",
+      "cystogastrostomy",
+      "distal pancreatectomy",
+      "cystojejunostomy",
+      "external drainage"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "특별한 증상이나 합병증이 없는 4~5cm 크기의 낭종은 약 40~50%에서 자연 소실되므로 수술이나 배액 없이 경과 관찰합니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_34",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 28,
+    "question": "다음 중 급성 췌장염 검사소견에서 불량한 예후 인자로 적합하지 않은 것은?",
+    "options": [
+      "Hct 42%",
+      "입원시 CRP 150",
+      "BMI: 32",
+      "혈청 BUN 26 mg/dL",
+      "맥박수 : 분당 140회"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "불량 예후 인자는 Hct > 44% (혈액농축), CRP > 150, BMI > 30 (비만), BUN > 20~25 mg/dL, 빈맥(SIRS) 등입니다. Hct 42%는 정상 범위입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_35",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 29,
+    "question": "췌장 거짓낭과 낭성 종양의 감별에 가장 도움되는 것은?",
+    "options": [
+      "췌장염 과거력",
+      "혈청 amylase",
+      "혈청 CEA",
+      "복부초음파 검사",
+      "복부혈관 조영술"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "췌장 거짓낭(pseudocyst)의 90% 이상은 급성 또는 만성 췌장염, 알코올 또는 복부 외상의 과거력이 동반되므로, 과거 췌장염 앓았던 병력이 낭성 종양과의 감별에 가장 중요한 단서가 됩니다.",
+    "images": [
+      "images/wed0916_1/page24_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_36",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 30,
+    "question": "급성췌장염에서 수술을 고려 해야하는 경우는?",
+    "options": [
+      "췌장 조직 괴사",
+      "췌장 주위 지방 괴사",
+      "파열 및 말초 혈액 백혈구 증가",
+      "췌장 주위 다발성 액체 저류",
+      "췌장 주위 괴사 조직 내 공기 음영"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "괴사 조직 내 공기 음영(gas bubble)은 가스 형성균에 의한 감염성 췌장괴사(infected necrosis)의 결정적 소견이며 적극적인 배액술 또는 외과적 수술이 필요합니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_37",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 31,
+    "question": "52세 남자가 급성췌장염으로 응급실에 와서 시행한 복부CT에서 담석성 췌장염 소견을 보이고 담낭 결석이 발견되었다. 담낭 결석에 대한 적절한 치료는?",
+    "options": [
+      "장기간의 금식요법을 시행한다",
+      "입원기간(퇴원 전)에 담낭절제술을 시행한다",
+      "역행적 췌담도 내시경을 통한 도관 삽입술",
+      "세척 배액술을 시행한다",
+      "저지방식을 권장한다"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "담석성 췌장염 환자에서 재발을 방지하기 위해 급성기가 호전된 후 같은 입원 기간 내(퇴원 전)에 담낭절제술(cholecystectomy)을 시행하는 것이 원칙입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_38",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 32,
+    "question": "지속적이며 찌르는 듯한 통증으로 주로 심와부 및 배꼽 주위에 발생하나 등, 가슴, 복부 쪽으로 방사되기도 한다. 똑바로 누우면 통증이 심해지고 등을 구부리고 무릎을 모으면 통증이 완화되는 질환은?",
+    "options": [
+      "위궤양",
+      "급성 췌장염",
+      "급성 충수염",
+      "급성 쓸개염",
+      "장간막 허혈증"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "등으로 방사되는 심와부 통증, 똑바로 누우면 악화되고 몸을 앞으로 웅크리면 완화되는 자세는 급성 췌장염의 전형적인 임상 양상입니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_39",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 33,
+    "question": "평소에 술을 즐겨 마시는 50세 남자 환자가 2일전부터 시작된 극심한 심와부 통증으로 내원하였다. 통증은 음식물을 섭취하면 악화되고 등으로 방사된다. 진단에 가장 유용한 검사는?",
+    "options": [
+      "혈청 칼슘",
+      "혈청 빌리루빈",
+      "혈청 리파아제 (lipase)",
+      "단순 복부 방사선 사진",
+      "상부 위장관 내시경"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "급성 췌장염의 생화학적 진단에 가장 특이도와 민감도가 높은 검사는 혈청 리파아제(serum lipase)입니다.",
+    "images": [
+      "images/wed0916_1/page26_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_40",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 34,
+    "question": "다음 중 급성 췌장염의 원인이 아닌 것은?",
+    "options": [
+      "ERCP",
+      "당뇨병 (DM)",
+      "Gallstones",
+      "Cystic fibrosis",
+      "Pancreas divisum"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "당뇨병은 췌장암의 위험 인자 또는 만성 췌장염의 결과로 나타날 수 있으나, 급성 췌장염을 일으키는 직접적인 원인은 아닙니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_41",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2009 (9학번)",
+    "yearNum": 9,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 35,
+    "question": "47세 남자가 상복부 통증이 심해 병원에 왔다. 내원당시 활력증후에서 체온은 38.3°C였고, 일반혈액검사와 CT소견은 다음과 같다. 이 환자에서 나쁜 예후를 시사하는 소견은?",
+    "options": [
+      "체온 38.3°C",
+      "일반혈액검사에서 백혈구 21,590/mm3",
+      "47세 남자",
+      "AST/ALT 50/100 IU/L",
+      "아밀라제 Amylase 1975 U/L"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Ranson criteria 입원 당시 나쁜 예후 인자: 나이 > 55세, 백혈구 > 16,000/mm3, 혈당 > 200, LDH > 350, AST > 250. 따라서 WBC 21,590/mm3이 불량 예후를 시사합니다. (아밀라아제 수치는 예후와 무관)",
+    "images": [
+      "images/wed0916_1/page28_img1.png",
+      "images/wed0916_1/page28_img2.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_42",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2009 (9학번)",
+    "yearNum": 9,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 36,
+    "question": "50세 남자가 급성 췌장염으로 입원하였다. 입원 후 보존적 치료를 시행하던 중 증상이 더욱 악화되었고, 체온은 39.4°C, 혈압 140/90mmHg, 맥박 120회/분, 호흡 26회/분, 혈액검사에서 백혈구 25,000/mm3이었다. 복부전산화단층촬영에서 췌장의 체부에 저음영의 조영증강이 되지 않는 부분이 관찰되었다. 다음 설명 중 옳은 것은?",
+    "options": [
+      "세침흡인술을 시행하여 세균 감염을 확인한다.",
+      "항생제는 일주일 후 복부전산화단층촬영에서 악화된 것이 확인된 후 투여한다.",
+      "항생제는 혈액배양검사에서 세균감염이 증명된 후에만 투여한다.",
+      "그람 양성균에 의한 감염인 경우가 많다.",
+      "세균 감염이 증명되면 응급 개복수술을 실시한다."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "괴사성 췌장염 환자에서 발열 및 백혈구 증가 등 감염이 의심되면 CT 유도하 세침흡인술(FNA) 및 그람염색/배양검사를 통해 감염 여부를 확인하고 적절한 항생제를 선택합니다.",
+    "images": []
+  },
+  {
+    "id": "0916_wed1_43",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2009 (9학번)",
+    "yearNum": 9,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 37,
+    "question": "상복부의 심한 통증을 호소하는 63세 남자환자의 검사실 소견에서 BUN/Cr 12.9/0.81 mg/dL, Total bilirubin 0.38 mg/dL, amylase 1732 였다. 진단을 위해 복부 CT 및 MRCP를 시행하였다. 이 환자의 치료로 가장 우선적으로 고려해야 할 것은?",
+    "options": [
+      "Infected necrosis가 의심되므로 즉시 외과적 절제수술을 시행하여야 한다.",
+      "환자를 모니터링하며 금식과 하루에 2-3liter 이상의 수액을 공급한다.",
+      "Cystic mass가 관찰되므로 응급으로 percutaneous drainage를 시행한다.",
+      "응급으로 ERCP를 시행한다.",
+      "항생제 치료로 염증을 치료한 후 담낭절제수술을 시행한다."
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "급성 췌장염의 가장 우선적이고 핵심적인 초기 보존적 치료는 금식과 충분한 수액 공급(하루 2~3L 이상, 젖산링거액)입니다.",
+    "images": [
+      "images/wed0916_1/page29_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_44",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2021 (총시)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 32,
+    "question": "65세 남자가 급성췌장염으로 치료 중 한달째 고열과 복통이 발생하였다. 상복부 주변으로 경계가 불분명한 덩이가 만져지고 압통이 있었고 약간의 반동압통도 있었다. 장음은 들리지 않았다. 혈압 120/70 mmHg, 맥박 100 회/분, 호흡 22 회/분, 체온 39℃였다. 복부전산화단층촬영 사진과 혈액검사 소견이다. 이 환자에서 수일간 정맥 항생제 투여를 하였지만, 임상적으로 호전이 없다면, 가장 먼저 고려해야 할 치료는?",
+    "options": [
+      "내시경 팽대조임근절개술 및 췌관스텐트 삽입",
+      "먼쪽 이자절제술 (distal pancreatectomy)",
+      "내시경 경위 배액술 (endoscopic transgastric drainage)",
+      "내시경 경위 괴사조직제거술 (endoscopic transgastric necrosectomy)",
+      "개복 괴사조직제거술 (open necrosectomy)"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "발병 4주 후 벽이 형성된 피막화괴사(WON) 또는 감염 낭종에서 항생제에 반응하지 않을 때 최소 침습적 step-up approach로 내시경 경위 배액술(endoscopic transgastric drainage)을 1차적으로 고려합니다.",
+    "images": [
+      "images/wed0916_1/page30_img1.png",
+      "images/wed0916_1/page31_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_45",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2020 (총시)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 12,
+    "question": "55세 남자가 급성췌장염으로 치료 중 한달째 고열과 복통이 발생하였다. 윗배와 좌상복부에 경계가 불분명한 덩이가 만져지고 압통이 있었고 약간의 반동 압통도 있었다. 장음은 들리지 않았다. 혈압 120/70mmHg, 맥박 100 회/분, 호흡 22 회/분, 체온 39 도였다. 가장 먼저 고려할 수 있는 치료는? (한가지)",
+    "options": [
+      "낭빈창자연결술 (cystojejunostomy)",
+      "개복 괴사조직제거술 (open necrosectomy)",
+      "경피적 괴사조직제거술 (percutaneous necrosectomy)",
+      "경피적 카테터 배액술 (percutaneous catheter drainage)",
+      "내시경 경위 괴사조직제거술 (endoscopic transgastric necrosectomy)",
+      "내시경 팽대조임근절개술 및 췌관스텐트 삽입",
+      "내시경역행성 담췌관 시술을 통한 담관스텐트 삽입",
+      "먼쪽 이자절제술 (distal pancreatectomy)"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "급성 췌장염에서 air bubble 이 보이고 lab 도 감염성 췌장 괴사에 합당합니다. 이 때는 step up approach 를 실시하여 덜 침습적인 경피적 카테터 배액술 또는 경피적 괴사조직제거술부터 고려합니다.",
+    "images": [
+      "images/wed0916_1/page32_img1.png"
+    ]
+  },
+  {
+    "id": "0916_wed1_46",
+    "subject": "수1_0916_급성췌장염",
+    "subjectName": "[09/16 수1] 급성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 1,
+    "year": "2020 (총시)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 13,
+    "question": "50세 남자가 윗배통증과 설사를 주소로 병원에 왔다. 30 년간 매일 소주 1 병씩 마셨다고 하며, 최근 3 개월 간 체중이 5kg 감소하였다고 하였다. 혈압 120/80mmHg, 맥박 95 회/분, 호흡 16 회/분, 체온 36.6 도 였다. 장음은 정상이었고, 진찰상 윗배에 경한 압통이 있었고, 반발압통은 없었지만 마약성 진통제로도 통증 조절이 잘되지 않았다. 복부 컴퓨터 단층촬영 사진에서 췌관 협착 및 상류 췌관 확장이 관찰되었다. 이 환자가 계속 복통이 조절되지 않을 경우 가장 먼저 고려해 볼 수 있는 치료는? (한가지)",
+    "options": [
+      "낭빈창자연결술 (cystojejunostomy)",
+      "개복 괴사조직제거술 (open necrosectomy)",
+      "경피적 괴사조직제거술 (percutaneous necrosectomy)",
+      "경피적 카테터 배액술 (percutaneous catheter drainage)",
+      "내시경 경위 괴사조직제거술 (endoscopic transgastric necrosectomy)",
+      "내시경 팽대조임근절개술 및 췌관스텐트 삽입",
+      "내시경역행성 담췌관 시술을 통한 담관스텐트 삽입",
+      "먼쪽 이자절제술 (distal pancreatectomy)"
+    ],
+    "answer": [
+      6
+    ],
+    "explanation": "만성 췌장염에서 주췌관 협착으로 인한 불응성 복통 시, 내시경 유두괄약근절개술(EST) 및 췌관 스텐트 삽입을 통해 췌관 감압을 도모합니다.",
+    "images": [
+      "images/wed0916_1/page32_img2.png",
+      "images/wed0916_1/page32_img3.png"
+    ]
+  },
+  {
+    "id": "0916_wed2_01",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "72. 57세 남자가 내원 전일부터 윗배가 아프고 얼굴이 노래진다고 병원에 왔다. 통증은 수시간 지속된다고 한다. 술 또는 흡연의 기왕력은 없었다. 혈압 140/80 mmHg, 맥박수 10회/분, 호흡수 22회/분, 체온 37.6℃이다. 장음은 약간 감소되어 있으며 윗배 압통이 있고 반동압통은 없다. 복부 컴퓨터단층촬영 사진 (사진1)이다. 혈액검사 결과는 다음과 같다. 치료는?\n| 혈색소 15.3 g/dL, 백혈구 11,500/mm3 혈소판 275,000/mm3 혈액요소질소 15.7 mg/dL, 크레아티닌 1.1 mg/dL 총빌리루빈 4.0 mg/dL, 직접빌리루빈 2.7 mg/dL 아스파트산아미노기전달효소 435 U/L, 알라닌아미노기전달효소 554 U/L 알칼리성인산분해효소 681 U/L, 감마글루타밀전달효소 1120 U/L 녹말분해효소 272 U/L, 지방분해효소 324 U/L 면역글로불린G 1351 mg/dL (참고치, 700 ~ 1600) 면역글로불린G4 1609 mg/L (참고치, 39.0 ~ 864.0) CA 19-9 121 (참고치, 0-33)",
+    "passage": "",
+    "image": "images/wed0916_2/image1.png",
+    "images": [
+      "images/wed0916_2/image1.png"
+    ],
+    "options": [
+      ") 항암제",
+      ") 담석용해제",
+      ") 소염진통제",
+      ") 면역억제제",
+      ") 스테로이드제"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "공식해설) 프레드니손(Prednisone)은 보통 초기 용량으로 하루 40mg을 4주간 투여한다. 이후 임상적 지표들을 추적 관찰하며 매주 5mg씩 용량을 줄여나간다. 증상 완화, 간 생화학 수치, 그리고 췌장과 담관의 (영상학적) 소견을 추적하여 치료 반응을 평가한다. 만약 스테로이드 치료에 대한 반응이 좋지 않다면, 이는 췌장암과 같은 다른 진단을 시사할 수 있다.  CT에서 췌장이 부어있는 것이 보이고 Amylase, Lipase가 올랐으니 급성 췌장염입니다. 게다가 IgG4 수치가 높게 나타나는 것을 봤을때 그 중 자가면역성 췌장염을 의심할 수 있고, 이때 치료는 steroid!!",
+    "explanationOfficial": "공식해설) 프레드니손(Prednisone)은 보통 초기 용량으로 하루 40mg을 4주간 투여한다. 이후 임상적 지표들을 추적 관찰하며 매주 5mg씩 용량을 줄여나간다. 증상 완화, 간 생화학 수치, 그리고 췌장과 담관의 (영상학적) 소견을 추적하여 치료 반응을 평가한다. 만약 스테로이드 치료에 대한 반응이 좋지 않다면, 이는 췌장암과 같은 다른 진단을 시사할 수 있다.  CT에서 췌장이 부어있는 것이 보이고 Amylase, Lipase가 올랐으니 급성 췌장염입니다. 게다가 IgG4 수치가 높게 나타나는 것을 봤을때 그 중 자가면역성 췌장염을 의심할 수 있고, 이때 치료는 steroid!!",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_02",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "73. 72세 남자가 6개월 전부터 배가 아프고 설사를 한다고 병원에 왔다. 식사 후에 증상은 악화되었다고 한다. 35년간 매일 소주 3병씩 마셨다고 하며, 최근 3개월간 체중이 5kg 감소하였다고 하였다. 혈압 110/90 mmHg, 맥박 90회/분, 호흡 18회/분, 체온 36.2℃였다. 장음은 정상이었고, 복부에 압통이나 반동압통은 없다. 복부 X선 검사(사진1)이다. 혈액검사 결과는 다음과 같다. 검사는?\n혈색소 10.0 g/dL, 백혈구 5,300/mm3, 혈소판 168,000/mm3 공복혈당 320 mg/dL, 혈액요소질소 10.0 mg/dL, 크레아티닌 0.4 mg/dL 총빌리루빈 0.8 mg/dL, 직접빌리루빈 0.2 mg/dL 아스파트산아미노기전달효소 60 U/L, 알라닌아미노기전달효소 41 U/L 알칼리성인산염분해효소 115 U/L, 감마-글루타밀전달효소 122 U/L 녹말분해효소 47 U/L, 지방분해효소 51 U/L",
+    "passage": "",
+    "image": "images/wed0916_2/image2.png",
+    "images": [
+      "images/wed0916_2/image2.png"
+    ],
+    "options": [
+      ") 복부초음파",
+      ") 혈중 CA 19-9",
+      ") 혈중 지방분해효소",
+      ") 혈중 녹말분해효소",
+      ") 분변 단백분해효소"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "공식해설) 증상이 비교적 가벼운 환자들의 경우, 외분비 췌장 기능 부전을 확진하기 위해 추가적인 검사가 필요할 수 있습니다. 예를 들어, 형태가 있는 대변 검체에서 대변 엘라스타제-1 수치를 무작위로 측정하는 것과 같은 검사입니다. (해리슨 내과학 21판)  이번에도 출제예고 내용입니다 복구사진에서는 잘 안보이는데 복부 xray 가운데 하얀 석회화 소견이 있습니다. 6개월 이상 지속되는 증상 + 식사 후 통증 + alcoholic + 체중감소 + 당뇨 + 설사(지방변이겠죠 아마도?) 이미 망가질대로 망가진 상황이라 amylase, lipase는 그닥 높지 않습니다. 힌트를 마구마구 줬네요 가장 유용한 검사는 분변 elastase",
+    "explanationOfficial": "공식해설) 증상이 비교적 가벼운 환자들의 경우, 외분비 췌장 기능 부전을 확진하기 위해 추가적인 검사가 필요할 수 있습니다. 예를 들어, 형태가 있는 대변 검체에서 대변 엘라스타제-1 수치를 무작위로 측정하는 것과 같은 검사입니다. (해리슨 내과학 21판)  이번에도 출제예고 내용입니다 복구사진에서는 잘 안보이는데 복부 xray 가운데 하얀 석회화 소견이 있습니다. 6개월 이상 지속되는 증상 + 식사 후 통증 + alcoholic + 체중감소 + 당뇨 + 설사(지방변이겠죠 아마도?) 이미 망가질대로 망가진 상황이라 amylase, lipase는 그닥 높지 않습니다. 힌트를 마구마구 줬네요 가장 유용한 검사는 분변 elastase",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_03",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 3,
+    "question": ". 58세 남자가 상복부 통증을 주소로 내원하였다. 환자는 2년 전부터 기름진 음식을 섭취한 후 반복적인 복통을 경험해 왔다. 20세 이후 매일 담배 1갑, 소주 1-2병의 음주력이 있었다. 활력징후는 혈압 110/70 mmHg, 맥박 84회/분, 호흡수 20회/분, 체온 36.9℃였다. 복부 진찰에서 장음은 증가되어 있었으며, 압통이나 반동압통은 없었다. 혈액검사 결과는 다음과 같다. 복부 전산화단층촬영(사진 1)에서 췌장의 위축과 석회화 소견이 관찰되었다. 이 환자에게 가장 적절한 치료는 무엇인가? (총시)",
+    "passage": "",
+    "image": "images/wed0916_2/image3.png",
+    "images": [
+      "images/wed0916_2/image3.png"
+    ],
+    "options": [
+      "경구 제산제",
+      "경구 진경제",
+      "경구 항생제",
+      "경구 유산균제",
+      "경구 췌장 효소제"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "공식해설) 장기간의 음주력, 반복적인 상복부 통증, CT상 췌장 위축 및 하얀색으로 보이는 석회화는 전형적인 만성 췌장염(Chronic Pancreatitis)의 소견입니다. 만성 췌장염 환자의 통증 조절과 흡수 장애 개선을 위해 가장 적절한 치료는 췌장 효소제 투여입니다.  2년전부터 식후 복통 -> 특히 기름진 음식은 CCK 분비 증가 -> 췌장 분비자극 매일 음주, CT의 췌장 석회화 소견 -> 만성 췌장염 이 환자의 치료는 췌장효소제!!",
+    "explanationOfficial": "공식해설) 장기간의 음주력, 반복적인 상복부 통증, CT상 췌장 위축 및 하얀색으로 보이는 석회화는 전형적인 만성 췌장염(Chronic Pancreatitis)의 소견입니다. 만성 췌장염 환자의 통증 조절과 흡수 장애 개선을 위해 가장 적절한 치료는 췌장 효소제 투여입니다.  2년전부터 식후 복통 -> 특히 기름진 음식은 CCK 분비 증가 -> 췌장 분비자극 매일 음주, CT의 췌장 석회화 소견 -> 만성 췌장염 이 환자의 치료는 췌장효소제!!",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_04",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 4,
+    "question": "74. 70세 남자가 복통으로 병원에 왔다. 통증은 수시간 지속되었으며 토했다고 한다. 술 또는 흡연의 기왕력은 없었다. 5년전부터 담낭석을 복용하고 있다. 혈압 150/90 mmHg, 맥박수 110회/분, 호흡수 22회/분, 체온 39.2℃이다. 장음은 감소되어 있으며 배에 압통이 있으며 반동압통은 없다. 복부 컴퓨터단층촬영 사진(사진1)이다. 혈액검사 결과는 다음과 같다. 필요한 치료는?\n혈색소 13.1 g/dL, 백혈구 15,500/mm3, 혈소판 425,000/mm3 혈액요소질소 13.1 mg/dL, 크레아티닌 0.53 mg/dL 총빌리루빈 0.7 mg/dL, 직접빌리루빈 0.4 mg/dL 아스파트산아미노기전달효소 13 U/L, 알라닌아미노기전달효소 13 U/L 알칼리성인산염분해효소 79 U/L, 감마-글루타밀전달효소 29 U/L 아밀라아제 99 U/L, 리파아제 131.7 U/L",
+    "passage": "",
+    "image": "images/wed0916_2/image4.png",
+    "images": [
+      "images/wed0916_2/image4.png"
+    ],
+    "options": [
+      ") 이자효소제",
+      ") 내시경초음파유도배액",
+      ") 췌장절제술",
+      ") 양성펌프억제제",
+      ") 스테로이드제"
+    ],
+    "answer": [
+      2
+    ],
+    "answerText": "2번",
+    "isMultipleChoice": false,
+    "explanation": "공식해설) 만성 췌장염 통증의 내시경적 치료는 괄약근 절개술, 췌관 스텐트 삽입술, 결석 제거술, 그리고 췌장 가성낭종 배액술을 포함할 수 있습니다 (해리슨 21판). 현재의 치료 패러다임은 단계적 접근법(step-up approach)입니다. 즉, 먼저 (경피적 또는 내시경을 통한) 위 또는 십이지장을 경유하는 배액술을 시행하고, 필요한 경우에만 다음 단계로 내시경적 또는 드물게 수술적 괴사조직 제거술을 시행하는 것입니다.  환자 췌장 부위의 multiple calcification이 보이는 상황이며, 만성 췌장염을 의심할 수 있습니다. 5년전부터 담석이 있었다고 하니까 췌장염이 재발하기 좋은 환경입니다.  재발성 췌장염에서는 pseudocyst가 흔한 합병증이고, 5년동안 놔뒀으니 자연스럽게 만성췌장염으로 진행했을 것으로 추정되는 상황입니다. 해당 문제는 만성 췌장염에서 합병증이 발생한 것으로 보입니다. 우선 심한 통증과 고열이 있는 상황이니 이자효소제를 주는것보다 pseudocyst부터 치료하는게 먼저입니다.  올해 별표내용도 아니고 작년에도 설명 안하신 부분입니다... 바로 직전문제에는 췌장효소제라고 나와있고 이번 문제에는 이자효소제라고 나와있는거 보면 타교수님 문제가 오분류된거아닐까요? (고대파드에 비슷한 문제 있음)  교수님은 의학용어집 6판 기준 용어로만 출제한다고 하셨습니다.",
+    "explanationOfficial": "공식해설) 만성 췌장염 통증의 내시경적 치료는 괄약근 절개술, 췌관 스텐트 삽입술, 결석 제거술, 그리고 췌장 가성낭종 배액술을 포함할 수 있습니다 (해리슨 21판). 현재의 치료 패러다임은 단계적 접근법(step-up approach)입니다. 즉, 먼저 (경피적 또는 내시경을 통한) 위 또는 십이지장을 경유하는 배액술을 시행하고, 필요한 경우에만 다음 단계로 내시경적 또는 드물게 수술적 괴사조직 제거술을 시행하는 것입니다.  환자 췌장 부위의 multiple calcification이 보이는 상황이며, 만성 췌장염을 의심할 수 있습니다. 5년전부터 담석이 있었다고 하니까 췌장염이 재발하기 좋은 환경입니다.  재발성 췌장염에서는 pseudocyst가 흔한 합병증이고, 5년동안 놔뒀으니 자연스럽게 만성췌장염으로 진행했을 것으로 추정되는 상황입니다. 해당 문제는 만성 췌장염에서 합병증이 발생한 것으로 보입니다. 우선 심한 통증과 고열이 있는 상황이니 이자효소제를 주는것보다 pseudocyst부터 치료하는게 먼저입니다.  올해 별표내용도 아니고 작년에도 설명 안하신 부분입니다... 바로 직전문제에는 췌장효소제라고 나와있고 이번 문제에는 이자효소제라고 나와있는거 보면 타교수님 문제가 오분류된거아닐까요? (고대파드에 비슷한 문제 있음)  교수님은 의학용어집 6판 기준 용어로만 출제한다고 하셨습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_05",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 5,
+    "question": ". 4?세 남자가 주 4~5회동안 술을 마시는데 한번 마실 때 소주 1병씩 마시고 체중 5kg가 최근 몇 개월 간 감소했다고 한다. 또한 대변이 가벼워서 뜬다고 한다. 이 남자의 진단을 위해 검사해야 하는 것은?",
+    "passage": "",
+    "image": "images/wed0916_2/image5.png",
+    "images": [
+      "images/wed0916_2/image5.png"
+    ],
+    "options": [
+      ") 분변 elastase",
+      ") 혈중 아밀라제",
+      ") 혈중 리파제",
+      ") 혈중 면역글로불린",
+      ") 혈중 C단백"
+    ],
+    "answer": [
+      1
+    ],
+    "answerText": "1번",
+    "isMultipleChoice": false,
+    "explanation": "xray는 잘 안보이지만 석회화가 있었겠죠..? 만성음주자, 체중감소, 물에 뜨는 대변 (지방변), 당뇨 -> 만성 췌장염 소견입니다. -> 유용한검사는 분변 elastase 2,3) 급성 췌장염에서 유용 4) 자가면역췌장염",
+    "explanationOfficial": "xray는 잘 안보이지만 석회화가 있었겠죠..? 만성음주자, 체중감소, 물에 뜨는 대변 (지방변), 당뇨 -> 만성 췌장염 소견입니다. -> 유용한검사는 분변 elastase 2,3) 급성 췌장염에서 유용 4) 자가면역췌장염",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_06",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 6,
+    "question": "지사제",
+    "passage": "",
+    "image": "images/wed0916_2/image6.jpeg",
+    "images": [
+      "images/wed0916_2/image6.jpeg"
+    ],
+    "options": [
+      "0세 남자가 외출 직후 통증과 설사를 주소로 병원에 왔다. 20년간 매일 소주 1병을 마셨고 최근 체중감소와 당뇨약을 먹기 시작하였다. 활력증후군은 이상 소견이 없었고, 장음은 정상이었고, 진찰상 복부의 압통은 없었다. 혈액검사는 다음과 같았다. CT 사진이다. 우선적으로 처방해야 할 치료제는?",
+      "이자효소제",
+      "양성자펌프억제제",
+      "담석용해제",
+      "항진경제"
+    ],
+    "answer": [
+      2
+    ],
+    "answerText": "2번",
+    "isMultipleChoice": false,
+    "explanation": "만성음주자, 체중감소, 당뇨, 췌장의 석회화 -> 만성췌장염 -> 치료는 췌장효소제",
+    "explanationOfficial": "만성음주자, 체중감소, 당뇨, 췌장의 석회화 -> 만성췌장염 -> 치료는 췌장효소제",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_07",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": true,
+    "qNumber": 7,
+    "question": "혈중 아밀라제 수치가 진단에 중요하다.",
+    "passage": "",
+    "image": "",
+    "images": [],
+    "options": [
+      ". 55세 남자가 1년전부터 중증 복통이 있으면서, 최근에는 대변에 기름이 뜬다고 외래로 내원하였다. 20세 이후로 매일 담배 한갑, 소주 1~2병씩 마셨다고 한다. 맞는 설명은?",
+      "양성자펌프억제제가 치료효과에 좋다.",
+      "암(cancer)으로 발전할 수 있다.",
+      "완치가 가능하다.",
+      "기름변은 상기 질환의 초기 병변을 시사하는 임상소견이다."
+    ],
+    "answer": [
+      3
+    ],
+    "answerText": "3번",
+    "isMultipleChoice": false,
+    "explanation": "1) 급성췌장염 2) 위산 때문에 경구 췌장효소제의 활성이 떨어지는 경우에만 보조적으로만 추가한다고 합니다. 4) 비가역적입니다. 5) 지방변은 비특이적이지 않을까요... 게다가 lipase 분비기능이 많이 떨어질 때 발생하니까 후기소견임. 그리고 만성췌장염은 초기병변을 알수있는 지표가 딱히 없다고 했습니다.",
+    "explanationOfficial": "1) 급성췌장염 2) 위산 때문에 경구 췌장효소제의 활성이 떨어지는 경우에만 보조적으로만 추가한다고 합니다. 4) 비가역적입니다. 5) 지방변은 비특이적이지 않을까요... 게다가 lipase 분비기능이 많이 떨어질 때 발생하니까 후기소견임. 그리고 만성췌장염은 초기병변을 알수있는 지표가 딱히 없다고 했습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_08",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 8,
+    "question": "경역행성담췌관조영술 그리고, 내시경역행성담췌관조영술시 원위부담관에서 조직검사를 시행하였다. 이 환자의 치료는?\n6. 75세 남자가 한달 전부터 시작된 황달과 윗배 불편감을 주소로 내원하였다. 혈액검사, 복부컴퓨터단층촬영, 내시\n백혈구 8,100/mm3, 공복혈당 100 mg/dL 아스파르테이트아미노전달효소 180 U/L 알라닌아미노전달효소 240 U/L 총빌리루빈 6.5 mg/dL, 직접빌리루빈 4.9 mg/dL 아밀라제 250 U/L, 리파아제 300 U/L 혈중 면역글로불린 G4 : 450 mg/L (참고치 3.9~86.4 mg/dL) CA19-9 : 7.0 U/ml (참고치 0~37 U/ml)",
+    "passage": "",
+    "image": "images/wed0916_2/image7.emf",
+    "images": [
+      "images/wed0916_2/image7.png"
+    ],
+    "options": [
+      ") 주사용 항생제",
+      ") 경구 스테로이드",
+      ") 이자샘창자절제술",
+      ") 링거락테이트 수액",
+      ") 내시경 담관 금속스텐트 삽입"
+    ],
+    "answer": [
+      2
+    ],
+    "answerText": "2번",
+    "isMultipleChoice": false,
+    "explanation": "공식해설) 복부전산화단층촬영에서 췌장의 미만성종대와 hypodense rim, 내시경역행성담췌관조영술에서 원위부담관의 협착, 혈중 면역글로불린 G4의 증가, 조직염색에 IgG4 stain 양성으로 자가면역성췌장염에 합당한 소견으로 치료는 경구스테로이드 투여.  IgG4 높으니까 AIP -> Steroid",
+    "explanationOfficial": "공식해설) 복부전산화단층촬영에서 췌장의 미만성종대와 hypodense rim, 내시경역행성담췌관조영술에서 원위부담관의 협착, 혈중 면역글로불린 G4의 증가, 조직염색에 IgG4 stain 양성으로 자가면역성췌장염에 합당한 소견으로 치료는 경구스테로이드 투여.  IgG4 높으니까 AIP -> Steroid",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_09",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 9,
+    "question": "이후로 매일 소주 1~2병씩 마셨다고 한다. 진찰상 복부에 압통 및 반발통은 없었고, 덩이도 만져지지는 않았다. 단순\n7. 52세 남자가 수개월 전부터 복통이 자주 있으면서 최근에는 대변에 기름이 둥둥 뜬다고 외래로 내원하였다. 20세\n복부 X선 사진이다. 이 환자에서 가장 먼저 투여할 약제는?\n혈색소 11.5 g/dL, 백혈구 7,100/mm3, 혈소판 ?? 아스파르테이트아미노전달효소 25 U/L, 알라닌아미노전달효소 37 U/L 총빌리루빈 1.0 mg/dL, 알칼리인산분해효소 110 U/L 아밀라제 45 U/L, 리파아제 42 U/L",
+    "passage": "",
+    "image": "images/wed0916_2/image8.emf",
+    "images": [
+      "images/wed0916_2/image8.png"
+    ],
+    "options": [
+      ") 유산균제제",
+      ") 이자효소제",
+      ") 경구 항생제",
+      ") 프로톤 펌프 억제제",
+      ") 비스테로이드성 진통제"
+    ],
+    "answer": [
+      2
+    ],
+    "answerText": "2번",
+    "isMultipleChoice": false,
+    "explanation": "수개월 복통, 지방변, 만성음주, xray의 석회화 -> 만성췌장염",
+    "explanationOfficial": "수개월 복통, 지방변, 만성음주, xray의 석회화 -> 만성췌장염",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_10",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 10,
+    "question": "단순복부 X 선 사진이다. 이 환자에서 가장 의심되는 진단은? (18)\n. 55세 남자가 수개월 전부터 복통이 자주 있으면서, 최근에는 대변에 기름이 둥둥 뜬다고 외래로 내원하였다.\n0세 이후로 매일 소주 1-2병씩 마셨다고 한다. 진찰상 복부에 압통 및 반발통은 없었고, 덩이도 만져지지 않았다.\n(화살표는 없었음)",
+    "passage": "",
+    "image": "images/wed0916_2/image9.jpeg",
+    "images": [
+      "images/wed0916_2/image9.jpeg"
+    ],
+    "options": [
+      ") 소화성궤양",
+      ") 급성당남염",
+      ") 급성위염",
+      ") 만성췌장염",
+      ") 요로결석"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "음주력, 복통, 소화불량 (흡수장애, 지방변) 있으므로 전형적인 만성췌장염을 의심할 수 있습니다.",
+    "explanationOfficial": "음주력, 복통, 소화불량 (흡수장애, 지방변) 있으므로 전형적인 만성췌장염을 의심할 수 있습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_11",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 11,
+    "question": ". 50 세 남자가 갑작스러운 복통으로 입원하였습니다. 혈압은 110/80, 체온은 36.8, 호흡은 20/분, pulse rate는 90/분이었습니다. 그리고 다음과 같은 혈액 검사 결과와 영상 검사 결과가 나왔습니다. 치료는? (18)",
+    "passage": "",
+    "image": "images/wed0916_2/image11.png",
+    "images": [
+      "images/wed0916_2/image11.png",
+      "images/wed0916_2/image10.png"
+    ],
+    "options": [
+      ") 응급개복술",
+      ") 피부간경유배액",
+      ") 비위관삽입배액술",
+      ") 복강동맥 조영술",
+      ") 복강경하 탐색"
+    ],
+    "answer": [
+      1
+    ],
+    "answerText": "1번",
+    "isMultipleChoice": false,
+    "explanation": "급성 췌장염 안배웠습니다 재작파 해설 첨부할게용",
+    "explanationOfficial": "급성 췌장염 안배웠습니다 재작파 해설 첨부할게용",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_12",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 12,
+    "question": "백혈구 8,100/mm3, 공복혈당 100 mg/dL 아스파르테이트아미노전달효소 180 U/L, 알라닌아미노전달효소 240 U/L,\n. 72세 남자가 한달전부터 시작된 황달과 윗배 불편감을 주소로 내원하였다. 혈액검사와 복부컴퓨터단층촬영, 내시경역행성담췌관조영술 사진이다. 이 환자에서 내시경역행성담췌관조영술 시 원위부담관에서 조직검사를 시행하였다. 추가로 시행해야 할 면역염색은? (18)\n총빌리루빈 5.5 mg/dL, 직접빌리루빈 3.9 mg/dL, 아밀라제 170 U/L, 리파아제 320 U/L,\n혈중 면역글로불린 G4: 320 mg/L (참고치 3.9~86.4 mg/dL), CA19-9: 5.0 U/mL (참고치 0~37 U/mL)",
+    "passage": "",
+    "image": "images/wed0916_2/image12.jpeg",
+    "images": [
+      "images/wed0916_2/image12.jpeg"
+    ],
+    "options": [
+      "IgG4 stain",
+      "Sudan stain",
+      "H&E stain",
+      "Congo red stain",
+      "Periodic acid-Schiff stain"
+    ],
+    "answer": [
+      1
+    ],
+    "answerText": "1번",
+    "isMultipleChoice": false,
+    "explanation": "IgG4가 높으니 AIP type 1. IgG4 염색하면되겠죠",
+    "explanationOfficial": "IgG4가 높으니 AIP type 1. IgG4 염색하면되겠죠",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_13",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 13,
+    "question": "(오른쪽은 교재사진 참고)\n. 50세 남자가 1년전부터 종종 복통이 있으면서 최근에는 대변에 기름이 뜬다고 내원하였다. 20세 이후로 매일 소주 1~2 병씩 마셨다. 다음은 이 환자의 복부 x 선 사진이다. 이 환자의 치료는? (2 가지) (17)\n) 지사제\n) 제산제\n) 진통제",
+    "passage": "",
+    "image": "images/wed0916_2/image13.png",
+    "images": [
+      "images/wed0916_2/image13.png",
+      "images/wed0916_2/image14.jpeg",
+      "images/wed0916_2/image15.jpeg"
+    ],
+    "options": [
+      ") 항생제",
+      ") 이자효소제",
+      "6) 양성자펌프억제제",
+      "7) 글루코코르티코이드",
+      "8) 락테이티드 링거용액"
+    ],
+    "answer": [
+      3,
+      5
+    ],
+    "answerText": "[3, 5]",
+    "isMultipleChoice": true,
+    "explanation": "단순복부사진에서 만성췌장염의 특징적인 소견인 췌장 석회화 및 췌석이 다발성으로 관찰된다.  또한 복통과 소화불량, 지방변(대변에 기름이 둥둥 뜬다.)이다.  만성췌장염의 치료는 진통제(복통 치료)와 이자효소제의 투여(소화불량 치료)이다.  이번시간에 복통 치료는 배우지 않았습니다.",
+    "explanationOfficial": "단순복부사진에서 만성췌장염의 특징적인 소견인 췌장 석회화 및 췌석이 다발성으로 관찰된다.  또한 복통과 소화불량, 지방변(대변에 기름이 둥둥 뜬다.)이다.  만성췌장염의 치료는 진통제(복통 치료)와 이자효소제의 투여(소화불량 치료)이다.  이번시간에 복통 치료는 배우지 않았습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_14",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 14,
+    "question": ". 24세 남자가 4시간 전부터 배가 아파서 병원에 왔다. 3개월 전부터 간헐적인 설사와 6kg 정도의 체중감소가 있었다고 한다. 혈압 110/70 mmHg, 맥박 108 회/분, 호흡 14 회/분, 체온 38도이다. 배 청진에서 장음이 들리지 않고, 배는 팽만하고 배 전체에 압통과 반동압통이 있다. 혈액검사 결과는 다음과 같다. 검사는? (17)",
+    "passage": "",
+    "image": "images/wed0916_2/image16.png",
+    "images": [
+      "images/wed0916_2/image16.png"
+    ],
+    "options": [
+      ") 소장조영술",
+      ") 대장내시경검사",
+      ") 복부 초음파검사",
+      ") 복부 컴퓨터단층촬영",
+      ") 위창자간막동맥조영술"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "급성 복통 환자에서 압통, 반동압통과 같은 경고 증상이 있는 경우, 만성췌장염이 의심되기 때문에 복부 컴퓨터 단층 촬영을 우선 시행해야 한다.  * 복부 CT -> MRI/MRCP -> EUS -> 내분비검사 -> 침습적검사  가장 많이 사용하는 영상검사는 cross-sectional CT라고하네용 근데 만성췌장염이라고 공식해설에 나와있는거 오타같습니다...",
+    "explanationOfficial": "급성 복통 환자에서 압통, 반동압통과 같은 경고 증상이 있는 경우, 만성췌장염이 의심되기 때문에 복부 컴퓨터 단층 촬영을 우선 시행해야 한다.  * 복부 CT -> MRI/MRCP -> EUS -> 내분비검사 -> 침습적검사  가장 많이 사용하는 영상검사는 cross-sectional CT라고하네용 근데 만성췌장염이라고 공식해설에 나와있는거 오타같습니다...",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_15",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 15,
+    "question": ". 50세 남자가 1년 전부터 종종 복통이 있으면서, 최근에는 대변에 기름이 뜬다고 외래로 내원하였다. 20세 이후로 매일 소주 1~2병씩 한다. 이 환자에서 가장 먼저 고려해야 할 약제는? (15)",
+    "passage": "",
+    "image": "",
+    "images": [],
+    "options": [
+      ") 제산제",
+      ") 항생제",
+      ") 지사제",
+      ") 이자효소제",
+      ") 양성자펌프억제제"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "만성췌장염의 대표적인 증상인 지방변의 치료는 이자효소제의 투여이다.",
+    "explanationOfficial": "만성췌장염의 대표적인 증상인 지방변의 치료는 이자효소제의 투여이다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_16",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 16,
+    "question": "Rovsing’s sign",
+    "passage": "",
+    "image": "images/wed0916_2/image17.jpeg",
+    "images": [
+      "images/wed0916_2/image17.jpeg"
+    ],
+    "options": [
+      ". 52세 남자가 복부통증으로 음급실로 와서 시행한 신체검사에서 아래와 같았다. 과거에 만성적인 음주력이 있고 활력증후는 체온 36.5’C, 맥박수 100회, 호흡수 14회였고, 혈청 total bilirubin 1.0mg/d, amylase 1000 IU/L, lipase 1300 IU/L이었다. 사진에서 보이는 이학적 소견은? (15)",
+      "Murphy’s sign",
+      "Grey Turner sign",
+      "Trousseau sign",
+      "Homan’ sign"
+    ],
+    "answer": [
+      3
+    ],
+    "answerText": "3번",
+    "isMultipleChoice": false,
+    "explanation": "심각한 췌장염에 의해 후복막 출혈이 나타나는 경우. Grey Turner sign, Cullen sign.   이번 시간에 배우지는 않았는데 1차범위였죠",
+    "explanationOfficial": "심각한 췌장염에 의해 후복막 출혈이 나타나는 경우. Grey Turner sign, Cullen sign.   이번 시간에 배우지는 않았는데 1차범위였죠",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_17",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 17,
+    "question": "혈압이 120/80, 맥박 95, 호흡 16 회/분, 체온 36.6도였다. 장음은 정상이었고 진찰상 복부에 압통은 없었다.\n. 44세 남자가 윗배 통증과 설사를 주소로 병원에 왔다. 20년간 매일 소주 1병씩 먹었다. (아주 일부 소견부분 잘림)\n혈액검사는 다음과 같았다. 복부컴퓨터 단층촬영 사진이다. 치료로 투여해야 하는 약제는? (15)",
+    "passage": "",
+    "image": "images/wed0916_2/image18.jpeg",
+    "images": [
+      "images/wed0916_2/image18.jpeg"
+    ],
+    "options": [
+      ") 지사제",
+      ") 이자효소제",
+      ") 양성자펌프억제제",
+      ") 내시경역행설 췌석제거술",
+      ") 복구실패"
+    ],
+    "answer": [
+      2
+    ],
+    "answerText": "2번",
+    "isMultipleChoice": false,
+    "explanation": "윗배 통증과 설사를 동반한 만성췌장염이므로, 진통제와 이자효소제를 투여합니다.",
+    "explanationOfficial": "윗배 통증과 설사를 동반한 만성췌장염이므로, 진통제와 이자효소제를 투여합니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_18",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 18,
+    "question": ". 52세 남자가 2개월 전부터 자주 배가 아프다고 병원에 왔다. 10여 년간 매일 소주 2~3병을 마셨다고 하였다. 명치 부위에 압통이 있는 덩이가 만져졌다. 혈액검사 결과는 다음과 같았다. 복부컴퓨터단층촬영 사진이다. 진단은? (15)",
+    "passage": "",
+    "image": "images/wed0916_2/image19.png",
+    "images": [
+      "images/wed0916_2/image19.png"
+    ],
+    "options": [
+      ") 이자거짓낭",
+      ") 위창자기질종양",
+      ") 이자점액낭샘종",
+      ") 이자점액낭샘암종",
+      ") 췌관내 유두상점액상종양"
+    ],
+    "answer": [
+      1
+    ],
+    "answerText": "1번",
+    "isMultipleChoice": false,
+    "explanation": "만성 음주 병력이 있는 남자 환자에서 두달전부터 복통이 있었으므로 당시 이미 급성췌장염이 발병한 것으로 추정됩니다. 약 두달간 관찰 후 급성췌장염의 국소합병증으로 이자거짓낭이 발생한 문제입니다.",
+    "explanationOfficial": "만성 음주 병력이 있는 남자 환자에서 두달전부터 복통이 있었으므로 당시 이미 급성췌장염이 발병한 것으로 추정됩니다. 약 두달간 관찰 후 급성췌장염의 국소합병증으로 이자거짓낭이 발생한 문제입니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_19",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 19,
+    "question": "(A)                         (B)                         (C)\n. 평소에 음주 많이 하던 45세 남자가 2개월 전 급성 췌장염으로 한 달 입원 치료 후 퇴원하였다. 퇴원 후 다시 간혹 음주를 계속하였으며 수 일 전부터 복통이 재발하면서 열이 나서 내원하였다. 내원 시 체온 38.4'C였다. 2개월 전 입원했을 때의 복부 CT (A), 금번 입원 시 복부 CT (B, C) 사진이다.\n환자에게 수액을 투여하면서, 혈액 배양 검사를 시행 후, 광범위 항생제를 투여하였다. 하지만 4일 째에도 복통 호전 없고, 4일 간 계속 38.0'C 아래로 열이 떨어지지 않았다. 이 환자에게 가장 먼저 고려해야 할 치료는? (13)",
+    "passage": "",
+    "image": "images/wed0916_2/image20.png",
+    "images": [
+      "images/wed0916_2/image20.png"
+    ],
+    "options": [
+      ") 췌장 절제술 (pancreatectomy)",
+      ") 개복 괴사조직제거술 (open necrosectomy)",
+      ") 경피적 괴사조직제거술 (percutaneous necrosectomy)",
+      ") 내시경 경위 배액술(endoscopic transgastric drainage)",
+      ") 내시경 경위 괴사조직제거술 (endoscopic transgastric necrosectomy)"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "acute pancreatitis의 합병증으로 necrosis가 발생했으므로, step-up approach를 시행해야 한다. 항생제 -> 배액 -> 복강경 or 내시경을 이용한 Necrosectomy 순서로 진행합니다.   올해 백창렬 교수님 문제 공식해설이랑 비슷하네요",
+    "explanationOfficial": "acute pancreatitis의 합병증으로 necrosis가 발생했으므로, step-up approach를 시행해야 한다. 항생제 -> 배액 -> 복강경 or 내시경을 이용한 Necrosectomy 순서로 진행합니다.   올해 백창렬 교수님 문제 공식해설이랑 비슷하네요",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_20",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 20,
+    "question": "담낭염",
+    "passage": "",
+    "image": "",
+    "images": [],
+    "options": [
+      ". 57 세 남자가 복통으로 내원하여 시행한 혈액검사에서 amylase 가 650 U/L 로 나왔다. 원인으로 생각해 볼 수 있는 복부질환이 아닌 것은? (13)",
+      "장폐색",
+      "소화성 궤양 천공",
+      "자궁 외 임신 파열",
+      "만성 염증성 장질환"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "문제의 의도는 췌장염 외에 hyperamylasemia 가  있을 수 있는 질환을 숙지해야 하기에 남자가 아닌 여자로 출제했거나,  아니면 “그냥 hyperamylasemia 가 있을 수 있는 질환이 아닌 것은?”  이라고 냈으면 그냥 답은 5 번인데, 남자로 출제를 해서 오해가 생겼답니다.  올해는 배우지 않았습니다.",
+    "explanationOfficial": "문제의 의도는 췌장염 외에 hyperamylasemia 가  있을 수 있는 질환을 숙지해야 하기에 남자가 아닌 여자로 출제했거나,  아니면 “그냥 hyperamylasemia 가 있을 수 있는 질환이 아닌 것은?”  이라고 냈으면 그냥 답은 5 번인데, 남자로 출제를 해서 오해가 생겼답니다.  올해는 배우지 않았습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_21",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 21,
+    "question": ". 평소 음주 많이 하여 최 간경화로 간 내과 외래 추적하던 42세 남자가 3일간의 복통을 주소로 내원하여 혈액검사, 복부 CT를 시행 후, 혈관촬영을 하였다. 이 환자에게 가장 먼저 고려해야 할 치료는? (13)",
+    "passage": "",
+    "image": "images/wed0916_2/image21.png",
+    "images": [
+      "images/wed0916_2/image21.png",
+      "images/wed0916_2/image22.png"
+    ],
+    "options": [
+      ") 광범위 항생제 투여",
+      ") 색전술(embolization)",
+      ") 내시경역행성담췌관조영술을 통한 췌관스텐트 삽입",
+      ") 경피적 괴사조직제거술 (percutaneous necrosectomy)",
+      ") 내시경 경위 괴사조직제거술 (endoscopic transgastric necrosectomy)"
+    ],
+    "answer": [
+      2
+    ],
+    "answerText": "2번",
+    "isMultipleChoice": false,
+    "explanation": "Acute pancreatitis 합병증으로 perivascular complications이 발생하는 경우, 장간막조영술(mesenteric angiography)을 통해 rupture가 발생한 혈관을 찾고, 그 혈관의 feeding artery를 찾아 색전술을 통해 지혈합니다.",
+    "explanationOfficial": "Acute pancreatitis 합병증으로 perivascular complications이 발생하는 경우, 장간막조영술(mesenteric angiography)을 통해 rupture가 발생한 혈관을 찾고, 그 혈관의 feeding artery를 찾아 색전술을 통해 지혈합니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_22",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 22,
+    "question": "FANA",
+    "passage": "",
+    "image": "images/wed0916_2/image23.jpeg",
+    "images": [
+      "images/wed0916_2/image23.jpeg"
+    ],
+    "options": [
+      ". 만성 경화성 침샘염이 있는 43세 남자가 3개월 전부터 개인의원에서 당뇨조절 중, 2주 전부터 상복부 불편감과 황달을 주소로 내원하였다. 혈액검사와 복부 CT, 내시경역행성담췌관조영술을 시행하였다. 이 환자에서 다음으로 반드시 해야 할 검사는? (13)",
+      "RA factor",
+      "serum IgG4",
+      "anti-ds DNA",
+      "Lupus anticoagulant Ab"
+    ],
+    "answer": [
+      3
+    ],
+    "answerText": "3번",
+    "isMultipleChoice": false,
+    "explanation": "특징적 협착, 타 장기 침범 소견을 가진 AIP의 경우 serum IgG4가 상승했음을 통해 진단할 수 있다.",
+    "explanationOfficial": "특징적 협착, 타 장기 침범 소견을 가진 AIP의 경우 serum IgG4가 상승했음을 통해 진단할 수 있다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_23",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 23,
+    "question": ". 74세 남자가 복부통증으로 응급실에서 시행한 복부 CT에서 급성췌장염으로 진단 후 치료하였으나 입원 후 8 일이 지나도 항생제요법으로 호전되지 않고 38도 고열과 복통이 지속되어 복부 CT를 다시 시행한 사진이다. 치료는? (13)",
+    "passage": "",
+    "image": "images/wed0916_2/image24.png",
+    "images": [
+      "images/wed0916_2/image24.png"
+    ],
+    "options": [
+      ") 세척 배액술",
+      ") 전췌장절제술",
+      ") 저지방식을 권장한다",
+      ") 항생제 투여 후 수액공급 후 경과관찰",
+      ") 역행적 췌담도 내시경을 통한 도관 삽입술"
+    ],
+    "answer": [
+      1
+    ],
+    "answerText": "1번",
+    "isMultipleChoice": false,
+    "explanation": "급성췌장염에서 치료는 발병 초기에는 보통 개복술을 하지 않으며 대부분 대증요법으로 90%는 호전되나 증상이 점점 악화되거나 감염이 동반된 괴사성 췌장염은 개복 세척배액술을 시행한다.",
+    "explanationOfficial": "급성췌장염에서 치료는 발병 초기에는 보통 개복술을 하지 않으며 대부분 대증요법으로 90%는 호전되나 증상이 점점 악화되거나 감염이 동반된 괴사성 췌장염은 개복 세척배액술을 시행한다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_24",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 24,
+    "question": "6. 37세 남자가 매일 음주 후 복통으로 내원하여 시행한 혈액검사와 복부 CT이다. 이후 통증과 고열이 지속되어 경피적배액술을 시행하였다. 이 환자에서 시행해야 할 치료는? (13)",
+    "passage": "",
+    "image": "images/wed0916_2/image25.png",
+    "images": [
+      "images/wed0916_2/image25.png",
+      "images/wed0916_2/image26.png"
+    ],
+    "options": [
+      ") 개복 괴사조직절제술",
+      ") 내시경 경위배액술",
+      ") 내시경 경위 괴사조직절제술",
+      ") 경피적 괴사조직절제술",
+      ") 내시경역행성담췌관조영술을 통한 췌장스텐트 삽입"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "Acute pancreatitis의 합병증으로 pancreatic duct disruption이 발생하면  ① 경피적 배액 ② ERCP를 통해 플라스틱 스텐트(bridging pancreatic stent)를 췌장으로 삽입",
+    "explanationOfficial": "Acute pancreatitis의 합병증으로 pancreatic duct disruption이 발생하면  ① 경피적 배액 ② ERCP를 통해 플라스틱 스텐트(bridging pancreatic stent)를 췌장으로 삽입",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_25",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김형근 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 25,
+    "question": "7. 41세 남자는 간헐적인 복통과 대변에 기름이 둥둥 뜬다고 외래로 내원하였다. 환자는 20세 이후부터 거의 매일 음주를 해서, 30 대부터 수차례 다른 병원에 입원한 적 있었고, 최근에는 음주량을 좀 줄였다고 하였다. 다음은 환자의 혈액 검사 소견과 단순 복부 사진이다. 이 환자에서 투여해야 할 약제는? (13)\n제산제\n지사제\n유산균제제\n췌장효소제제\n글루코코티코이드",
+    "passage": "",
+    "image": "images/wed0916_2/image27.jpeg",
+    "images": [
+      "images/wed0916_2/image27.jpeg"
+    ],
+    "options": [
+      "1번 보기",
+      "2번 보기",
+      "3번 보기",
+      "4번 보기",
+      "5번 보기"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "Chronic pancreatitis이므로, 치료를 위해 진통제와 췌장효소제를 투여할 수 있습니다. 특히 지방변, 설사를 개선하기 위해 췌장효소제를 투여합니다.",
+    "explanationOfficial": "Chronic pancreatitis이므로, 치료를 위해 진통제와 췌장효소제를 투여할 수 있습니다. 특히 지방변, 설사를 개선하기 위해 췌장효소제를 투여합니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_26",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "이인석 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 26,
+    "question": ". 평소 술을 즐겨 마시는 38 세 남자가 최근에 심한 상복부 동통으로 내원하였다. 내원당시 검사실 소견에서 AST 85 IU/L, ALT 53 IU/L, amylase 738 U/L, lipase 1235 U/L였다. 입원하여 치료 3 일 뒤에 좌상복부 쪽으로 통증을 동반하지 않은 종괴성 병변이 발견되어 복부 CT를 촬영하였다. 가장 적절한 치료는?",
+    "passage": "",
+    "image": "images/wed0916_2/image28.png",
+    "images": [
+      "images/wed0916_2/image28.png"
+    ],
+    "options": [
+      ") 배액술을 바로 실행한다.",
+      ") 항생제 투여",
+      ") 수술을 시행한다.",
+      ") 6 주정도 추적 관찰한다.",
+      ") 소마토스타틴 유사물질을 투여한다."
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "감염을 동반하지 않고 증상이 없는 췌장가성낭종은 약 75%에서 6주 이내에 흡수되어 소실되기 때문에 일단 6주정도 기다리면서 추적 관찰한다.",
+    "explanationOfficial": "감염을 동반하지 않고 증상이 없는 췌장가성낭종은 약 75%에서 6주 이내에 흡수되어 소실되기 때문에 일단 6주정도 기다리면서 추적 관찰한다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_27",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "이인석 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 27,
+    "question": "Increase granule synthesis",
+    "passage": "",
+    "image": "images/wed0916_2/image29.jpeg",
+    "images": [
+      "images/wed0916_2/image29.jpeg"
+    ],
+    "options": [
+      ". 36세 남자가 8일동안 하루 소주 2병이상 과음을 하다 발생한 상복부 통증으로 응급실에 왔다. 상기환자는 과거에도 수차례 음주 후 발생하는 복통으로 만성췌장염을 진단받고, 입원 치료받았다. 환자의 CT 모습이다. 병태생리에서 가장 중요한 것은?",
+      "Destabilization of lysozyme and Granules",
+      "pancreas stellate cell activities",
+      "increased activation of transcription factors(NK-kB, and API)",
+      "sustatined intracellular mitochondrial depolarization"
+    ],
+    "answer": [
+      3
+    ],
+    "answerText": "3번",
+    "isMultipleChoice": false,
+    "explanation": "상기 환자는 CT에서 급성췌장염 소견이 없으며, 만성췌장염에서 가장 중요한 것은 stellate cell의 activation이다.  강의록에 나와있지만 올해 백창렬교수님은 병태생리는 몰라도 된다고 하셨습니다.",
+    "explanationOfficial": "상기 환자는 CT에서 급성췌장염 소견이 없으며, 만성췌장염에서 가장 중요한 것은 stellate cell의 activation이다.  강의록에 나와있지만 올해 백창렬교수님은 병태생리는 몰라도 된다고 하셨습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_28",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "이인석 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 28,
+    "question": "<백혈구 5100/mm3, 공복혈당 122mg/dl, 아밀라아제 50 U/L, 리파제 33 U/L, 아스파르테이트아미노전달효소 60  U/L, 알라닌아미노전달효소 60 U/L, 총빌리루빈 1.1 mg/dL>\n. 33세 여자가 수년간 반복되는 상복부의 심와부통증으로 응급실에 왔다. 상기환자는 음주나 흡연을 하지 않았다. 작년에 복통으로 외부병원에서 시행한 초음파검사에서 담석은 없었다고 한다. 내원 시 혈액검사 및 복부단순촬영이다. 초기 만성췌장염(mild-moderate degree chronic pancreatitis)의 가장 좋은 진단법은?",
+    "passage": "",
+    "image": "images/wed0916_2/image31.jpeg",
+    "images": [
+      "images/wed0916_2/image31.jpeg"
+    ],
+    "options": [
+      ") 혈중 amylase/lipase",
+      ") 복부전산화단층촬영",
+      ") fecal elastase test",
+      ") EUS(초음파내시경)",
+      ") MRI/MRCP(자기공명영상/MR 췌담관조영술)"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "만성췌장염의 초기에는 주췌관의 불규칙한 확장/협착, 췌관분지의 협착/확장, 췌관실질의 변화 등이 관찰된다. 과거 ERCP는 만성췌장염진단의 가장 확실한 진단법이었으나 췌장실질의 초기 변화는 진단이 어려웠다. 반면 초음파내시경은 만성췌장염의 다양한 초기 변화를 진단할 수 있는 유일한 진단법이다.",
+    "explanationOfficial": "만성췌장염의 초기에는 주췌관의 불규칙한 확장/협착, 췌관분지의 협착/확장, 췌관실질의 변화 등이 관찰된다. 과거 ERCP는 만성췌장염진단의 가장 확실한 진단법이었으나 췌장실질의 초기 변화는 진단이 어려웠다. 반면 초음파내시경은 만성췌장염의 다양한 초기 변화를 진단할 수 있는 유일한 진단법이다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed2_29",
+    "subject": "수2_0916_만성췌장염",
+    "subjectName": "[09/16 수2] 만성 췌장염 (백창렬)",
+    "day": "수",
+    "period": 2,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이동수 교수님",
+    "thisYearProfessor": "백창렬 교수님",
+    "isSameProfessor": false,
+    "qNumber": 29,
+    "question": ". 57세 남자가 1년전부터 반복되는 복통으로 내원하였다. 20년 동안 하루 1갑 정도 담배를 피웠고 매일 소주 1병씩 마셨다. 복부 컴퓨터단층촬영 사진은 다음과 같았다. 진단은? (12)",
+    "passage": "",
+    "image": "images/wed0916_2/image32.jpeg",
+    "images": [
+      "images/wed0916_2/image32.jpeg"
+    ],
+    "options": [
+      "만성췌장염",
+      "만성 충수돌기염",
+      "만성 담낭염",
+      "간경변",
+      "건강염려증"
+    ],
+    "answer": [
+      1
+    ],
+    "answerText": "1번",
+    "isMultipleChoice": false,
+    "explanation": "음주와 흡연은 만성 췌장염의 가장 흔한 원인입니다. CT 상 췌장에서 고음영의 calcification은 만성췌장염의 특이적인 소견.",
+    "explanationOfficial": "음주와 흡연은 만성 췌장염의 가장 흔한 원인입니다. CT 상 췌장에서 고음영의 calcification은 만성췌장염의 특이적인 소견.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_01",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "장재혁 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "81세 여자가 1주 전부터 피부가 노랗다고 병원에 왔다. 기운이 없어지고 입맛도 없다고 한다. 평소 담배와 술은 하지 않았으며, 혈압 110/80 mmHg, 맥박 100회/분, 호흡 18회/분 체온 36.7˚C이다. 의식은 명료하고 공막에 황달이 있다. 복부에 경미한 압통은 있으나 반동압통은 없다. 혈액 검사 결과는 다음과 같다. 복부 CT 사진(사진 1)이다. 확진을 위해서 해야할 시술은?\n혈색소 15.0 g/dL, 백혈구 6,100/mm3, 혈소판 194,000/mm3 혈액요소질소 13.3 mg/dL, 크레아티닌 0.7 mg/dL 총빌리루빈 14.8 mg/dL, 직접빌리루빈 10.7 mg/dL  아스파트산아미노기전달효소 1363 U/L, 알라닌아미노기전달효소 441 U/L 알칼리성인산염분해효소 1188 U/L 녹말분해효소 10 U/L, 지방분해효소 2.6 U/L, CA 19-9 345 U/mL",
+    "passage": "",
+    "image": "images/wed0916_34/image1.png",
+    "images": [
+      "images/wed0916_34/image1.png"
+    ],
+    "options": [
+      "췌십이지장절제",
+      "간 자기공명영상",
+      "양전자방출 단층촬영",
+      "내시경역행담췌관조영술",
+      "내시경초음파 췌장조직검사"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "췌장두부암 간전이 환자로 확진을 위해서 조직검사가 필요하고, 내시경초음파를 이용한 췌장조직검사를 실시한다.",
+    "explanationOfficial": "췌장두부암 간전이 환자로 확진을 위해서 조직검사가 필요하고, 내시경초음파를 이용한 췌장조직검사를 실시한다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_02",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "장재혁 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "62세 남자가 2달 전부터 윗배와 등에 통증이 있다고 병원에 왔다. 30년간 담배는 매일 한갑씩 피웠다고 하며 술은 하지 않는다고 한다. 혈압 100/80 mmHg, 맥박 90회/분, 호흡 18회/분 체온 36.5˚C이다. 배에 압통이나 반동압통은 없다. 혈액 검사 결과는 다음과 같다. 진단을 위해 다음으로 시행할 검사는?\n혈색소 14.7 g/dL, 백혈구 7,700/mm3, 혈소판 284,000/mm3 공복혈당 139 mg/dL, 혈액요소질소 11.3 mg/dL, 크레아티닌 0.9 mg/dL 총빌리루빈 2.84 mg/dL, 직접빌리루빈 2.14 mg/dL 아스파트산아미노기전달효소 70 U/L, 알라닌아미노기전달효소 63 U/L 알칼리성인산염분해효소 331 U/L 녹말분해효소 74 U/L, 지방분해효소 186.9 U/L, CA 19-9 650 U/mL",
+    "passage": "",
+    "image": "",
+    "images": [],
+    "options": [
+      "복부 초음파",
+      "복부 자기공명영상",
+      "복부 컴퓨터단층촬영",
+      "양전자방출 단층촬영",
+      "내시경역행담췌관조영술"
+    ],
+    "answer": [
+      3
+    ],
+    "answerText": "3번",
+    "isMultipleChoice": false,
+    "explanation": "복부 및 등통증, 간수치 증가, CA 19-9 상승이 있어 췌장/담도계 질환이 의심되며 진단에 가장 도움이 되는 첫 검사는 복부 CT이다.",
+    "explanationOfficial": "복부 및 등통증, 간수치 증가, CA 19-9 상승이 있어 췌장/담도계 질환이 의심되며 진단에 가장 도움이 되는 첫 검사는 복부 CT이다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_03",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "장재혁 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": true,
+    "qNumber": 3,
+    "question": "60세 남자가 2달 전부터 체중이 빠진다고 병원에 왔다. 1개월간 몸무게가 7kg이 줄었다고 한다. 최근 1주일 전부터 등도 종종 아프다고 한다. 담배나 술은 하지 않는다고 한다. 혈압 120/80 mmHg, 맥박 90회/분, 호흡 18회/분 체온 36.5˚C이다. 배에 압통이나 반동압통은 없다. 혈액 검사 결과는 다음과 같다. 복부 컴퓨터단층촬영 사진(사진 1). 가장 적합한 진단은?\n혈색소 13.0 g/dL, 백혈구 5,500/mm3, 혈소판 184,000/mm3 공복혈당 239 mg/dL, 혈액요소질소 15.3 mg/dL, 크레아티닌 0.9 mg/dL 총빌리루빈 1.1 mg/dL, 직접빌리루빈 0.4 mg/dL 아스파트산아미노기전달효소 15 U/L, 알라닌아미노기전달효소 12 U/L 알칼리성인산염분해효소 151 U/L 녹말분해효소 274 U/L, 지방분해효소 215.4 U/L, CA 19-9 152 U/mL",
+    "passage": "",
+    "image": "images/wed0916_34/image2.png",
+    "images": [
+      "images/wed0916_34/image2.png"
+    ],
+    "options": [
+      "가성낭종",
+      "급성췌장염",
+      "만성췌장염",
+      "췌장두부암",
+      "관내유두상점액종양"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설) 체중감소, 암표지자가 높게 나타나고 CT 소견 상 췌장 두부쪽 병변이 보입니다. 따라서 췌장두부암을 의심할 수 있습니다. 작성자) 교수님이 끝나고 질문드렸을 때 CT사진 보고 췌장암인줄 알 수 있어야한다. 라고 말씀하셨는데 이 문제를 다시 내셨을수도 있습니다.",
+    "explanationOfficial": "기존 파드 해설) 체중감소, 암표지자가 높게 나타나고 CT 소견 상 췌장 두부쪽 병변이 보입니다. 따라서 췌장두부암을 의심할 수 있습니다. 작성자) 교수님이 끝나고 질문드렸을 때 CT사진 보고 췌장암인줄 알 수 있어야한다. 라고 말씀하셨는데 이 문제를 다시 내셨을수도 있습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_04",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "장재혁 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": true,
+    "qNumber": 4,
+    "question": "65세 남자가 2주 전부터 혈당 조절이 어렵다고 병원에 왔다. 1개월간 몸무게가 7kg이 줄었다고 한다. 담배나 술은 하지 않는다고 한다. 10년 전부터 당뇨병과 고혈압으로 치료받고 있다. 혈압 120/80 mmHg, 맥박 85회/분, 호흡 18회/분 체온 36.2˚C이다. 바빈스키반사는 정상으로 둘다 음성이었다. 배에 압통이나 반동압통은 없으며 만져지는 덩이는 없었다. 혈액 검사 결과는 다음과 같고, 복부 컴퓨터단층촬영 사진(사진 1)이다. 적절한 치료는?\n혈색소 13.0 g/dL, 백혈구 5,500/mm3, 혈소판 184,000/mm3 공복혈당 289 mg/dL, 혈액요소질소 21.3 mg/dL, 크레아티닌 1.1 mg/dL 총빌리루빈 1.3 mg/dL, 직접빌리루빈 0.7 mg/dL 아스파트산아미노기전달효소 25 U/L, 알라닌아미노기전달효소 23 U/L 알칼리성인산염분해효소 211 U/L 녹말분해효소 45 U/L, 지방분해효소 57 U/L 암배아항원 5.4 ng/mL (참고치, <5) CA 19-9 354.8 U/mL (참고치, <37)",
+    "passage": "",
+    "image": "images/wed0916_34/image3.png",
+    "images": [
+      "images/wed0916_34/image3.png"
+    ],
+    "options": [
+      "화학요법",
+      "방사선치료",
+      "위공장연결",
+      "동맥색전술",
+      "췌십이지장절제"
+    ],
+    "answer": [
+      1
+    ],
+    "answerText": "1번",
+    "isMultipleChoice": false,
+    "explanation": "급격한 체중 감소, 악화되는 당뇨, 높은 CA 19-9 수치를 통해 췌장암이 의심된다. CT를 봤을 때 암 병변이 동맥혈관을 감싸고 있는 상태이므로 수술적 치료가 불가하고 화학요법이 최선의 치료이다. 작성자) 이 사진 자체를 ‘주요 동맥을 크게 침범한 췌장암의 사진’으로 외우는 편이 좋아보입니다. 2023총시(아마 타교수님)에 ‘화학요법’이 정답으로 출제된 문제를 장재혁 교수님이 그대로 가져오셨습니다.\n2025 총괄평가",
+    "explanationOfficial": "급격한 체중 감소, 악화되는 당뇨, 높은 CA 19-9 수치를 통해 췌장암이 의심된다. CT를 봤을 때 암 병변이 동맥혈관을 감싸고 있는 상태이므로 수술적 치료가 불가하고 화학요법이 최선의 치료이다. 작성자) 이 사진 자체를 ‘주요 동맥을 크게 침범한 췌장암의 사진’으로 외우는 편이 좋아보입니다. 2023총시(아마 타교수님)에 ‘화학요법’이 정답으로 출제된 문제를 장재혁 교수님이 그대로 가져오셨습니다.\n2025 총괄평가",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_05",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2023 (23학번 총시)",
+    "yearNum": 23,
+    "isRecent14Plus": true,
+    "professor": "장재혁 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": true,
+    "qNumber": 5,
+    "question": "65세 남자가 1개월 전부터 지속되는 상복부 통증으로 병원에 왔다. 최근 1개월간 체중이 5kg 감소하였으며, 흡연력(하루 1갑, 20년)과 음주력(소주 1~2병, 주 2~3회)이 있었다. 2주 전부터 등으로 뻗치는 통증이 동반되었다. 활력징후는 혈압 120/80 mmHg, 맥박수 85회/분, 호흡수 18회/분, 체온 36.2˚C였다. 복부 진찰에서 장음은 정상이며 상복부 압통은 있으나 반동압통은 없었다. 혈액검사 결과는 다음과 같다. 복부 전산화단층촬영(사진 1)에서 췌장 종괴가 의심되는 소견이 관찰되었다. 병기 결정을 위해 다음으로 가장 적절한 검사는 무엇인가?\n혈색소 13.0 g/dL, 백혈구 5,500/mm3, 혈소판 184,000/mm3 공복혈당 112 mg/dL, 혈액요소질소 21.3 mg/dL, 크레아티닌 1.1 mg/dL 총빌리루빈 1.3 mg/dL, 직접빌리루빈 0.7 mg/dL 아스파트산아미노기전달효소 25 U/L, 알라닌아미노기전달효소 23 U/L 알칼리성인산염분해효소 211 U/L 녹말분해효소 45 U/L, 지방분해효소 57 U/L, 암태아항원 5.4 ng/mL (참고치 <5) CA 19-9 354.8 U/mL (참고치 <37)",
+    "passage": "",
+    "image": "images/wed0916_34/image4.png",
+    "images": [
+      "images/wed0916_34/image4.png"
+    ],
+    "options": [
+      "뼈스캔",
+      "복부 초음파",
+      "복부 자기공명영상",
+      "흉부 전산화단층촬영",
+      "내시경역행담췌관조영술"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설) 췌장암 staging의 핵심은 원격전이 여부를 확인하는 것으로 폐 전이를 확인하기 위하여 흉부 전산화단층촬영이 필수적이다.",
+    "explanationOfficial": "기존 파드 해설) 췌장암 staging의 핵심은 원격전이 여부를 확인하는 것으로 폐 전이를 확인하기 위하여 흉부 전산화단층촬영이 필수적이다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_06",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 6,
+    "question": "45세 남자 환자가 3개월 동안 7kg의 체중감소와 복통으로 내원하였다. 복부 영상검사소견(사진2)는 다음과 같다. 다음 조치는?",
+    "passage": "",
+    "image": "images/wed0916_34/image5.png",
+    "images": [
+      "images/wed0916_34/image5.png"
+    ],
+    "options": [
+      "항암화학요법",
+      "방사선치료",
+      "이자전절제술(total pancreatectomy)",
+      "먼쪽이자절제술 및 간 부분절제술 (distal pancreatectomy and partial liver resection)",
+      "내시경초음파를 이용한 미세침조직검사"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설 1) 왼쪽 사진: 췌장암처럼 보입니다. 오른쪽 사진: 간 전이가 보입니다. 즉, 간 전이가 일어난 췌장암입니다. 이 경우 치료는 항암 치료이며, 항암 치료를 하기 전에 EUS guided needle biopsy를 통해 조직 검사를 합니다. 기존 파드 해설 2) 간전이를 동반한 췌장암이 의심되는 소견이다. 보존적 항암화학요법을 위해 조직 검사가 우선 필요하다. 조직검사는 EUS biopsy나 CT-guided percutaneous biopsy를 시행한다.",
+    "explanationOfficial": "기존 파드 해설 1) 왼쪽 사진: 췌장암처럼 보입니다. 오른쪽 사진: 간 전이가 보입니다. 즉, 간 전이가 일어난 췌장암입니다. 이 경우 치료는 항암 치료이며, 항암 치료를 하기 전에 EUS guided needle biopsy를 통해 조직 검사를 합니다. 기존 파드 해설 2) 간전이를 동반한 췌장암이 의심되는 소견이다. 보존적 항암화학요법을 위해 조직 검사가 우선 필요하다. 조직검사는 EUS biopsy나 CT-guided percutaneous biopsy를 시행한다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_07",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 7,
+    "question": "84세 여자가 1주 전부터 피부가 노랗다고 병원에 왔다. 기운이 떨어지고 입맛도 없다고 한다. 담배와 술은 하지 않는다고 한다. 혈압 110/80 mmHg, 맥박 100회/분, 호흡 18회/분, 체온 36.7도이다. 의식은 명료하고 공막에 황달이 있다. 윗배에 경미한 압통은 있으나 반동압통은 없다. 혈액 검사 결과는 다음과 같다. 복부자기공명영상 사진(사진1) 이다. 치료는?\n혈색소 15.0 g/dL, 백혈구 28,100/mm3, 혈소판 94,000/mm3 혈액요소질소 53.3 mg/dL, 크레아티닌 1.7 mg/dL 총빌리루빈 14.3 mg/dL, 직접빌리루빈 10.7 mg/dL 아스파트산아미노기전달효소 1363 U/L, 알라닌아미노기전달효소 441 U/L 알칼리성인산염분해효소 1188 U/L 녹말분해효소 10 U/L, 지방분해효소 2.6 U/L",
+    "passage": "",
+    "image": "images/wed0916_34/image6.png",
+    "images": [
+      "images/wed0916_34/image6.png"
+    ],
+    "options": [
+      "간동맥색전술",
+      "췌십이지장절제",
+      "내시경담관스텐트",
+      "피부간경유담낭배액",
+      "내시경배관스텐트삽입"
+    ],
+    "answer": [
+      3
+    ],
+    "answerText": "3번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설 1) 저희 교수님은 읽지도 않으셨지만, 피피티에 보면 췌장암으로 인해 biliary obstruction이 일어난 경우 stent를 넣어줄 수 있습니다. 근데3번이랑 5번 선지가 뭐가 다른 건지… 선지 복구 오류인 듯합니다. 기존 파드 해설 2) 췌장암 간전이 환자로 담관배액이 우선 치료임 작성자) 아마 내시경배관스텐트는 ‘내시경췌관스텐트’가 잘못 복구된 것이 아닐까 생각합니다. 다만 저희 교수님은 배액술에 대해 언급하지는 않았습니다. 아래에 클로드의 해설을 첨부합니다. 폐쇄성 황달에 전신 염증과 장기부전 징후가 겹쳤으므로 **급성 담관염(중증)**으로 보고, 수술보다 내시경 담관 배액을 먼저 합니다. 황달의 종류: 폐쇄성 총빌리루빈 14.3 중 직접빌리루빈 10.7로 포합 빌리루빈이 우세합니다. 간 이후(담관) 쪽이 막혔다는 뜻입니다. ALP(Alkaline Phosphatase) 1188 U/L로 크게 올라 있어 담즙정체 패턴입니다. AST(Aspartate Aminotransferase) 1363 / ALT(Alanine Aminotransferase) 441 U/L로 많이 올라 있습니다. 급성 담관 폐쇄나 담관염에서는 초기에 아미노전달효소가 일시적으로 크게 오를 수 있습니다. ② 췌장염은 아님 아밀라제 10, 리파제 2.6으로 정상입니다. 그래서 췌관이 아니라 담관이 문제입니다. ⑤를 배제하는 근거입니다. ③ 전신 염증 WBC(White Blood Cell, 백혈구) 28,100으로 현저히 높습니다. 맥박 100회로 빈맥입니다. 체온은 36.7℃로 열이 없습니다. 그래서 Charcot 3징후(발열·우상복부 통증·황달)는 불완전합니다. 하지만 TG18(Tokyo Guidelines 2018, 급성 담관염 진단·중증도 기준)은 발열 또는 검사상 염증(WBC >10,000) 중 하나만 있으면 전신 염증을 인정하므로 기준을 충족합니다. ④ 장기부전 징후 혈소판 94,000: TG18 중증(Grade III)의 혈액학적 장기부전 기준(<100,000)을 충족합니다. BUN(Blood Urea Nitrogen, 혈액요소질소) 53.3 / Cr 1.7: 신기능이 떨어져 있습니다. 다만 TG18 신장 기준(Cr >2.0)에는 못 미칩니다. 담관 폐쇄 + 전신 염증 + 장기부전 = 중증 급성 담관염. 치료 원칙은 수액·항생제와 함께 하는 긴급 담관 배액입니다.",
+    "explanationOfficial": "기존 파드 해설 1) 저희 교수님은 읽지도 않으셨지만, 피피티에 보면 췌장암으로 인해 biliary obstruction이 일어난 경우 stent를 넣어줄 수 있습니다. 근데3번이랑 5번 선지가 뭐가 다른 건지… 선지 복구 오류인 듯합니다. 기존 파드 해설 2) 췌장암 간전이 환자로 담관배액이 우선 치료임 작성자) 아마 내시경배관스텐트는 ‘내시경췌관스텐트’가 잘못 복구된 것이 아닐까 생각합니다. 다만 저희 교수님은 배액술에 대해 언급하지는 않았습니다. 아래에 클로드의 해설을 첨부합니다. 폐쇄성 황달에 전신 염증과 장기부전 징후가 겹쳤으므로 **급성 담관염(중증)**으로 보고, 수술보다 내시경 담관 배액을 먼저 합니다. 황달의 종류: 폐쇄성 총빌리루빈 14.3 중 직접빌리루빈 10.7로 포합 빌리루빈이 우세합니다. 간 이후(담관) 쪽이 막혔다는 뜻입니다. ALP(Alkaline Phosphatase) 1188 U/L로 크게 올라 있어 담즙정체 패턴입니다. AST(Aspartate Aminotransferase) 1363 / ALT(Alanine Aminotransferase) 441 U/L로 많이 올라 있습니다. 급성 담관 폐쇄나 담관염에서는 초기에 아미노전달효소가 일시적으로 크게 오를 수 있습니다. ② 췌장염은 아님 아밀라제 10, 리파제 2.6으로 정상입니다. 그래서 췌관이 아니라 담관이 문제입니다. ⑤를 배제하는 근거입니다. ③ 전신 염증 WBC(White Blood Cell, 백혈구) 28,100으로 현저히 높습니다. 맥박 100회로 빈맥입니다. 체온은 36.7℃로 열이 없습니다. 그래서 Charcot 3징후(발열·우상복부 통증·황달)는 불완전합니다. 하지만 TG18(Tokyo Guidelines 2018, 급성 담관염 진단·중증도 기준)은 발열 또는 검사상 염증(WBC >10,000) 중 하나만 있으면 전신 염증을 인정하므로 기준을 충족합니다. ④ 장기부전 징후 혈소판 94,000: TG18 중증(Grade III)의 혈액학적 장기부전 기준(<100,000)을 충족합니다. BUN(Blood Urea Nitrogen, 혈액요소질소) 53.3 / Cr 1.7: 신기능이 떨어져 있습니다. 다만 TG18 신장 기준(Cr >2.0)에는 못 미칩니다. 담관 폐쇄 + 전신 염증 + 장기부전 = 중증 급성 담관염. 치료 원칙은 수액·항생제와 함께 하는 긴급 담관 배액입니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_08",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 8,
+    "question": "62세 남자가 2달 전부터 윗배와 등에 통증이 있다고 병원에 왔다. 30년간 매일 담배를 1갑씩 피웠으며 술은 하지 않는다고 한다. 혈압 100/80 mmHg, 맥박 90회/분, 호흡 18회/분, 체온 36.5도이다. 배에 압통이나 반발통은 없다. 혈액검사 결과는 다음과 같다. 진단을 위한 가장 적절한 검사는?\n혈색소 14.7 g/dL, 백혈구 7,700/mm3, 혈소판 284,000/mm3 공복혈당 189 mg/dL, 혈액요소질소 11.3 mg/dL, 크레아티닌 0.9mg/dL 총빌리루빈 0.84 mg/dL, 직접빌리루빈 0.14 mg/dL 아스파트산아미노기전달효소 20 U/L, 알라닌아미노기전달효소 13 U/L 알칼리성인산염분해효소 231 U/L 녹말분해효소 74 U/L, 지방분해효소 186.9 U/L",
+    "passage": "",
+    "image": "",
+    "images": [],
+    "options": [
+      "복부 초음파",
+      "양전자단층촬영",
+      "간담도섬광조영",
+      "상부위장관내시경",
+      "복부 컴퓨터단층촬영"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설 1) 윗배와 등에 통증이 있고, 공복혈당이 189로 당뇨입니다. 췌장암을 의심해볼 수 있습니다. 췌장암 진단에서 가장 선호되는 영상 검사는 CT입니다. 올해 이런 문제가 나온다면 CA19-9의 증가 소견도 줄 것 같습니다. 기존 파드 해설 2) 췌장암에 진단에 가장 도움이 되는 검사는 복부 CT이다.",
+    "explanationOfficial": "기존 파드 해설 1) 윗배와 등에 통증이 있고, 공복혈당이 189로 당뇨입니다. 췌장암을 의심해볼 수 있습니다. 췌장암 진단에서 가장 선호되는 영상 검사는 CT입니다. 올해 이런 문제가 나온다면 CA19-9의 증가 소견도 줄 것 같습니다. 기존 파드 해설 2) 췌장암에 진단에 가장 도움이 되는 검사는 복부 CT이다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_09",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 9,
+    "question": "60 세 남자가 2 달 전부터 체중이 빠진다고 병원에 왔다. 1 개월간 몸무게가 7kg 이 줄었다고 한다. 최근 1 주동안 (복구실패)~는다고 한다. 혈압 120/80 mmHg, 맥박 90회/분, 호흡 18회/분, 체온 36.54도이다. 배에 압통이나 반동압통은 없다. 혈액 검사 결과와 CT 사진이다. 확진을 위한 검사는?\n혈색소 13.0 g/dL, 백혈구 5,500/mm3, 혈소판 184,000/mm3 공복혈당 239 mg/dL, 혈액요소질소 15.3 mg/dL, 크레아티닌 0.9 mg/dL 총빌리루빈 1.1 mg/dL, 직접빌리루빈 0.4 mg/dL 아스파르테이트아미노전달효소 15 U/L 알라닌아미노전달효소 12 U/L 알칼리성인산염분해효소 151 U/L 녹말분해효소 274 U/L, 지방분해효소 215.4 U/L",
+    "passage": "",
+    "image": "images/wed0916_34/image7.png",
+    "images": [
+      "images/wed0916_34/image7.png"
+    ],
+    "options": [
+      "진단복강경술",
+      "혈청 CA 19-9",
+      "췌십이지장절제",
+      "복부자기공명영상",
+      "내시경초음파유도가는바늘흡인생검"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설 1) 췌장암 확진을 위해서 EUS guided needle biopsy를 통해 조직검사를 해야 합니다. 기존 파드 해설 2) 후복부에 위치한 췌장암에 EUS-FNB가 유용하게 이용된다.",
+    "explanationOfficial": "기존 파드 해설 1) 췌장암 확진을 위해서 EUS guided needle biopsy를 통해 조직검사를 해야 합니다. 기존 파드 해설 2) 후복부에 위치한 췌장암에 EUS-FNB가 유용하게 이용된다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_10",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2023 (23학번 총시)",
+    "yearNum": 23,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 10,
+    "question": "65세 남자가 2주전부터 혈당 조절이 어렵다고 병원에 왔다. 1개월간 몸무게가 6kg이 줄었다고 한다. 담배나 술은 하지 않는다고 한다. 10년전부터 당뇨병과 고혈압으로 약을 먹고 있다고 한다. 혈압 120/80 mmHg, 맥박 85회/분, 호흡 18회/분 체온 36.2’C이다. 배 청진에서 장음은 정상으로 들린다. 배에 압통이나 반동압통은 없으며 만져지는 덩이는 없다. 혈액 검사 결과는 다음과 같다. 복부 컴퓨터단층촬영 시행(사진 1). 치료는?\n혈색소 13.0 g/dL, 백혈구 5,500/mm3, 혈소판 184,000/mm3, 공복혈당 289 mg/dL, 혈액요소질소 21.3mg/dL, 크레아티닌 1.1 mg/dL 총빌리루빈 1.3mg, 직접빌리루빈 0.7mg/dL 아스파트산아미노기전달효소 25U/L, 알라닌아미노기전달효소 23U/L 알칼리성인산염분해효소 211 U/L 녹말분해효소 45 U/L, 지방분해효소 57U/L 암배아항원 5.4ng/mL (참고치, <5) CA 19-9 354.8 U/mL (참고치, <37)",
+    "passage": "",
+    "image": "images/wed0916_34/image8.png",
+    "images": [
+      "images/wed0916_34/image8.png"
+    ],
+    "options": [
+      "화학요법",
+      "방사선치료",
+      "위공장연결",
+      "동맥색전술",
+      "췌십이지장절제"
+    ],
+    "answer": [
+      1
+    ],
+    "answerText": "1번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설 1) 혈당 조절이 잘 안 되고, weight loss가 있습니다. 그리고 CT 소견을 봐도 췌장암일 가능성이 높아 보입니다. 췌장암이 주변 혈관을 침범한 모습이 CT 사진에서 보입니다. 이러한 경우에는 일단 항암 치료를 진행합니다. 만약 올해 이러한 문제가 나온다면, 선지로 FOLFIRINOX나 Nap-paclitaxel+Gemcitabine을 줄 가능성도 있습니다. 기존 파드 해설 2) 췌장암, 혈당 조절 어려움, 체중감소, CA19-9 상승의 소견이 있으며 CT 소견상 췌장암이 의심된다. 혈관을 침범한 CT소견이 보이므로 화학요법을 해야 한다. 작성자) 작년에 장재혁교수님이 재탕한 문제인만큼 외웁시다.",
+    "explanationOfficial": "기존 파드 해설 1) 혈당 조절이 잘 안 되고, weight loss가 있습니다. 그리고 CT 소견을 봐도 췌장암일 가능성이 높아 보입니다. 췌장암이 주변 혈관을 침범한 모습이 CT 사진에서 보입니다. 이러한 경우에는 일단 항암 치료를 진행합니다. 만약 올해 이러한 문제가 나온다면, 선지로 FOLFIRINOX나 Nap-paclitaxel+Gemcitabine을 줄 가능성도 있습니다. 기존 파드 해설 2) 췌장암, 혈당 조절 어려움, 체중감소, CA19-9 상승의 소견이 있으며 CT 소견상 췌장암이 의심된다. 혈관을 침범한 CT소견이 보이므로 화학요법을 해야 한다. 작성자) 작년에 장재혁교수님이 재탕한 문제인만큼 외웁시다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_11",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "백창렬 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 11,
+    "question": "nn세 환자가 체중감소를 주소로 내원하였다. 2달 전 당뇨를 진단받았으며, 최근 6kg의 체중 감소가 있었다고 한다. 검사 결과 Amylase는 33u/L였다. 단층촬영검사 결과는 다음과 같다. 이 환자에서 다음으로 시행할 검사로 옳은 것은? [CT 소견 있었는데 췌장 쪽이 약간 이상했음 but 낭종은 아니었음]",
+    "passage": "",
+    "image": "",
+    "images": [],
+    "options": [
+      "위대장 내시경",
+      "양전자방출단층촬영",
+      "MRCP",
+      "ERCP",
+      "EUS-FNB"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설) 새로운 당뇨 발병이 있고, 체중 감소가 있습니다. 아마 CT에서 췌장암 소견을 주었을 것 같습니다. 췌장암 확진을 위해 EUS guided needle biopsy 를 해야 합니다. (=EUS-FNB; EUS-Fine needle biopsy) (=EUS-FNA; EUS Fine needle aspiration)",
+    "explanationOfficial": "기존 파드 해설) 새로운 당뇨 발병이 있고, 체중 감소가 있습니다. 아마 CT에서 췌장암 소견을 주었을 것 같습니다. 췌장암 확진을 위해 EUS guided needle biopsy 를 해야 합니다. (=EUS-FNB; EUS-Fine needle biopsy) (=EUS-FNA; EUS Fine needle aspiration)",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_12",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 12,
+    "question": "63세 여자가 2주 동안의 상복부 통증과 2kg의 체중감소가 있어 병원에 왔다 특히 과거력은 없었으며 활력징후는 정상이었다. 혈액검사 결과는 다음과 같다.\n백혈구 5,441/mm3 AST/ALT 142/311 TB 2.62 ALP 271 ggt 470? amylase 144 lipase 200 CA 19-9 28.12",
+    "passage": "",
+    "image": "images/wed0916_34/image9.png",
+    "images": [
+      "images/wed0916_34/image9.png"
+    ],
+    "options": [
+      "담낭암",
+      "췌장암",
+      "간문부암",
+      "온쓸개관암",
+      "바터 팽대부 암"
+    ],
+    "answer": [
+      2
+    ],
+    "answerText": "2번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설) 상복부 통증, 체중 감소가 있습니다. CT 소견에서 gallbladder가 확장되어 있는 것으로 보아 biliary obstruction일 것 같습니다. 췌장암입니다. (그런데 CA 19-9 수치가 좀 애매합니다. 37 이상부터 비정상인데 정상 수치 안에 들어옵니다. Lewis 혈액항원 유전자형 le/le의 경우 CA 19-9가 낮을 수 있으므로 췌장암에서 반드시 높은 것은 아니지만… 그래도 저는 아마 확실히 높은 수치를 줬는데 수치가 잘못 복구된 것이라고 생각합니다)",
+    "explanationOfficial": "기존 파드 해설) 상복부 통증, 체중 감소가 있습니다. CT 소견에서 gallbladder가 확장되어 있는 것으로 보아 biliary obstruction일 것 같습니다. 췌장암입니다. (그런데 CA 19-9 수치가 좀 애매합니다. 37 이상부터 비정상인데 정상 수치 안에 들어옵니다. Lewis 혈액항원 유전자형 le/le의 경우 CA 19-9가 낮을 수 있으므로 췌장암에서 반드시 높은 것은 아니지만… 그래도 저는 아마 확실히 높은 수치를 줬는데 수치가 잘못 복구된 것이라고 생각합니다)",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_13",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 13,
+    "question": "63세 남자 환자가 3개월 동안 6kg의 체중감소와 복통으로 내원하였다. 복부 CT 소견은 다음과 같다. 위험인자는?",
+    "passage": "",
+    "image": "images/wed0916_34/image10.png",
+    "images": [
+      "images/wed0916_34/image10.png"
+    ],
+    "options": [
+      "담석",
+      "흡연",
+      "담관염",
+      "기생충 감염",
+      "방사선 노출"
+    ],
+    "answer": [
+      2
+    ],
+    "answerText": "2번",
+    "isMultipleChoice": false,
+    "explanation": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다. 공식 해설) 단기간 동안의 체중감소, 복통, 복부 CT 소견으로 췌장암을 진단할 수 있다. 작성자) 장재혁교수님은 당뇨를 매우 강조하셨지만, 흡연도 위험인자 중 하나라고 말씀하셨습니다. 다만 KMLE책이나 다른 교수님들의 수업 내용을 참고해보면 ‘흡연’을 중요한 RF로 언급하고 있습니다.",
+    "explanationOfficial": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다. 공식 해설) 단기간 동안의 체중감소, 복통, 복부 CT 소견으로 췌장암을 진단할 수 있다. 작성자) 장재혁교수님은 당뇨를 매우 강조하셨지만, 흡연도 위험인자 중 하나라고 말씀하셨습니다. 다만 KMLE책이나 다른 교수님들의 수업 내용을 참고해보면 ‘흡연’을 중요한 RF로 언급하고 있습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_14",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 14,
+    "question": "55세 남자가 1년전부터 중증 복통이 있으면서, 최근에는 대변에 기름이 뜬다고 외래로 내원하였다. 20세 이후로 매일 담배 한갑, 소주1~2병씩 마셨다고 한다. 맞는 설명은?",
+    "passage": "",
+    "image": "",
+    "images": [],
+    "options": [
+      "혈중 아밀라제 수치가 진단에 중요하다.",
+      "양성자펌프억제제가 치료효과에 좋다.",
+      "암(cancer)으로 발전할 수 있다.",
+      "완치가 가능하다.",
+      "기름변은 상기 질환의 초기 병변을 시사하는 임상소견이다."
+    ],
+    "answer": [
+      3
+    ],
+    "answerText": "3번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설 1) 진행 6.5년까지 위험도가 늘어났었습니다. 기존 파드 해설 2) 만성췌장염은 췌장암의 위험인자이다. 작성자) 만성췌장염 파트 문제가 여기 들어온 것 같은데, 누락방지를 위해 넣어놓습니다.",
+    "explanationOfficial": "기존 파드 해설 1) 진행 6.5년까지 위험도가 늘어났었습니다. 기존 파드 해설 2) 만성췌장염은 췌장암의 위험인자이다. 작성자) 만성췌장염 파트 문제가 여기 들어온 것 같은데, 누락방지를 위해 넣어놓습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_15",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 15,
+    "question": "63세 남자 환자가 3개월 동안 6kg의 체중감소와 복통으로 내원하였다. 복부 CT 소견은 다음과 같다. 위험인자는?",
+    "passage": "",
+    "image": "images/wed0916_34/image11.png",
+    "images": [
+      "images/wed0916_34/image11.png",
+      "images/wed0916_34/image12.png",
+      "images/wed0916_34/image13.png"
+    ],
+    "options": [
+      "음주",
+      "담석",
+      "흡연",
+      "기생충 감염",
+      "방사선 노출"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "answerText": "[1, 3]",
+    "isMultipleChoice": true,
+    "explanation": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다. 기존 파드 해설) 단기간 동안 체중감소, 복부CT소견으로 췌장암을 진단할 수 있다.\n다음은 췌장의 epithelial cell이 췌장암의 전암 단계인 Pancreatic Intraepithelial neoplasia(PanIN)를 거쳐 췌장암이 되는 과정이다. 각 단계에서 일어나는 유전자의 변화로 알맞게 짝지어진 것을 고르시오.",
+    "explanationOfficial": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다. 기존 파드 해설) 단기간 동안 체중감소, 복부CT소견으로 췌장암을 진단할 수 있다.\n다음은 췌장의 epithelial cell이 췌장암의 전암 단계인 Pancreatic Intraepithelial neoplasia(PanIN)를 거쳐 췌장암이 되는 과정이다. 각 단계에서 일어나는 유전자의 변화로 알맞게 짝지어진 것을 고르시오.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_16",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 16,
+    "question": "다음은 췌장의 epithelial cell이 췌장암의 전암 단계인 Pancreatic Intraepithelial neoplasia(PanIN)를 거쳐 췌장암이 되는 과정이다. 각 단계에서 일어나는 유전자의 변화로 알맞게 짝지어진 것을 고르시오.",
+    "passage": "",
+    "image": "images/wed0916_34/image12.png",
+    "images": [
+      "images/wed0916_34/image12.png",
+      "images/wed0916_34/image13.png"
+    ],
+    "options": [
+      "1번 보기",
+      "2번 보기",
+      "3번 보기",
+      "4번 보기",
+      "5번 보기"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "출처를 찾아보니 췌담 병원병리라는 수업에 분류되어 있었습니다..올해 3교시 수업으로 풀기는 어렵습니다.",
+    "explanationOfficial": "출처를 찾아보니 췌담 병원병리라는 수업에 분류되어 있었습니다..올해 3교시 수업으로 풀기는 어렵습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_17",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 17,
+    "question": "다음 CT에서 보이는 질환을 수술 후 치료 반응을 보는데 많이 사용되고 있는 종양 표지자는?",
+    "passage": "",
+    "image": "images/wed0916_34/image14.png",
+    "images": [
+      "images/wed0916_34/image14.png"
+    ],
+    "options": [
+      "CEA",
+      "AFP",
+      "CA125",
+      "CA19-9",
+      "PIVKA-II"
+    ],
+    "answer": [
+      4
+    ],
+    "answerText": "4번",
+    "isMultipleChoice": false,
+    "explanation": "기존 파드 해설) 췌장암 관련 종양 표지자 중 가장 중요한 것은 CA19-9입니다. 그리고 올해 교수님께서 지나가듯이 “여담이지만 CA19-9가 높을수록 예후가 좋지 않다”라고 하셨습니다.",
+    "explanationOfficial": "기존 파드 해설) 췌장암 관련 종양 표지자 중 가장 중요한 것은 CA19-9입니다. 그리고 올해 교수님께서 지나가듯이 “여담이지만 CA19-9가 높을수록 예후가 좋지 않다”라고 하셨습니다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_18",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 18,
+    "question": "62 세 남자 환자가 3 개월동안 6kg의 체중감소와 복통으로 내원하였다. 복부 CT 소견(사진 1)은 다음과 같다. 위험인자는?",
+    "passage": "",
+    "image": "images/wed0916_34/image15.png",
+    "images": [
+      "images/wed0916_34/image15.png"
+    ],
+    "options": [
+      "당뇨",
+      "담석",
+      "비만",
+      "기생충감염",
+      "방사선노출"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "answerText": "[1, 3]",
+    "isMultipleChoice": true,
+    "explanation": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다. 기존 파드 해설) 단기간 동안의 체중감소, 복통, 복부 CT 소견으로 췌장암을 진단할 수 있다. 췌장암의 위험인자로 알려진 것은 가족력, 흡연, 당뇨, 만성췌장염 등이다.",
+    "explanationOfficial": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다. 기존 파드 해설) 단기간 동안의 체중감소, 복통, 복부 CT 소견으로 췌장암을 진단할 수 있다. 췌장암의 위험인자로 알려진 것은 가족력, 흡연, 당뇨, 만성췌장염 등이다.",
+    "importance": 3
+  },
+  {
+    "id": "0916_wed34_19",
+    "subject": "수3_4_0916_췌장암",
+    "subjectName": "[09/16 수3,4] 췌장암의 진단 및 내과적 치료 (장재혁)",
+    "day": "수",
+    "period": 3,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "장재혁 교수님",
+    "isSameProfessor": false,
+    "qNumber": 19,
+    "question": "다음중 췌장암의 위험인자를 고르시오.",
+    "passage": "",
+    "image": "",
+    "images": [],
+    "options": [
+      "커피",
+      "담석",
+      "염분",
+      "아스피린",
+      "만성췌장염"
+    ],
+    "answer": [
+      5
+    ],
+    "answerText": "5번",
+    "isMultipleChoice": false,
+    "explanation": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다.",
+    "explanationOfficial": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다.",
+    "importance": 3
   }
 ]

@@ -205,6 +205,7 @@
       this.allSubjects = [
         '화1_간질환총론', '화2_간질환진단', '화3_간대사간기능', '화4_바이러스간염면역',
         '화1_0915_병리소견', '화2_0915_병리', '화4_0915_내시경',
+        '수1_0916_급성췌장염', '수2_0916_만성췌장염', '수3_4_0916_췌장암',
         '수1_2_B형간염', '수3_4_C형간염', '수5_알콜성간질환', '수6_간경변환자의실제', '수7_대사이상지방간', '수8_간기능부전',
         '목1_약제유발성간염', '목2_자가면역성간염', '목3_4_만성간염의실제', '목5_6_간경변합병증', '목7_급성바이러스간염', '목8_대사성간질환',
         '금1_2_간악성종양', '금3_간담췌의해부학', '금4_간의수술적치료의개요',
@@ -238,7 +239,10 @@
       const hasTue1_0915 = savedSubjects && savedSubjects.includes('화1_0915_병리소견');
       const hasTue2_0915 = savedSubjects && savedSubjects.includes('화2_0915_병리');
       const hasTue4_0915 = savedSubjects && savedSubjects.includes('화4_0915_내시경');
-      this.selectedSubjects = new Set(savedSubjects && savedSubjects.length > 0 && hasWed && hasThu && hasFri && hasMon && hasMerged && hasThu1 && hasFri3 && hasFri4 && hasFri5 && hasFri6 && hasFri7 && hasFri8 && hasMon1 && hasMon2 && hasMon3 && hasMon4 && hasTue1_0915 && hasTue2_0915 && hasTue4_0915 ? savedSubjects : this.allSubjects);
+      const hasWed1_0916 = savedSubjects && savedSubjects.includes('수1_0916_급성췌장염');
+      const hasWed2_0916 = savedSubjects && savedSubjects.includes('수2_0916_만성췌장염');
+      const hasWed34_0916 = savedSubjects && savedSubjects.includes('수3_4_0916_췌장암');
+      this.selectedSubjects = new Set(savedSubjects && savedSubjects.length > 0 && hasWed && hasThu && hasFri && hasMon && hasMerged && hasThu1 && hasFri3 && hasFri4 && hasFri5 && hasFri6 && hasFri7 && hasFri8 && hasMon1 && hasMon2 && hasMon3 && hasMon4 && hasTue1_0915 && hasTue2_0915 && hasTue4_0915 && hasWed1_0916 && hasWed2_0916 && hasWed34_0916 ? savedSubjects : this.allSubjects);
       this.questionCountLimit = localStorage.getItem('gastro_quiz_count_limit') || 'all';
       this.selectedYears = this.loadJSON('gastro_quiz_selected_years', []);
       this.currentMode = 'practice'; // 'practice' | 'exam' | 'bookmarks'
