@@ -35608,5 +35608,1805 @@
     "images": [
       "images/thu0917_4/image10.jpg"
     ]
+  },
+  {
+    "id": "0917_thu5_01",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "백광열 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": true,
+    "qNumber": 87,
+    "question": "72세 여자가 소화가 안되어 병원에 왔다. 혈압 120/55 mmHg, 맥박 62회/분, 호흡 20회/분, 체온 36.5°C이다. 배에 압통이나 반동압통은 없다. 혈액검사 결과는 다음과 같다. 복부 자기공명촬영 (사진1)과 내시경 초음파 사진 (사진2) 이다. 사진2의 연두색 화살표는 췌장 머리의 주췌관 내부의 모양이다. 치료는?",
+    "options": [
+      "?",
+      "낭빈창자연결술(Cystojejunostomy)",
+      "이자샘창자절제술",
+      "이자빈창자연결술",
+      "먼쪽이자절제술"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "MRCP 영상을 보면 main duct가 전체적으로 dilation 된 양상을 볼 수 있고, main duct내의 mural nodule을 확인할 수 있습니다. 이 경우 가장 적절한 수술은 Right-sided pancreatectomy입니다( 다른 이름으로 휘플 수술, pancreaticoduodenectomy가 있습니다.) 공식해설) 진단 - 주췌관형 췌관내유두점액신생물(IPMN). 그림 1. 전체 췌장에 걸쳐 관찰되는 주췌관형 췌관내유두점액신생물(MD-IPMN)과 팽대된 파터 팽대부의 단면 영상. 그림 2. 주췌관에서 벽재성 결절을 보여주는 췌관내유두정액신생물(IPMN)의 내시경 초음파 영상. Sabiston 21판, 1551 페이지 치료 부분 췌장절제술이 고위험 병변의 주된 치료법입니다. 그러나 관내유두점액신생물(IPN)의 경우, 관내 현미경적 이상 소견의 범위를 항상 결정할 수 있는 것은 아닙니다. 주관 내에 미만성 용종이나 조영증강되는 결절이 없는 경우에는 우측 췌장절제술이 선호됩니다.",
+    "images": [
+      "images/thu0917_5/image1.png"
+    ]
+  },
+  {
+    "id": "0917_thu5_02",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "백광열 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": true,
+    "qNumber": 88,
+    "question": "47세 여자가 건강검진 때 복부 컴퓨터단층촬영에서 이자에 덩이(사진 1)가 발견되었다. 치료를 위해 먼쪽이자절제술을 시행하였다. 조직병리검사에서 난소양 기질소견(사진 2)이 보였다. 진단은?이 환자의 진단으로 가장 적절한 것은?",
+    "options": [
+      "점액성낭종",
+      "고형가유두상종양",
+      "장액성낭종",
+      "췌관유두상점액종양",
+      "내분비종양"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Ovarian stroma=> MCN!(Mucinous cystic neoplasm) 공식해설) Sabiston 21th ed. Page 1548 점액낭성종양(MCNs)**은 점액을 생성하는 상피를 가지고 있으며, 낭종을 둘러싸고 있는 점액이 풍부한 세포와 난소 유사 기질의 존재를 통해 조직학적으로 진단됩니다. 대부분의 경우 에스트로겐과 프로게스테론 염색에서 양성 반응을 보입니다. 젊은 여성에게서 자주 발견되지만, 발병 시 평균 연령은 40대입니다.",
+    "images": [
+      "images/thu0917_5/image2.png"
+    ]
+  },
+  {
+    "id": "0917_thu5_03",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백광열 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "42세 여자가 건강검진을 통해 발견한 종양의 모습이다. 내시경초음파를 이용해 흡입한 결과 점액성 물질이 배출되었다. 적절한 조치는?",
+    "options": [
+      "6개월 후 CT 재쵤영",
+      "내시경 초음파를 통한 흡입술",
+      "이자샘창자절제술 (pancreaticoduodenectomy)",
+      "췌장 쐐기 절제술 (pancreas wedge resection)",
+      "췌장 중앙구역 절제술 (central pancreatectomy)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "점액성 물질이 나왔다는 점에서 MCN or IPMN 생각 가능 MD-IPMN일때는 3번을 해야하는데,,,,, 사진 상 main duct dilation이 관찰되지 않는 것을 보아 BD-IPMN이라 생각 가능하고 이때 partial pancreatectomy를 시행하는게 primary 인데 위치상 body에 가까워 보이므로 5번 선택가능",
+    "images": [
+      "images/thu0917_5/image3.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_04",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백광열 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "59. 75세 여자가 윗배가 아파서 병원에 왔다. 1년간 체중이 6kg 줄었다고 한다. 혈압 120/65 mmHg, 맥박 122회/분, 호 흡 20회/분, 체온 36.5도이다. 배에 압통이나 반동압통은 없다. 혈액검사 결과는 다음과 같다. 복부 컴퓨터단층촬영 (사진1) 과 바터팽대부의 내시경 사진 (사진2) 이다. 치료는?\n혈색소 13.2 g/dL, 백혈구 7,800/mm3, 혈소판 214,000/mm3 총빌리루빈 2.1 mg/dL, 알칼리인산분해효소 245U/L 아스파르테이트아미노전달효소 45 U/L 알라닌아미노산전달효소 35 U/L 아밀라아제 230 U/L 리파제 150 U/L, C-반응단백질 2 mg/L (참고치 <10)",
+    "options": [
+      "팽대부절제술",
+      "낭빈창자연결술(cystojejunostomy)",
+      "이자샘창자절제술",
+      "이자빈창자연결술",
+      "먼쪽이자절제술"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image4.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_05",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "백광열 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "65 세 남자 복통으로 내원. CT에서 이자에 덩이(사진)가 발견되었다. 조직검사 소견은 다음과 같다. 진단은?",
+    "options": [
+      "점액성낭종",
+      "고형가유두상종양",
+      "장액성낭종",
+      "췌관유두상점액종",
+      "내분비종양"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image5.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_06",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "백광열 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "복통이 있어 내원환 환자. 1 년간 체중이 6kg 줄었다고 한다. 적절한 조치는? 혈액검사 소견 복구 x\n(20학번 문제랑 같은 사진이지만, 공간이 없어 옆으로 배치했습니다.)",
+    "options": [
+      "팽대부절제술",
+      "낭빈창자연결술(cystojejunostomy)",
+      "이자샘창자절제술",
+      "이자빈창자연결술",
+      "먼쪽이자절제술"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image6.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_07",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "윤승배 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 3,
+    "question": "췌장 낭성액에 대한 검사를 통해 췌장 낭성 진단에 도움을 받을 수 있다. A, B, C, D에 가장 적절하게 들어갈 수 있는 진단을 순서대로 적은 것은?\n*참고 MCN – 점액성 낭성 종영, IPMN – 췌관 내 유두상 점액 종양, SCN – 장액성 낭성 종양",
+    "options": [
+      "A-SCN, B-MCN, C-IPMN, D-pseudocyst",
+      "A- MCN, B- IPMN, C- pseudocyst, D- SCN",
+      "A- MCN, B- SCN, C-IPMN, D-pseudocyst",
+      "A- IPMN, B-MCN, C- SCN, D-pseudocyst",
+      "A- IPMN, B-MCN, C- pseudocyst, D- SCN"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "이 도표를 기억합시다",
+    "images": [
+      "images/thu0917_5/image7.jpg",
+      "images/thu0917_5/image8.png"
+    ]
+  },
+  {
+    "id": "0917_thu5_08",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "윤승배 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 4,
+    "question": "52 세 여자 환자가 상복부 불편감으로 내원하여 찍은 복부 CT 사진이다. 이 환자는 한달에 한번 소주 한 병 정도 술을 마신다고 한다. 다음 중 치료로 옳은 것은?",
+    "options": [
+      "내시경 배액술",
+      "경피적 담도 배액술",
+      "금식, 금주",
+      "췌십이지장 동맥 색전술",
+      "MRCP 추적관찰"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "CT사진에서 Serous cystadenoma의 소견으로, 벌집 모양의 낭성 종양(스펀지~)이 확인 됩니다. 이는 Malignant potential이 없고, 증상이 발생한다기에는 단순한 불편감이기 때문에 경과관찰을 한다고 합니다.",
+    "images": [
+      "images/thu0917_5/image9.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_09",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "윤승배 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 5,
+    "question": "62 세 남자가 1 개월 전 시작된 소화불량 주소로 내원하여 복부 CT(사진 1) 검사를 시행하였으며 보기와 같은 결과들 이 관찰되었다. 환자에서 악성이 의심되어 수술적 치료를 결정하게 된 가장 결정적인 소견(high-risk stigmata of malignancy)는 무엇인가?",
+    "options": [
+      "낭종 크기 3.5cm",
+      "아버지가 췌장암인 가족력",
+      "CA 19-9 : 43 U/ml (normal range:<35)",
+      "주췌관 (main pancreatic duct) 두께 12mm",
+      "조영 증강되는 벽 결절 (mural nodule) 4mm"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_10",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 6,
+    "question": "48 세 남자가 3 년간 반복되는 공복이나 운동시 발생하는 저혈당으로 병원에 왔다. 혈액검사에서 인슐린/혈당 수치가 0.5 였다. 복부컴퓨터단층촬영 사진이다. 개복하였을 때 종괴는 췌장의 중간 부위에서 육안적으로 확인이 되었으며 피낭이 잘 형성되어 있었다. 췌장을 보존하기 위한 적절한 수술은? (김기환 교수님)",
+    "options": [
+      "전췌장절제술",
+      "단순종양절제술",
+      "췌십이지장 절제술",
+      "십이지장 보존 췌두부절제술",
+      "원위부췌장절제술 및 췌공장 문합술"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image10.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_11",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "윤승배 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 7,
+    "question": "65 세 남자 환자가 복통이 있어 검사한 복부 CT, ERCP, 조직검사 소견이다. 조치는?",
+    "options": [
+      "방사선 치료",
+      "항암 치료 (gemcitabine)",
+      "3 개월 후 추적 검사",
+      "내시경적 유두부 절제술 (papillectomy)",
+      "원위부 췌장 절제술 (distal pancreatectomy)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image11.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_12",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "윤승배 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 8,
+    "question": "56 세 여자가 내원 1 개월 전부터 시작된 소화불량을 주소로 내원하여 다음과 복부 CT (사진 1) 및 내시경 초음파(사진 2)를 시행하였다. 환자는 췌장염 기왕력이나 음주력은 없었다. 초음파 내시경 유도하 낭종 흡인 시행 시 끈적끈적한 액체 가 관찰되었다. 가장 적절한 치료 방법은? (사진 미복구여서 제가 임의로 넣었습니다.)",
+    "options": [
+      "경과 관찰",
+      "수술적 절제",
+      "경피적 낭종 배액술",
+      "내시경 역행성 담췌관 조영술",
+      "초음파 내시경 유도하 낭종 경벽 배액술"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image12.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_13",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "윤승배 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 9,
+    "question": "분지췌관형 췌관내 유두상 점액종양에서 수술을 고려하지 않고 Close follow-up 할 수 있는 소견은?",
+    "options": [
+      "Cyst size ≥ 2cm",
+      "Definite mural nodule",
+      "Enhancing solid component with cyst",
+      "Main pancreatic duct ≥ 10mm in size",
+      "Obstructive jaundice in a patient with cystic lesions of the head of pancreas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "high-risk features의 기준으로는 High-risk features | Worrisome features // Main duct > 1 cm Enhancing mural nodule > 5mm Jaundice | Main duct 5-0mm Enhancing Mural nodule < 5mm Thickened, enhancing cyst Wall BD-IPMN > 3cm Abrupt caliber change in main duct with upstream atrophy Lymphadenopathy Pancreatitis Increased serum 19-9 Cyst growth > 5mm over 2years",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_14",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 10,
+    "question": "평소에 식은땀, 가슴 두근거림, 공복감 등을 호소하는 65 세 여자환자가 내원하여 시행한 CT 의 동맥기와 문맥기 영상 이다. 가장 가능성 높은 진단명은? (김기환 교수님)",
+    "options": [
+      "췌관내 유두상점액종",
+      "신경내분비종",
+      "췌장암",
+      "IgG4 연관질환",
+      "만성췌장염"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PNET의 문제였습니다. 일단 식은땀, 가슴 두근거림, 공복감 => 저혈당 증상 Whipple 증으로 보이고, 동맥기, 문맥기 영상에서 췌장 미부에 조영증강이 매우 잘 되는 종괴가 보이고 있다고 합니다. 그래서 insulinoma  가능성이 높습니다.",
+    "images": [
+      "images/thu0917_5/image13.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_15",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 11,
+    "question": "75 세 남자가 외래에서 췌장낭성종양으로 경과 관찰중에 시행한 복부 전산화 단층촬영 그리고 MRCP 소견상 낭종의 크기가 3.0cm, 주췌관의 직경이 13mm 로 확장되어 있는 소견이 보이고, ERCP 로 췌아전절제술을 시행한 후 응급 동결절 편조직검사에서 절제면에서 1mm 거리에서 high grade dysplasia 가 관찰되었다. 다음 치료로 올바른 것은? (김기환 교수 님)",
+    "options": [
+      "관찰한다",
+      "절제면을 더 절제한다",
+      "절제면에 전기소작술을 시행한다",
+      "수술 후 방사선치료를 시행한다",
+      "수술 후 전신항암요법을 시행한다."
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "주췌관 직경이 13mm로 확장된 췌장낭성 종양=> MD-IPMN으로 생각됨 절제술 후 high grade dysplasia or invasive carcinoma=> Total pancreatectomy 입니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_16",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 12,
+    "question": "72 세 남자가 1 개월 전 시작된 소화불량 주소로 내원하여 복부 CT 검사를 시행하였으며, 보기와 같은 결과들이 관찰 되었다. 이 들 중 악성이 의심되어 수술적 치료를 결정하게 된 가장 결정적인 소견 (High-risk stigmata of malignancy)는 무엇인가? (김기환 교수님)",
+    "options": [
+      "낭종 크기 3.5cm",
+      "췌장 미부의 퇴화 (Atrophy)",
+      "CA 19-9: 49 U/mL (Normal range > 35)",
+      "주췌관 (Main pancreatic duct) 두께 8mm",
+      "조영 증강되는 벽 결절 (Mural Nodule) 7mm"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "풀이: 사진은 별로 안 중요합니다. 이거 다시 기억하고 갑시다. Branch-duct IPMN (췌관 내 유두상 점액 종양)의 수술적 적응증인 high-risk stigmata High-risk features // Main duct > 1 cm Enhancing mural nodule > 5mm Jaundice",
+    "images": [
+      "images/thu0917_5/image14.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_17",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 13,
+    "question": "복부 동통으로 내원한 67세 남자에서 시행한 복부 CT에서 췌장두부에 낭성 종양이 보였다. 내시경적 역행성 담췌조영 술(ERCP)이 진단에 도움이 되는 질환은?",
+    "options": [
+      "췌두부 관선암",
+      "췌장 가성낭종",
+      "췌장 인슐린종",
+      "췌관내유두상점액종",
+      "췌장 고형가유두상종양"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "췌장 낭성종양에서 췌관내유두상점액종은 60대에 호발하며 주로 남자에 발생하며 두부에 잘 생긴다. 낭종 내 에 주로 점액이 차있어 주체관과 연결되어 끈끈한 점액이 십이지장의 팽대부를 막아 복통을 자주 유발시킨다. ERCP를 시 행하여 확인시 확진이 된다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_18",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 14,
+    "question": "건강검진 CT영상에서 우연히 발견된 췌장종괴로 시행한 53세 남자의 MRCP 영상이다. 가장 가능성 높은 진단명은?",
+    "options": [
+      "총담관낭",
+      "가성낭종",
+      "낭성췌장암",
+      "췌관내유두점액종양",
+      "점액낭성종양"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image15.png"
+    ]
+  },
+  {
+    "id": "0917_thu5_19",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 15,
+    "question": "65 세 여자가 췌관내유두상점액종으로 수술 받고 추적검사 중에 촬영한 복부 컴퓨터 단층촬영 사진이다. 환자는 특별 한 증상을 호소하지 않고 있으며 혈액 검사 결과는 다음과 같다. (1 가지)\n혈색소 12.3g/dL, 백혈구 4,550/mm^3, 혈소판 144,000Umm^3 총단백질 7.2g/dL, 알부민 3.8 g/dL, 총빌리루빈 1.1mg/dL 알칼리 인산 분해효소 85U/L, 아스파르테이트 아미노전달효소 40U/L 알라닌 아미노전달효소 42 U/L CA19-9 29ng/mL (참고치, <37) 암배아항원(CEA) 4.5ng/mL (참고치, <5)",
+    "options": [
+      "조직검사(biopsy)",
+      "경과관찰(observation)",
+      "항생제 투여(antibiotics)",
+      "에탄올 주입술(ethanol injection)",
+      "이자효소제 투여(pancreatic enzyme)",
+      "전췌장 절제술(total pancreatectomy)",
+      "원위부 췌장절제술(distal pancreatectomy)",
+      "경피적 배액관 삽입(percutaneous drainage)"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "풀이: 저희는 이정도로는 안 배웠습니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_20",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 16,
+    "question": "다음 췌장에 발생한 종양 중에서 증상이 없다면 수술적 치료보다는 추적관찰이 필요한 질환은? (총괄)",
+    "options": [
+      "산발적 가스트린종",
+      "고형가유두상종양",
+      "4cm 크기 췌장 가성 낭종",
+      "비기능성 도세포 종양",
+      "췌관내유두상점액종, 주췌관형"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_21",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 17,
+    "question": "52 세 남자로 CT 검사에서 4cm 크기의 병변이 췌장에서 우연히 발견되었다. 조영증강되는 벽결절은 보이지 않았고 주 췌장의 직경은 4mm였다. 다음 검사나 시술로 가장 적절한 것은?",
+    "options": [
+      "Surgical resection",
+      "Endoscopic cyst ablation",
+      "Endoscopic stent insertion",
+      "Endoscopic ultrasonography",
+      "Transabdominal ultrasonography"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Branch type의 intraductal papillary mucin-producing neoplasm(IPMN)의 증례이다. IPMN의 크기가 3cm 이상 인 경우 악성을 시사하는 소견을 확인하기 위해 endoscopic ultrasonography를 추천하고 있다고 합니다. (딱히 main duct dilation이 significant하지 않음=> BD-IPMN이라 생각하는 것 같습니다. High-risk features | Worrisome features // Main duct > 1 cm Enhancing mural nodule > 5mm Jaundice | Main duct 5-0mm Enhancing Mural nodule < 5mm Thickened, enhancing cyst Wall BD-IPMN > 3cm Abrupt caliber change in main duct with upstream atrophy Lymphadenopathy Pancreatitis Increased serum 19-9 Cyst growth > 5mm over 2years 여기서 Worrisome 중 3cm초과 조건에 걸립니다. EUS를 해야겠네요",
+    "images": [
+      "images/thu0917_5/image16.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_22",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 18,
+    "question": "다음 복강에 발생한 종양 중에서 증상이 없다면 수술적 치료보다는 추적관찰이 필요한 질환은?(김기환교수님)",
+    "options": [
+      "인슐린종 (insulinoma)",
+      "장액성 낭종 (serous cystic neoplasm)",
+      "고형가유두상종양 (solid pseudopapillary neoplasm)",
+      "비기능성 도세포 종양 (non-functioning islet cell neoplasm)",
+      "췌관내유두상점액종, 주췌관형 (intraductal papillary mucinous neoplasm)"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_23",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 19,
+    "question": "53세 남자가 2주전부터 시작된 소화불량, 소변색 진해짐을 주소로 병원에 왔다. 체중이 3kg정도 감소하였고 복통은 없 었다. 혈액검사 결과는 다음과 같다.\n혈색소 14.5 g/dL, 백혈구 4,300/mm3, 혈소판 202,000/mm3 총빌리루빈 15.0 mg/dL, 직접빌리루빈 12.3 mg/dL, 아스파 르테이트아미노전달효소 56 U/L 알라닌아미노전달효소 147 U/L, 알칼리인산분해효소 271 U/L 감마-글루타밀트랜스펩티\n다제 326 U/L, 아밀라아제 82 U/L, 리파제 109 U/L\n복부 컴퓨터단층촬영, 자기공명담췌관조영술, 양전자방출 단층촬영 사진 (사진 3, 4, 5)이다. 다음 치료는?",
+    "options": [
+      "휘플수술",
+      "죽은조직 제거술",
+      "복강경쓸개절제술",
+      "경피적 낭종배액술",
+      "내시경역행성담췌관조영술"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image17.png"
+    ]
+  },
+  {
+    "id": "0917_thu5_24",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 20,
+    "question": "빈번한 복부동통으로 내원한 67세 남자에서 시행한 복부 전산화단층촬영에서 췌장두부에 낭종이 보였다. 내시경적 역 행적 조영술 시행한 소견이다. 가장 적절한 치료는?",
+    "options": [
+      "괄약근 성형술",
+      "췌장 전 절제술",
+      "전췌장 이식술",
+      "췌십이지장 절제술",
+      "원위부 췌장절제술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "공식 해설: Fish Mouth + ERCP를 통해서 MD쪽 종양 발견 -> pancreaticoduodenectomy",
+    "images": [
+      "images/thu0917_5/image18.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_25",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 21,
+    "question": "남자 환자가 복통이 있어 검사한 복부 CT (사진 1), MRCP (사진 2), ERCP (사진 3)이다. 조치는?",
+    "options": [
+      "방사선 치료",
+      "항암 치료",
+      "3 개월 후 추적 검사",
+      "내시경 유두부 절제술 (papillectomy)",
+      "이자샘창자 절제술 (pancreaticoduodenectomy)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "Fish Mouth + MD dilation -> MD IPMN -> pancreaticoduodenectomy",
+    "images": [
+      "images/thu0917_5/image19.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_26",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 22,
+    "question": "43세 남자가 실신과 땀분비를 주소로 내원하였다. CT영상에서 다음과 같은 소견을 보였다. 진단을 위해 다음 검사로 적당한 것은?",
+    "options": [
+      "캡슐내시경",
+      "MRCP",
+      "초음파",
+      "흉부 X-ray",
+      "옥트래오스캔"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "",
+    "images": [
+      "images/thu0917_5/image20.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu5_27",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2011 (11학번)",
+    "yearNum": 11,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 23,
+    "question": "췌관 내 유두상 점액종에 대한 설명으로 옳은 것은?",
+    "options": [
+      "주로 60세 이하의 젊은 나이에서 호발한다.",
+      "여성에서 많이 발생한다.",
+      "복통 등 췌장염 증상을 동반하지 않는다.",
+      "주췌관형(main duct type)의 경우, 악성도가 10~30%로 낮다.",
+      "전형적인 췌장암보다 예후가 좋다."
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_28",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2011 (11학번)",
+    "yearNum": 11,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 24,
+    "question": "다음 중 췌장의 내분비조직에서 발생하는 양성 및 저악성도 종양으로 옳은 것은? (13짤)",
+    "options": [
+      "mucinous tumor",
+      "intraductal papillary mucinous tumor",
+      "insulinoma",
+      "serous cystic neoplasm",
+      "solid-pseudo papillary tumor"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_29",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 25,
+    "question": "다음 췌장 질환 중 악성화 가능성이 있는 것은?",
+    "options": [
+      "가성 낭종(pseudocysst)",
+      "단순 낭종(simple cyst)",
+      "만성 췌장염(chronic pancreatitis)",
+      "잠액성 낭종(serous cystadenoma)",
+      "점액성 낭종(mucinous cystic neoplasm)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu5_30",
+    "subject": "목5_0917_췌장양성종양",
+    "subjectName": "[09/17 목5] 췌장 양성종양 (백광열)",
+    "day": "목",
+    "period": 5,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "백광열 교수님",
+    "isSameProfessor": false,
+    "qNumber": 26,
+    "question": "다음 췌장 질환 중에서 남성에 호발하면서, 악성화 할 수 있는 질환은?",
+    "options": [
+      "가성 낭종(pseudocysst)",
+      "단순 낭종(simple cyst)",
+      "잠액성 낭종(serous cystadenoma)",
+      "점액성 낭종(mucinous cystic neoplasm)",
+      "관내 유두상 점액성 종양(IPMN, Intraductal papillary mucinous neoplasm)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "일반적으로 악성화 가능성이 있는 췌장 낭성 종양은 관내 유두상 점액성 종양(IPMN, intraductal papillary mucinous neoplasm)과 점액성 낭종(Mucinous cystic neoplasm)이고, 점액성 낭종은 주로 여성에 호발하고, 관내 유 두상 점액성 종양은 남성에 좀 더 호발하는 것으로 알려져 있습니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_01",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "서창호 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "48세 남자가 한달전부터 간헐적으로 윗배가 아프다고 병원에 왔다. 과식을 하거나 기름진 음식을 먹을 때 특히 통증이 더 심해진다고 한다. 혈압 120/70mmHg, 맥박 72회/분, 체온 36.8도이다. 신체진찰 결과 오른쪽 윗배에 가벼운 압통이 있었다. 혈액 검사 결과는 다음과 같다. 복부 초음파 사진(사진 1.)이다. 치료는?\n혈색소 13.5g/dL, 백혈구 8,400/mm3, 혈소판 210,000/mm3\n총단백질 6.1g/dL, 알부민 3.6g/dL, 총빌리루빈 1.2mg/dL\n아스파트산아미노기전달효소 50U/L, 알라닌아미노기전달효소 34U/L\n녹말분해효소 95U/L, 지방분해효소 74U/L",
+    "options": [
+      "담낭절제술",
+      "어스데옥시콜산",
+      "체외충격파쇄석",
+      "피부경유담즙배액",
+      "내시경유두조임근절개"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "외과학(한글판) 3판 p726-728 – 증상을 동반한 담석증의 경우 담낭절제술이 필요함.",
+    "images": [
+      "images/thu0917_6/image1.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_02",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "서창호 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "61세 여자가 1주일 전부터 시작된 우상복부 통증 및 고열로 병원에 왔다. 2년전 담석증으로 복강경담낭절제술을 받았다고 한다. 혈압 140/85mmHg, 맥박 112회/분, 호흡 17회/분, 체온 38.3도이다. 신체진찰 결과 오른쪽 윗배에 가벼운 압통이 있었다. 혈액검사결과 및 복부 CT 사진 (사진 1.)이다. 치료는?\n혈색소 13.5g/dL, 백혈구 16,400/mm3, 혈소판 210,000mm3\n총단백질 6.1g/dL, 알부민 3.6g/dL, 총빌리루빈 4.2mg/dL\n아스파트산아미노기전달효소 250U/L, 알라닌아미노기전달효소 234 U/L\n알칼리포스파타아제 287U/L, 감마글루타밀전이효소(yGT) 542 U/L",
+    "options": [
+      "항생제 치료 및 경과관찰",
+      "담도-공장 문합술",
+      "췌십이지장 절제술",
+      "내시경적 총담관 결석 제거술",
+      "초음파 쇄석술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "외과학 (한글판) 3판 p730-731 총담관에 결석 보이며, 혈액검사에서 급성 담관염 소견이 보인다. 내시경적 총담관 결석 제거술을 시행해야 한다.",
+    "images": [
+      "images/thu0917_6/image2.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_03",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 3,
+    "question": "수년간 지속되는 식사 후 발생하는 우상복부 불편감으로 내원한 50세 여성환자에서 우선 시행해볼 수 있는 영상 검사는 무엇인가?",
+    "options": [
+      "조영증강 전산화단층촬영",
+      "초음파",
+      "경피경간 담도조영검사 (Percutaneous Transhepatic Cholangiography, PTC)",
+      "자기공명 담췌관조영검사 (Magnetic Resonance Cholangiopancreatography, MRCP)",
+      "내시경역행담췌관조영검사 (Endoscopic Retrograde Cholangiopancreatography, ERCP)"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "담낭 담석이 의심되는 환자에서 초음파는 95% 이상의 진단율을 보이는 가장 기본적인 검사이다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_04",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 4,
+    "question": "72세 남자가 1주일전부터 시작된 우상복부 통증 및 고열로 왔다. 2년 전 담석증으로 복강경담낭절제술을 받았다. 혈액검사 결과 및 복부 사진이다. 치료는?\n백혈구 18,400/mm3, CRP 9.5mg/dL\n총빌리루빈 4.4 mg/dL\nAST/ALT 242/250 U/L\nALP 287U/L 감마글루타밀전이효소 342 IU/L",
+    "options": [
+      "항생제 치료 및 경과관찰",
+      "담도-공장 문합술",
+      "췌십이지장 절제술",
+      "내시경적 총담관 결석 제거술",
+      "초음파 쇄석술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "총담관에 결석 보이며, 혈액검사에서 급성 담관염 소견이 보인다. 내시경적 총담관 결석 제거술을 시행해야 한다.",
+    "images": [
+      "images/thu0917_6/image3.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_05",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 5,
+    "question": "우상복부 통증으로 응급실에 왔다. 당뇨병과 고혈압으로 약물치료 중이었다. 응급실에서 검사한 소견이다. 적절한 처치는?",
+    "options": [
+      "체외쇄석술",
+      "담낭절제술",
+      "이자샘창자절제술",
+      "경피적 경간담즙배액술",
+      "내시경 역행담췌관조영술"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "lab 소견은 전혀 보이지 않습니다… 다만 수업 내용 로 보았을 때, ERCP가 답인 것 로 보아 CBD stone이 있는 것 로 생 각됩니다.",
+    "images": [
+      "images/thu0917_6/image4.jpeg",
+      "images/thu0917_6/image5.jpeg"
+    ]
+  },
+  {
+    "id": "0917_thu6_06",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 6,
+    "question": "상복부 통증으로 응급실에 왔다. 혈압 120/80, 맥박 80회/분, ~. 혈액검사 결과는 다음과 같다. 복부 자기공명담췌관조영, ERCP 사진이다. 이후 치료는?",
+    "options": [
+      "췌장십이지장절제",
+      "복강경쓸개절제",
+      "피부경유낭종배액",
+      "내시경조임근절개",
+      "피부간경유쓸개관배액"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "역시 화질이 너무 좋지 않아 lab 소견과 사진이 보이지 않습니다. 문제에서 ERCP를 시행한 사진을 줬 니까, 그 다음에 시 행하는 Cholecystectomy가 답인 것 같습니다. 작야에 담관염이 발생한 경우 ERCP를 통해 CBD stone을 먼저 해결하고 → Cholecystectomy를 통해 GB를 제거한다는 내용이 있었습니다.",
+    "images": [
+      "images/thu0917_6/image6.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_07",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 7,
+    "question": "50세 여자가 우상복부 통증으로 내원하였다. 혈압 120/70mmHg, 맥박 80회/분, 호흡 16회/분, 체온 37.5도였다. 혈액검사 결과와 초음파 소견이다. 조치는?\n혈색소 12.5g/dL, 백혈구 15,000mm3, 혈소판 150,000mm3\nAST/ALT 40/42 U/L, Total bilirubin 1.1mg/dL",
+    "options": [
+      "피부간경유 담관배액술",
+      "복강경 담낭절제술",
+      "내시경역행쓸개이자조영술",
+      "통증조절 후 경과 관찰",
+      "체외충격파쇄석술"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "담석담낭염 시 환자 기저질환 없고 상태 안정적이면 담낭절제술 계획함.",
+    "images": [
+      "images/thu0917_6/image7.jpeg"
+    ]
+  },
+  {
+    "id": "0917_thu6_08",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 8,
+    "question": "60세 남자가 명치부위 통증으로 왔다. 이 환자의 CT 및 MRCP 사진이다. 치료는?",
+    "options": [
+      "내시경적 총담관결석 제거술",
+      "경피적 담낭배액술",
+      "내시경적 총담관결석 제거술 후 담낭절제술",
+      "담낭절제술 후 추적관찰",
+      "항생제 치료 후 추적관찰"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "담관에 결석이 있는 소견으로 ERCP 후 담낭절제술 시행합니다.",
+    "images": [
+      "images/thu0917_6/image8.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_09",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 9,
+    "question": "60세 여자가 내원 3시간 전부터 갑자기 발생한 상복부 통증으로 응급실로 내원했다. 환자는 건강검진에서 발견된 쓸개돌이 있었으나 증상이 없어 경과관찰 중이었다. 내원 당시 혈압은 110/75mmHg, 맥박 115회/분, 호흡 23회/분, 체온 37.3도였다. 복부 청진에서 장음은 감소되어 있었고 압통은 있었으나 반동압통은 심하지 않았다. 혈액검사 결과는 다음과 같았다. 배 컴퓨터 단층촬영 사진이다. 응급실 내원일에 내시경적 역행성담도조영술(ERCP)을 시행하여 바터팽대절제술 및 온쓸개관돌을 제거하였다. 가장 적절한 다음 치료는?\n총빌리루빈 4.1mg/dL, 알칼리인산분해효소 160 U/L\n아스파르테이트아미노전달효소 145U/L, 알라닌아미노전달효소 130U/L\n아밀라아제 10,100U/L, 리파아제 1,500U/L",
+    "options": [
+      "전체이자절제술",
+      "이자죽은조직절제술",
+      "옆옆이자빈창자연결술",
+      "쓸개 절제술",
+      "피부경유배액술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "담도결석에 의한 췌장염이고 담낭결석이 동반된 경우로 췌장염이 개선되면 가능한 빨리 담낭절제술을 시행한다.",
+    "images": [
+      "images/thu0917_6/image9.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_10",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 10,
+    "question": "담낭결석으로 추적관찰 중인 42세 남자 환자가 상복부 통증으로 응급실 통하여 내원하였다. 결석에 의한 급성 췌장염으로 내시경하 담도 결석 제거술을 시행하였다. 담낭 결석에 대한 치료로 적절한 것은?",
+    "options": [
+      "저지방하며 추적관찰",
+      "담석용해제 투여",
+      "췌장염 증상 호전 후 담낭절제",
+      "췌장염 증상 호전 후 퇴원 후에 담낭염 발생 시 담낭 절제",
+      "경피적 담낭배액술 (PTGBD) 시행"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Gallstone pancreatitis의 경우 입원 중 췌장염 증상 호전 시 담낭절제술까지 하고 퇴원한다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_11",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 11,
+    "question": "85세 여성 환자가 우상복부 통증 및 발열로 응급실 내원하였다. 내원 당시 수축기 혈압이 85mmHg로 낮았으며, 시행한 초음파 검사에서 담낭 결석은 보이지 않았으나 담낭벽 비후가 심하였다. CT 소견은 다음과 같다. 환자는 급성심근경색으로 4개월 전에 stent 치료를 받은 과거력이 있었다. 치료는?",
+    "options": [
+      "광범위 항생제만 투여",
+      "응급 개복 담낭절제술",
+      "경피적 담낭 배액술",
+      "내시경적 역행성 담도조영술",
+      "복강경하 담낭절제술"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "급성 담낭염에서 수술에 대한 high risk 환자에서는 PTGBD 시행한다.",
+    "images": [
+      "images/thu0917_6/image10.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_12",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 12,
+    "question": "췌담관합류 이상이 보이는 환자에서 무증상 담석증이 보일 경우 치료는?",
+    "options": [
+      "경과 관찰",
+      "담낭 절제술",
+      "유두 절제술",
+      "췌십이지장 절제술",
+      "간외담도절제 및 담도공장문합술"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "췌담관합류 이상은 무증상 담석증 시에도 수술 적응증이 된다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_13",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 13,
+    "question": "55세 여자환자가 유증상 담석증으로 복강경하 담낭절제술을 받았고 수술 당시 배액관은 넣지 않았다. 환자는 수술 후 2일째 문제없이 퇴원하였으나, 수술 후 7일째 갑자기 발생한 우상복부 통증과 발열을 주소로 응급실로 내원하였다. 혈액검사 소견은 다음과 같았다. 응급실에서 시행한 CT 소견이다. 다음으로 할 치료는?\n혈색소 12.5g/dL, 백혈구 18,000mm3, 혈소판 150..000mm3\nAST/ALT 40/42U/L, total bilirubin 1.2 mg/dL\n(쓸개관이 늘어난 모습)",
+    "options": [
+      "개복술을 통한 R-Y hepatojejunostomy (간관공장문합술)",
+      "복강경 수술을 통한 담즙 누출 부위 일차 봉합술",
+      "내시경적 역행성 담도조영술 (ERCP) 시행",
+      "경피적 담도배액술 (Percutaneous Transhepatic Biliary Drainage) 시행",
+      "경피적 배액술 시행"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "수술 후에 생긴 담도 협착으로 ERCP를 통해 진단함과 동시에 stent를 넣어 치료할 수 있음.",
+    "images": [
+      "images/thu0917_6/image11.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_14",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 14,
+    "question": "50세 남자가 윗배통증과 설사를 주소로 병원에 왔다. 30년간 매일 소주 1병씩 마셨다고 하며, 최근 3개월 간 체중이 5kg 감소하였다고 하였다. 혈압 120/80mmHg, 맥박 95회/분, 호흡 16회/분, 체온 36.6도였다. 장음은 정상이었고, 진찰상 윗배에 경한 압통이 있었고, 반발압통은 없었지만 마약성 진통제로도 통증 조절이 잘 되지 않았다. 헐액검사는 다음과 같았다. 복부 컴퓨터 단층촬영 사진이다. 이 환자가 계속 복통이 조절되지 않을 경우 가장 먼저 고려해 볼 수 있는 치료는?\n혈색소 12.0g/dL, 백혈구 7100mm3, 혈소판 130000mm3\n아스파르테이트아미노전달효소 45U/L, 알라닌아미노전달효소 400U/L\n직접빌리루빈 0.6mg/dL, 아밀라제 120U/L, 리파아제 110U/L, CA19-9 5.0U/mL(참고치 0~37U/mL)",
+    "options": [
+      "낭빈창자연결술 (Cystojejunostomy)",
+      "개복 괴사조직제거술 (Open Necrosectomy)",
+      "경피적 괴사조직제거술 (Percutaneous Necrosectomy)",
+      "경피적 카테터 배액술 (Percutaneous Catheter Drainage)",
+      "내시경 경위 괴사조직제거술 (Endoscopic Transgastric Necrosectomy)",
+      "내시경 팽대조임근절개술 및 췌관스텐트 삽입",
+      "내시경역행성 담췌관 시술을 통한 담관스텐트 삽입",
+      "먼쪽 이자절제술 (Distal Pancreatectomy)"
+    ],
+    "answer": [
+      6
+    ],
+    "explanation": "CT에서 담석이 내려와서 담석성 췌장염이 발생한 것으로 의심됩니다. 계속 복통이 조절이 안되는 경우 ERCP를 하고 퇴원 전에 쓸개절제술을 한다고 배운 것 같습니다.",
+    "images": [
+      "images/thu0917_6/image12.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_15",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 15,
+    "question": "급성 비결석성 담낭영(acute acalaculous cholecystitis)에 대한 설명이다. 틀린 것은?",
+    "options": [
+      "담석이 있는 경우보다 합병증을 더 잘 유발한다.",
+      "외상, 화상, 장기간 정맥영양 시행 후의 환자에서 호발한다.",
+      "주 기전은 담낭저류(gallbladder stasis)와 허혈(ischemia)로 담낭 내 세균의 집락화(bacterial colonization)를 유발한다.",
+      "동반된 질환으로 사망률이 40% 이상이므로 cholecystectomy 또는 PTGBD(경피경간 담낭배액술)을 즉시 시행해야 한다.",
+      "PTGBD(경피경간 담낭배액술) 치료 후 follow-up 이미지에서 stone이 없을 경우에라도 interval cholecystectomy를 시행해야 한다."
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "Sabiston 19th. 90%에서 percutaneous drainage로 도움을 얻을 수 있다. Interval cholecystectomy를 반드시 시행해야 하는 것은 아니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_16",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "최호중 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 16,
+    "question": "담낭 및 간외 담도의 해부에 관한 설명이다. 틀린 것은?",
+    "options": [
+      "Cystic a.는 rt. Hepatic a.의 분지로서 흔히 발견된다.",
+      "Gall bladder fossa가 liver의 lt.와 rt. Lobe를 나누는 경계가 된다.",
+      "Calot’s triangle 내로 rt. Hepatic a. 또는 cystic a.가 통과한다.",
+      "CBD의 12시, 6시 방향으로 혈관이 형성되어 있어 dissection 시 injury를 주지 않게 조심해야 한다.",
+      "Biliary tree는 오직 arterial supply만 한다."
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Sabiston 19th. CBD의 3시, 9시 방향으로 혈관이 형성되어 있다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_17",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 17,
+    "question": "52세 여자가 심한 복통으로 내원하여 혈액화학 검사 및 복부 전산화 단층촬영을 시행한 결과 급성 췌장염 소견을 보이고 담낭 결석이 발견되었다. 담낭 결석에 대한 적절한 치료는?",
+    "options": [
+      "저지방하며 추적관찰",
+      "담석용해제 투여",
+      "즉시 담낭 절제",
+      "췌장염 증상 호전 후 퇴원 전 담낭 절제",
+      "췌장염 증상 호전 후 3개월 뒤 담낭 절제"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Gallstone pancreatitis의 경우 급성췌장염의 내과적 치료 후 퇴원 전에 담낭 절제술을 시행하여 재발을 방지해주는 것이 좋다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_18",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 18,
+    "question": "복강경 담낭절제술에 관한 설명이다. 다음 중 옳은 것은?",
+    "options": [
+      "급성 담낭염환자에서는 염증이 심해 시행할 수 없다.",
+      "술중 담관조영술을 시행할 수 없어 총담관석이 있는 환자에서는 시행할 수 없다.",
+      "수술부를 확대해 볼 수 있어 개복술에 비해 담관손상을 줄일 수 있다.",
+      "개복술에 비해 통증이 적고 회복이 빨라 퇴원이 빠르다.",
+      "심부전 등 순환기 계통 기왕력이 있는 환자에게 선호된다."
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "복강경 담낭절제술은 급성담낭염의 경우에도 시행할 수 있고 수술 중 담관 조영술도 가능하며 개복술에 비해 통증이 적고 회복이 빨라 재원기간이 짧은 장점이 있으나 담관손상의 가능성은 높은 편임.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_19",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 19,
+    "question": "47세 남자가 기름진 식사 후 발생한 우상복통과 구역으로 내원하였다. 동통을 호소하였을 때 다음 중 먼저 시행하여야 하는 검사는?",
+    "options": [
+      "경구 담낭조영술",
+      "상부 위장관 내시경",
+      "복부 전산화 단층촬영술",
+      "복부초음파검사",
+      "내시경적 역행성 담관 조영술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "담석증이 의심되므로 처음으로 시행할 수 있는 적절한 검사는 복부 초음파 검사이다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_20",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 20,
+    "question": "다음에 기술된 환자들 중에서 수술을 권유하지 않고 정기적 관찰이 필요한 경우는?",
+    "options": [
+      "반복되는 우상복부의 지속적 동통을 주소로 시행한 단순 복부촬영 상 담낭의 모양이 보이는 70세 여자",
+      "최근 두 달 동안 담낭통으로 응급실을 3번 방문한 25세 여자",
+      "최근 급성담낭염으로 개인병원에 10일 간 입원하여 항생제 투여요법을 시행 받았던 35세 남자",
+      "0.5cm 크기의 방사선 투과성 담낭결석 1개를 가지고 있으며 최근 담석성 췌장염이 발생하였던 45세 여자",
+      "15년 이상 당뇨병을 앓고 있어 시행한 건강검진 상 우연히 담낭 결석이 발견된 55세 남자"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "1, 2는 증상이 있는 경우이고 3, 4는 합병증 발생해서 수술해야 합니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_21",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 21,
+    "question": "7년 전 담낭 담석으로 담낭 절제술을 시행 받은 60세의 비만한 여자환자가 2일전부터 발생한 발열, 우상복부 통증, 황달을 주소로 내원하였다. 복부 초음파 검사 상 간내결석은 없었고 총수담관에 1cm 크기의 고에코성 음영이 관찰되었다. 진단과 치료면에서 가장 적절한 술기는 무엇인가?",
+    "options": [
+      "PTC (Percutaneous Transhepatic Cholangiography)",
+      "ESWL (Extracorporeal Shock Wave Lithotripsy)",
+      "Peritoneoscopy",
+      "ERCP (Endoscopic Retrograde Choangio Pancreatography)",
+      "PTBD (Percutaneous Transhepatic Biliary Drainage)"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "CBD stone은 ERCP, GB stone은 laparoscopic cholecystectomy",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_22",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 22,
+    "question": "40세 남자가 병원을 방문하여 담낭초음파를 찍었다. 특별한 증상 없었고, 앞으로 치료를 결정하는 데 생각해야 할 요소는?",
+    "options": [
+      "Murphy sign 유무",
+      "크기",
+      "반복적 통증 유무",
+      "간수치",
+      "당뇨 병력"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "고위험군 환자에게는 증상이 없어도 예방적으로 cholecystectomy 하는 경우가 있다. • Hemolytic anemia (e.g., sickle cell anemia) -> 높은 색소 담석 형성 - 담낭염이 위기(crisis) 유발 가능 그 외에도 암을 유발할 수 있는 아래와 같은 경우들 • Porcelain gallbladder (석회화된 담낭벽) • Large gallstones (>2.5 cm) • Long common channel (bile + pancreatic ducts) • Bariatric surgery 환자 : 급격한 체중 감소 → 담석 형성 ↑ + ERCP가 어려움 Diabetic patients: 담낭괴저 위험 ↑",
+    "images": [
+      "images/thu0917_6/image13.png"
+    ]
+  },
+  {
+    "id": "0917_thu6_23",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 23,
+    "question": "담도염이 의심되는 경우 진단을 위해서 신속하고 보다 많은 정보를 주어 우선 고려해야 할 검사는?",
+    "options": [
+      "복부초음파",
+      "양전자방출단층촬영",
+      "복부전산화단층촬영",
+      "자기공명담췌관조영술",
+      "경피적간경유담관배액술"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "복부 CT는 신속한 검사가 가능하고 진단을 위한 정보가 많다. PET-CT는 종양을 진단하는 방법이고, 복부초음파는 중하부 총담관 관찰이 어렵다. 자기공명담췌관조영술은 신속히 시행하기 어렵고 촬영 시간이 많이 걸리며, 경피적간경유담관배액술은 치료 시술이다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_24",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 24,
+    "question": "54세 여자가 상복부 동통으로 응급실에 와서 시행한 복부 CT에서 담낭 결석과 총담관결석 담석성 췌장염을 보여 입원한 뒤에 역행성 췌담도 내시경을 시행하여 총담관결석을 제거한 후 췌장염은 호전되었다. 향후 치료로 가장 적절한 것은?",
+    "options": [
+      "퇴원조치",
+      "장기간 금식",
+      "담낭절제술을 시행한다.",
+      "역행적 췌담도 내시경을 통한 췌도 배액관 삽입술",
+      "역행적 췌담도 내시경을 통한 총담관 배액관 삽입술"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "담석에 의한 췌장염일 경우 담낭절제술의 역할: 췌장염이 개선되고 가능한 빨리 재원 기간 중 담낭절제술을 시행한다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_25",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 25,
+    "question": "35세 여자가 건강검진으로 시행한 복부 초음파에서 1cm 크기의 담석이 3개 발견되었다. 담석은 방사선 비투과성이고 경구 담낭조영술 상 담낭은 잘 조영되었으며 괄약근의 운동성도 정상이었다. 가장 적절한 조치는?",
+    "options": [
+      "Ursodeoxycholic acid 복용",
+      "경피적 담관배액술",
+      "담낭절제술과 T-tube 삽입술",
+      "Endoscopic sphincterotomy",
+      "정기적 관찰"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "크기가 작은 담석으로 증상이 없어 경과관찰 가능한 경우임",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_26",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 26,
+    "question": "담도염이 의심되는 환자가 내원하였을 때 진단을 위해서 신속하고 보다 많은 정보를 주는 진단 검사는?",
+    "options": [
+      "복부 CT",
+      "자기공명 담췌간 조영술",
+      "PET-CT",
+      "내시경 역행성 담췌관 조영술",
+      "내시경 초음파"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "복부 CT가 신속히 검사가 가능하고 진단을 위한 정보가 많다. PET-CT는 종양을 진단하는 방법이고, 복부초음파는 하부 총담관 관찰이 어렵다. 자기공명 담췌관 조영술은 신속히 시행하기 어렵고 시간이 많이 걸리며, 경피적 간경유 담관배액술은 치료 시술이다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_27",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 27,
+    "question": "다음 환자들 중 수술없이 경과 관찰만 할 수 있는 경우는?",
+    "options": [
+      "최근 두 달 동안 담낭종으로 응급실을 2번 방문한 25세 여자",
+      "최근 급성 담낭염으로 개인병원에 입원하여 항생제 투여를 받았던 35세 남자",
+      "0.5cm 크기의 담낭결석 1개가 최근 담석성 췌장염이 발생하였던 45세 여자",
+      "반복되는 우상복부의 동통이 있으며 단순 복부촬영상 담낭 용종이 보이는 70세 여자",
+      "15년 이상 당뇨병을 앓고 있어 시행한 건강검진 상 우연히 담낭 결석이 발견된 55세 여자"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "염증의 병력이 있거나, 1cm 이상의 담석의 경우 담낭절제술 시행",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_28",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 28,
+    "question": "다음 중 바로 수술하지 않고 경과 관찰만 해도 되는 경우는?",
+    "options": [
+      "석회화된 담낭",
+      "무통증의 3cm 담석",
+      "과거 담낭염의 합병증",
+      "통증이 심한 1cm 담석",
+      "통증은 없으나 1cm 미만의 다수의 담석"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "무증상 환자에서는 예방적 담낭절제술 필요 없이 경과 관찰합니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_29",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 29,
+    "question": "47세 남자가 기름진 식사 후 발생한 우상복통과 구역으로 내원하였다. 동통은 양쪽 견갑골 사이로 느껴짐. 먼저 시행해야 할 검사는?",
+    "options": [
+      "경구 담낭조영술",
+      "복부 초음파 검사",
+      "상부 위장관 내시경",
+      "복부 전산화 단층촬영술",
+      "내시경적 역행성 담관조영술"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "기름진 식사 후 우상복통: chronic calculous cholecystitis 의심. 초음파는 담낭결석의 procedure of choice, accuracy 100%",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_30",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2011 (11학번)",
+    "yearNum": 11,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 30,
+    "question": "복강경 담낭 절제술에 대한 설명으로 맞는 것은?\n개복술에 비해 동통 적고, 입원 기간 짧고, 미용효과 좋다.\n개복술에 비해 담관 손상 비율이 낮다.\n수술 후 ot/pt, bilirubin 수치가 일시적 상승하는 경우가 있으며 수일 내 정상으로 돌아온다.\n심폐기능이 좋지 않은 고령 환자에서 선택적으로 실시",
+    "options": [
+      "1, 2, 3",
+      "1, 3",
+      "2, 4",
+      "4",
+      "1, 2, 3, 4"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "복강경 담낭 절제술의 경우 개복술에 비해 동통이 적고 입원 기간을 줄이고 미용효과가 좋은 반면 개복술에 비해 담관 손상 가능성이 높고 심폐기능이 좋지 않은 COPD나 CHF 환자의 경우 CO2 insufflation으로 인한 합병증 가능성이 높아서 피하는 것이 좋다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_31",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2011 (11학번)",
+    "yearNum": 11,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 31,
+    "question": "Acalculous cholecystitis를 유발할 수 있는 요인은?(모두 고르기)",
+    "options": [
+      "Trauma",
+      "Burn",
+      "TPN",
+      "DM"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "Acalculous cholecystitis를 유발할 수 있는 요인으로 위 문항 외에도 older age, critical illness, immunosuppression 등이 있다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_32",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이성/이상권 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 32,
+    "question": "담석증 발생의 위험인자로 틀린 것은?",
+    "options": [
+      "비만",
+      "음식",
+      "크론병",
+      "남성",
+      "위수술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "담석증의 대표적인 위험인자: 4F(Fatty, Forty, Fertile, Female)",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_33",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이성/이상권 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 33,
+    "question": "담낭절제술을 시행할 때 개복 담낭절제술을 해야 하는 경우는?",
+    "options": [
+      "간경화",
+      "담낭결석이 클 때",
+      "임신 2기",
+      "담도결석증",
+      "담낭용종"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Sabiston 18th p.1565 (산맥단) 복강경 수술을 하지 못하는 경우는 다음과 같습니다. - 과거 수술(특히 위 수술)로 주위조직과의 유착이 있을 때 - 해부학적 구조가 깨진 경우 - coagulopathy가 있을 때 - morbid obesity가 있을 때 - 간경변이 있는 환자: caput medusae 등의 혈관 이상이 있는 경우 복강경 수술의 CIx",
+    "images": []
+  },
+  {
+    "id": "0917_thu6_34",
+    "subject": "목6_0917_담낭결석치료",
+    "subjectName": "[09/17 목6] 담낭결석과 치료 (서창호)",
+    "day": "목",
+    "period": 6,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이성/이상권 교수님",
+    "thisYearProfessor": "서창호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 34,
+    "question": "간내 담관 담석 환자의 치료 시 수술적인 간절제를 시행해야 하는 경우는?",
+    "options": [
+      "간위축",
+      "심한 황달",
+      "간 내 출혈",
+      "좌측 간내담관 결석",
+      "우측 간내담관 결석"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "간내담석과 동반된 간위축이 있을 경우 담도암의 발생이 높아 수술적인 간절제를 시행해야 한다.",
+    "images": []
   }
 ]

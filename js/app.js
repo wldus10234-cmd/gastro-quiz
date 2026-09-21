@@ -208,6 +208,7 @@
         '수1_0916_급성췌장염', '수2_0916_만성췌장염', '수3_4_0916_췌장암',
         '수1_2_B형간염', '수3_4_C형간염', '수5_알콜성간질환', '수6_간경변환자의실제', '수7_대사이상지방간', '수8_간기능부전',
         '목1_0917_췌장낭성질환', '목2_0917_췌장암수술', '목3_0917_담낭용종담낭암', '목4_0917_췌장염외과치료',
+        '목5_0917_췌장양성종양', '목6_0917_담낭결석치료',
         '목1_약제유발성간염', '목2_자가면역성간염', '목3_4_만성간염의실제', '목5_6_간경변합병증', '목7_급성바이러스간염', '목8_대사성간질환',
         '금1_2_간악성종양', '금3_간담췌의해부학', '금4_간의수술적치료의개요',
         '금5_간종양', '금6_양성간종양', '금7_간세포암', '금8_악성간종양',
@@ -247,7 +248,9 @@
       const hasThu2_0917 = savedSubjects && savedSubjects.includes('목2_0917_췌장암수술');
       const hasThu3_0917 = savedSubjects && savedSubjects.includes('목3_0917_담낭용종담낭암');
       const hasThu4_0917 = savedSubjects && savedSubjects.includes('목4_0917_췌장염외과치료');
-      this.selectedSubjects = new Set(savedSubjects && savedSubjects.length > 0 && hasWed && hasThu && hasFri && hasMon && hasMerged && hasThu1 && hasFri3 && hasFri4 && hasFri5 && hasFri6 && hasFri7 && hasFri8 && hasMon1 && hasMon2 && hasMon3 && hasMon4 && hasTue1_0915 && hasTue2_0915 && hasTue4_0915 && hasWed1_0916 && hasWed2_0916 && hasWed34_0916 && hasThu1_0917 && hasThu2_0917 && hasThu3_0917 && hasThu4_0917 ? savedSubjects : this.allSubjects);
+      const hasThu5_0917 = savedSubjects && savedSubjects.includes('목5_0917_췌장양성종양');
+      const hasThu6_0917 = savedSubjects && savedSubjects.includes('목6_0917_담낭결석치료');
+      this.selectedSubjects = new Set(savedSubjects && savedSubjects.length > 0 && hasWed && hasThu && hasFri && hasMon && hasMerged && hasThu1 && hasFri3 && hasFri4 && hasFri5 && hasFri6 && hasFri7 && hasFri8 && hasMon1 && hasMon2 && hasMon3 && hasMon4 && hasTue1_0915 && hasTue2_0915 && hasTue4_0915 && hasWed1_0916 && hasWed2_0916 && hasWed34_0916 && hasThu1_0917 && hasThu2_0917 && hasThu3_0917 && hasThu4_0917 && hasThu5_0917 && hasThu6_0917 ? savedSubjects : this.allSubjects);
       this.questionCountLimit = localStorage.getItem('gastro_quiz_count_limit') || 'all';
       this.selectedYears = this.loadJSON('gastro_quiz_selected_years', []);
       this.currentMode = 'practice'; // 'practice' | 'exam' | 'bookmarks'
