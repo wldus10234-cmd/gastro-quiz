@@ -33445,5 +33445,2168 @@
     "explanation": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다.",
     "explanationOfficial": "올해 배운 위험 인자로 연령, 성별, 흡연, 비만, 식습관, 당뇨, 만성췌장염, 췌장낭종, 유전성 증후군, 가족성 췌장암, 음주가 있습니다.",
     "importance": 3
+  },
+  {
+    "id": "0917_thu1_01",
+    "subject": "목1_0917_췌장낭성질환",
+    "subjectName": "[09/17 목1] 췌장 낭성질환의 진단 및 예후 (이종율)",
+    "day": "목",
+    "period": 1,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "이종율 교수님",
+    "thisYearProfessor": "이종율 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "63세 남자가 건강검진 복부초음파에서 췌장의 이상소견이 발견되어 왔다. 복부 초음파, 복부 컴퓨터단층촬영, 자기공명담췌관조영술 사진이다. 진단은?",
+    "options": [
+      "췌장암 (pancreatic cancer)",
+      "장액낭샘종 (serous cystadenoma)",
+      "점액낭성종양 (mucinous cystic neoplasm)",
+      "고형가유두상종양 (solid pseudopapillary tumor)",
+      "췌관내유두점액신생물 (intraductal papillary mucinous neoplasm)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "공식해설) 영상검사에서 uncinate process에 multilocular cystic lesion이 보이며 분지췌관형 췌관내유두점액신생물의 소견이다. 초음파에선 낭성병변임을 확인할 수 있고, CT에서는 병변이 췌관과 연결되어 있음을, MRCP에서는 아래쪽의 포도송이 모양의 multilocular lesion이 췌관과 연결되어 있음을 확인할 수 있습니다. 따라서 BD-IPMN 입니다. (추가로, 63세 남성이기 때문에 여성에서 호발하는 SCA, MCN보다 성별 상관없이 나타나는 IPMN일 확률이 높습니다.)",
+    "images": [
+      "images/thu0917_1/image1.png"
+    ]
+  },
+  {
+    "id": "0917_thu1_02",
+    "subject": "목1_0917_췌장낭성질환",
+    "subjectName": "[09/17 목1] 췌장 낭성질환의 진단 및 예후 (이종율)",
+    "day": "목",
+    "period": 1,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "이종율 교수님",
+    "thisYearProfessor": "이종율 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "70세 남자가 건강검진 복부초음파에서 췌장의 이상소견이 발견되었다. 복부 초음파, 내시경, 복부 컴퓨터단층촬영 사진이다. 치료는?",
+    "options": [
+      "내시경 추적관찰",
+      "내시경초음파 경벽배액술",
+      "내시경역행성담췌관배액술",
+      "내시경 유두부절제술",
+      "수술적 절제"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "공식해설) 복부 초음파검사에서 주췌관이 1cm 이상 확장되어 있고 내시경검사에서 점액이 흘러나오는 주췌관형 췌관내유두점액신생물의 소견이며 수술적 치료가 필요하다. 췌관 확장 + Fish mouth appearance 는 전형적인 MD-IPMN의 소견입니다.",
+    "images": [
+      "images/thu0917_1/image2.png"
+    ]
+  },
+  {
+    "id": "0917_thu1_03",
+    "subject": "목1_0917_췌장낭성질환",
+    "subjectName": "[09/17 목1] 췌장 낭성질환의 진단 및 예후 (이종율)",
+    "day": "목",
+    "period": 1,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "이종율 교수님",
+    "thisYearProfessor": "이종율 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "75세 여자가 복통으로 왔다. 혈압 130/85mmHg, 맥박수 분당 90회, 호흡수 분당 16회, 체온 36.3도였다. 혈액검사 결과는 다음과 같았다. 컴퓨터단층촬영, 자기공명담췌관조영술, 내시경 사진이다. 치료는?\n\n- 백혈구 8,790/mm3, 혈색소 13.9g/dL, 혈소판 186,000/mm3\n- 아스파르테이트아미노전달효소 20U/L, 알라닌아미노전달효소 15U/L\n- 알칼리인산분해효소 88U/L, 감마글루타밀전달효소 24U/L, 아밀라제 211U/L",
+    "options": [
+      "내시경 추적관찰",
+      "내시경초음파 경벽배액술",
+      "내시경역행성담췌관배액술",
+      "내시경 유두부절제술",
+      "수술적 절제"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "CT와 MRCP에서 췌관이 전체적으로 확장된 소견이 보이고 내시경 검사에서 유두부에서 점액에 의해 주유두 입구가 확장된 fish mouth appearance 소견입니다. Main-duct type IPMN에 합당한 소견으로 치료는 수술입니다.",
+    "images": [
+      "images/thu0917_1/image3.png"
+    ]
+  },
+  {
+    "id": "0917_thu1_04",
+    "subject": "목1_0917_췌장낭성질환",
+    "subjectName": "[09/17 목1] 췌장 낭성질환의 진단 및 예후 (이종율)",
+    "day": "목",
+    "period": 1,
+    "year": "2020 (20학번 총시)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "이종율 교수님",
+    "thisYearProfessor": "이종율 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "63세 여자가 건강검진에서 이상소견이 발견되어 왔다. 혈액검사, 복부 컴퓨터단층촬영, 내시경초음파 검사 사진이다. 진단은?\n\n- 백혈구 5,970/mm3, 혈색소 12.7 g/dL, 혈소판 311,000/mm3\n- 아스파르테이트아미노전달효소 23 U/L, 알라닌아미노전달효소 22 U/L\n- 알카리인산분해효소 108 U/L, 감마글루타밀전달효소 34 U/L\n- 아밀라제 76 U/L, 리파아제 35 U/L, CA19-9 18.0 U/mL",
+    "options": [
+      "췌장암 (pancreatic cancer)",
+      "장액낭샘종 (serous cystadenoma)",
+      "점액낭성종양 (mucinous cystic neoplasm)",
+      "고형가유두상종양 (solid pseudopapillary tumor)",
+      "췌관내유두점액신생물 (intraductal papillary mucinous neoplasm)"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "CT는 다소 불분명할 수 있으나 초음파에서 SCA의 특징적 소견인 honey comb-like microcyst가 보입니다. amylase, lipase가 정상이므로 췌장암이 아니며, 큰 낭종이 관찰되지 않아 MCN도 아닙니다.",
+    "images": [
+      "images/thu0917_1/image4.png"
+    ]
+  },
+  {
+    "id": "0917_thu1_05",
+    "subject": "목1_0917_췌장낭성질환",
+    "subjectName": "[09/17 목1] 췌장 낭성질환의 진단 및 예후 (이종율)",
+    "day": "목",
+    "period": 1,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "이종율 교수님",
+    "thisYearProfessor": "이종율 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "상부위장관 내시경 및 복부 CT 소견이다. 진단은? (맥박 90회/분, 호흡 16회/분)",
+    "options": [
+      "장액낭샘종 (serous cystadenoma)",
+      "바터팽대암 (ampulla of Vater cancer)",
+      "점액낭성종양 (mucinous cystic neoplasm)",
+      "고형가유두상종양 (solid pseudopapillary tumor)",
+      "췌관내유두점액신생물 (intraductal papillary mucinous neoplasm)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "전형적인 Fish mouth 소견 + 커진 췌장 & 넓어진 Main pancreatic duct CT 소견입니다. 주췌관 확장형 IPMN(MD-IPMN)에 합당합니다.",
+    "images": [
+      "images/thu0917_1/image5.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_01",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 89,
+    "question": "63세 남자 환자가 3개월 동안 6kg의 체중감소와 복통으로 내원하였다. 복부 CT 소견(사진1)은 다음과 같다. 위험인자는?\n(17, 16, 15, 13, 12학번 짤변, 14학번 완짤)",
+    "options": [
+      "당뇨",
+      "담석",
+      "비만",
+      "기생충 감염",
+      "방사선 노출"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "단기간 동안의 체중감소, 복통, 복부 CT 소견으로 췌장암을 진단할 수 있다. 췌장암의 위험인자로 알려진 것은 췌장암 가족력, 흡연, 당뇨, 만성췌장염이다. 올해/작년에 특별히 강조하신 부분은 아니나 출제되었습니다. 클래스룸 강의자료 13페이지에 언급된 내용입니다. 1. 흡연 (췌장암 발생 2~5배 증가, 간접흡연도 관련) 2. 고열량 식이 3. 만성 췌장염 4. 당뇨병 (췌장암 원인이자 결과 일수도.) 5. 유전적 요소 (10%) 6. 과음 (하루 6잔 이상)",
+    "images": [
+      "images/thu0917_2/image1.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_02",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 90,
+    "question": "다음 사진은 무슨 수술의 과정인가?",
+    "options": [
+      "휘플수술",
+      "췌장중앙부분전제술(central pancreatectomy)",
+      "비장 보존 원위부 췌장절제술",
+      "담도 절제 및 Roux-en-Y 담도 장 문합술",
+      "RAMPS (radical antegrade modular pancreaticosplenectomy)"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "췌장 중앙에 발생한 절제성 종양에 대한 췌장중앙절제술의 절제 완료된 모습이다. 이 후에 distal pancreas부분을 Roux-en-Y로 올린 소장에 문합해 주게 된다. proximal pancreas stump는 stapler로 잘린 모습이 보이고 distal pancreas 절단면이 보인다. splenic vein이 노출되어 있다. 작년 강조하신 사진 부분 그대로 출제하셨습니다. 올해는 출제 언급 없으셨습니다.",
+    "images": [
+      "images/thu0917_2/image2.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_03",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 16,
+    "question": "65세 남자가 1개월 전부터 지속되는 상복부 통증으로 병원에 왔다. 최근 1개월간 체중이 5 kg 감소하였으며, 흡연력(하루 1갑, 20년)과 음주력(소주 1-2병, 주 2-3회)이 있었다. 2주 전부터 등으로 뻗치는 통증이 동반되었다. 활력징후는 혈압 120/80 mmHg, 맥박수 85회/분, 호흡수 18회/분, 체온 36.2°C였다. 복부 진찰에서 장음은 정상이며 상복부 압통은 있으나 반동압통은 없었다. 혈액검사 결과는 다음과 같다. 복부 전산화단층촬영(사진 1)에서 췌장 종괴가 의심되는 소견이 관찰되었다. 병기 결정(staging)을 위해 다음으로 가장 적절한 검사는 무엇인가? (총시)\n\n- 혈색소 13.0 g\n- dL\n- 백혈구 5,500\n- mm3\n- 혈소판 184,000\n- mm3\n- 공복혈당 112 mg\n- dL\n- 혈액요소질소 21.3 mg\n- dL\n- 크레아티닌 1.1 mg\n- dL\n- 총빌리루빈 1.3 mg\n- dL\n- 직접빌리루빈 0.7 mg\n- dL\n- 아스파트산아미노기전달효소 25 U\n- L\n- 알라닌아미노기전달효소 23 U\n- L 알칼리성인산염분해효소 211 U\n- L 녹말분해효소 45 U\n- L\n- 지방분해효소 57 U\n- L\n- 암태아항원 5.4 ng\n- mL (참고치 <5) CA 19-9 354.8 U\n- mL (참고치 <37)",
+    "options": [
+      "뼈스캔",
+      "복부 초음파",
+      "복부 자기공명영상",
+      "흉부 전산화단층촬영",
+      "내시경역행담췌관조영술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "췌장암 staging의 핵심은 원격전이 여부를 확인하는 것으로 폐 전이를 확인하기 위하여 흉부 전산화단층촬영이 필수적이다. 췌장암 진단/내과적 치료 수업 내용인 것 같지만 혹시 몰라 넣었습니다.",
+    "images": [
+      "images/thu0917_2/image3.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_04",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2019 (19학번 총시)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 17,
+    "question": "유문보존췌십이지장절제술(pylorus preserving pancreaticoduodenectomy) 수술 이후 12일째 된 환자가 지속적인 구토증상이 있다. 췌장액 누출 등 다른 합병증은 보이지 않았고 심지어 상복부 위장관조영술 결과 기계적인 장폐색도 보이지 않았으나 비위관으로 하루 600ml의 위장액이 배출되었다. 올바른 조치는? (19학번 총시 짤)",
+    "options": [
+      "비위관 유지 및 보존적 처치",
+      "유문 성형술 (pyloroplasty)",
+      "브라운 문합술 (Braun anastomosis)",
+      "루와이 위공장문합술 (Roux-en-Y gastrojejunostomy)",
+      "유문 절제술 및 위공장문합술 (pylorus resection and gastrojejunostomy)"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PPPD 후 위배출지연은 비위관 유지 및 보존적 처지합니다. 올해 언급은 없으셨으나 꾸준히 강조하셨던 것 같습니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_05",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 5,
+    "question": "- 27. 67세 남자가 2개월간의 7kg 체중 감소와 복통으로 병원에 왔다. 혈액 CA19-9는 280U\n- ml(참고치, 0-37)이었고 시행한 복부 CT 사진이다. 치료는? (13학번)",
+    "options": [
+      "전췌장 절제술 (total pancreatectomy)",
+      "원위부 췌장 절제술 (distal pancreatectomy)",
+      "췌십이지장 절제술 (pancreaticodudodenectomy)",
+      "고식적 담도장문합술 (palliative choledochojejunostomy)",
+      "십이지장 보존 췌장 절제술 (duodenal preserving pancreatectomy)"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "단기간 동아의 체중 감소, 복통, 복부 CT소견으로 췌장두부암을 진단할 수 있다. 췌장 두부암의 일차적 치료로 췌십이지장 절제술(pancreaticoduodenectomy)을 시행해야 한다.",
+    "images": [
+      "images/thu0917_2/image4.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_06",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 58,
+    "question": "42세 여자가 건강검진을 통해 발견한 종양의 모습이다. 내시경초음파를 이용해 흡입한 결과 점액성 물질이 배출되었다. 적절한 조치는?",
+    "options": [
+      "6개월 후 CT 재촬영",
+      "내시경 초음파를 통한 흡입술",
+      "이자샘창자절제술 (pancreaticoduodenectomy)",
+      "췌장 쐐기 절제술 (pancreas wedge resection)",
+      "췌장 중앙구역 절제술 (central pancreatectomy)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "췌장에 발생하는 종양 중에 premalignant lesion에 해당하는 점액성 낭종은 수술적 절제가 필요하다. 췌장 쪽 부근에 국한되어 있는 종양이므로 췌장기능을 가능한 한 보존하기 위해 췌장 중앙구역 절제술이 적절하다.",
+    "images": [
+      "images/thu0917_2/image5.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_07",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "체중감소와 복통으로 내원 복부 CT 소견은 다음과 같다. Common hepatic a. 절제를 포함한 수술을 시행하려고 한다. 수술 시 반드시 확인하고 결찰해야 할 혈관은?",
+    "options": [
+      "지라동맥",
+      "좌위동맥",
+      "우위동맥",
+      "위샘창자동맥",
+      "위창자간막동맥"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "췌장암으로 인하여 Common hepatic a. 를 절제해야 하는 경우, 간의 혈류공급이 문제가 될 수 있다. 이때 대신하여 혈류공급을 하게 되는 혈관은 GDA이다. 올해 강조하신 내용입니다. GDA가 patency해야 DP-CAR이 가능합니다.",
+    "images": [
+      "images/thu0917_2/image6.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_08",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 45,
+    "question": "63세 여자가 2주 동안의 상복부 통증과 2kg의 체중감소가 있어 병원에 왔다. 특히 과거력은 없었으며 활력징후는 정상이었다. 혈액검사 결과는 다음과 같다.\n\n- 백혈구 5,441\n- mm3\n- AST\n- ALT 142/311\n- TB 2.62 mg\n- dL ALP 271 U\n- L\n- GGT 470 U\n- L\n- amylase 144 U\n- L\n- lipase 200 IU\n- L CA 19-9: 28.12 U\n- mL",
+    "options": [
+      "담낭암",
+      "췌장암",
+      "간문부암",
+      "온쓸개관암",
+      "바터 팽대부 암"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "복통 + 체중감소, 흐릿하지만 CT 소견을 보고 췌장암을 진단 가능한가봅니다. CA19-9나 LAB수치들 가지고 췌장암 진단에 대해서는 그렇게 자세히 다루지 않으셨지만 같은 교수님 문제로 분류되어있습니다.",
+    "images": [
+      "images/thu0917_2/image7.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_09",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 5,
+    "question": "60세 남자가 췌장암 때문에 PPPD를 시행했다. 수술은 잘 되었으나, 수술 후 14일 째에도 위 배출 지연이 일어남을 확인했다. 상부 위장관 조영술상 기계적 상부 위장관 폐쇄는 없었다. 다음 중 적절한 조치는?",
+    "options": [
+      "관찰하고 기다린다.",
+      "기계적으로 넓혀준다.",
+      "스텐트를 삽입한다.",
+      "Braun anastomosis를 시행한다.",
+      "십이지장 공장 문합술을 위 공장 문합술로 바꾼다."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "유문보존십이지장절제술 후 발생한 위배출지연 (delayed gastric emptying)은 GI tract에 물리적인 폐쇄없이 위장관 기능 저하로 오는 (...복구 실패...) 위를 감압시킨 후 기다려 보면 거의 대부분 위장관 기능이 돌아오면 증상이 호전되게 된다. 20학번 총시와 유사한 문제입니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_10",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 129,
+    "question": "췌두부암으로 이차샘창자 절제술 (Pancreaticoduodenectomy) 시행 받은 후 외래에서 추적검사를 시행하고 있는 환자가 치료 후 예후를 평가하는데 많이 사용되고 있는 종양 표지자는? (15, 14, 13학번 짤)",
+    "options": [
+      "CEA",
+      "AFP",
+      "CA125",
+      "CA19-9",
+      "PIVKA-II"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "췌장암 종양표지자로 치료 후 반응 및 예후를 나타내는 지표로 인정되어 현재 가장 많이 사용되고 있는 것은 CA19-9이다. 올해 나오진 않을 것 같습니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_11",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 37,
+    "question": "63세 남자 환자가 3개월 동안 6kg의 체중감소와 복통으로 내원하였다. 복부 CT소견은 다음과 같다. 위험인자는? (16, 15, 14, 13학번 짤변)",
+    "options": [
+      "담석",
+      "흡연",
+      "담관염",
+      "기생충 감염",
+      "방사선 노출"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "단기간 동안의 체중감소, 복통, 복부 CT소견으로 췌장암을 진단할 수 있다. 췌장암의 위험인자에는 흡연, 고열량 식이, 만성 췌장염, 당뇨병, 과음, 유전적 요소 등이 있습니다. 작년 문제와 매우 유사한 문제입니다! 답 선지만 다르고 타 선지 유사합니다. 14학번 CT소견입니다.",
+    "images": [
+      "images/thu0917_2/image8.png",
+      "images/thu0917_2/image9.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_12",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 42,
+    "question": "60세 남자환자가 건강검진에서 시행한 CT 영상사진이다. 환자가 특별히 호소하는 증상은 없었다. 가장 가능성이 높은 진단명은?",
+    "options": [
+      "급성췌장염",
+      "점액낭샘종",
+      "췌관결석증",
+      "췌장암",
+      "췌장내 유두상점액종양"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "영상만으로 진단하는 문제 같습니다. 흐릿해서 잘 모르겠네요",
+    "images": [
+      "images/thu0917_2/image10.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_13",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 169,
+    "question": "이자샘창자 절제술을 시행할 때 결찰 및 절단되는 혈관은? (14, 13학번 짤)",
+    "options": [
+      "splenic a.",
+      "lt. gastric a.",
+      "common hepatic a.",
+      "gastroduodenal a.",
+      "SMA"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "절제혈관 → rt. gastric a., rt. gastroepiploic a., gastroduodenal a., pancreaticoduodenal a., cystic a. 강의자료 45p 빨간글씨입니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_14",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 3,
+    "question": "63세 남자 환자가 3개월 동안 6kg의 체중감소와 복통으로 내원하였다. 복부 CT 소견은 다음과 같다. 위험인자는? (17, 15, 13 학번 짤변)",
+    "options": [
+      "음주",
+      "담석",
+      "흡연",
+      "기생충 감염",
+      "방사선 노출"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "한 번 더 넣었습니다.",
+    "images": [
+      "images/thu0917_2/image8.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_15",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 4,
+    "question": "66세 남자 환자가 얼굴이 노래져서 왔다. 6개월 동안 체중이 8kg 감소되었다. 복부 컴퓨터 단층촬영 사진 (사진1)은 아래와 같으며 오른쪽 갈비뼈 및 우상복부에서 말랑말랑한 아이 주먹 크기의 덩이가 만져졌다. 만져지는 장기는?",
+    "options": [
+      "지라",
+      "콩팥",
+      "쓸개 (gallbladder)",
+      "샘창자 (duodenum)",
+      "이자머리 (pancreas head)"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "팽대부 주위 종양(periampullary tumor)으로 Courvoisier's sign(painless jaundice + palpable gallbladder)을 보이는 환자다 무통성 황달 + 만져지는 담낭 > periampullary malignancy (김기환 교수님 [증례]췌장종양)",
+    "images": [
+      "images/thu0917_2/image11.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_16",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "67세 남자가 1개월 전부터 복부 불편감이 있어서 왔다. 20년 전부터 당뇨병을 앓고 있었으며 최근 혈당조절이 잘 되지 않았다고 하였다. 6개월 사이에 8kg 정도의 체중감소가 있었다. 복부 컴퓨터 단층촬영(사진 1)과 혈액검사 결과는 다음과 같다. 치료는?\n\n- 혈색소 12.5g\n- dL\n- 백혈구 8,000\n- mm3\n- 혈소판 225,000\n- mm3 총 빌리루빈 1.2mg\n- dL 직접 빌리루빈 0.4mg\n- dL\n- 알부민 3.9g\n- dL CA 19-9: 800U\n- mL (참고치<37)",
+    "options": [
+      "경구혈당강하제",
+      "3개월 후 추적 검사",
+      "이자괴사조직제거술",
+      "먼쪽이자절제술 (distal pancreatectomy)",
+      "이자샘창자절제술 (pancreaticoduodenectomy)"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "원위췌장절제술: 종양이 췌장 몸통, 꼬리에 있을 때 시행",
+    "images": [
+      "images/thu0917_2/image12.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_17",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 44,
+    "question": "63세 남자 환자가 3개월 동안 6kg의 체중감소와 복통으로 내원하였다. 복부 CT 소견은 다음과 같다. 치료는?",
+    "options": [
+      "면역 치료",
+      "방사선 치료",
+      "항암 주사 치료 (5-FU)",
+      "원위부 췌장절제술 (distal pancreatectomy)",
+      "췌십이지장 절제술 (pancreaticoduodectomy)"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "단기간 동안의 체중감소, 복통, 복부 CT 소견으로 췌장암을 진단할 수 있다. 췌장두부암의 기본적인 치료는 pancreaticoduodenectomy이다. CT를 보고 췌장의 head쪽 병변임을 확인해야 합니다. 61-62. 다음 중에서 가능성이 가장 큰 질환명을 문제마다 지시하는 수만큼 답가지 (1-8) 중에서 고르시오. 간 농양 (liver abcess) 담낭 담석 (gallstones) 독성 간염 (toxic hepatitis) 담도 결석 (choledocholithiasis) 담낭암 (gallbladder cancer) 췌두부암 (pancreas head cancer) 원위부 담도암 (distal CBD cancer) 바터팽대부암 (ampulla of Vater cancer) 간문부 담도암 (hilar cholangiocarcinoma)",
+    "images": [
+      "images/thu0917_2/image13.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_18",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 61,
+    "question": "60세 남자가 약 10일 전부터 짙은 갈색 소변이 나오면서 황달이 생겼다. 그동안 복통이나 발열은 없었으며 식욕부진 및 소화불량이 있었다. 체중은 3개월 동안 6kg 감소했다고 한다. 우측 늑골연 밑에 압통 없는 주먹크기의 말랑말랑한 덩어리가 만져졌다. 이때에 가장 가능성이 있는 진단은? (3가지)",
+    "options": [
+      "간농양 (liver abscess)",
+      "담낭 결석 (gallstones)",
+      "독성 간염 (toxic hepatitis)",
+      "담도 결석 (choledocholithiasis)",
+      "담낭암 (gallbladder cancer)",
+      "췌장두부암 (pancreas head cancer)",
+      "원위부 담도암 (distal CBD cancer)",
+      "바터팽대부암 (ampulla of Vater cancer)",
+      "간문부 담도암 (hilar cholangiocarcinoma)"
+    ],
+    "answer": [
+      6,
+      7,
+      8
+    ],
+    "explanation": "painless jaundice와 palpable mass(distended gallbladder)를 특징으로 하는데, 종양이 서서히 자라면서 심한 황달을 동반하는 팽대부주위암을 시사한다. (Courvoisier's sign)",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_19",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 62,
+    "question": "췌십이지장절제술(pancreaticoduodenectomy)의 적응이 되는 질환은? (3가지)",
+    "options": [
+      "간농양 (liver abscess)",
+      "담낭 결석 (gallstones)",
+      "독성 간염 (toxic hepatitis)",
+      "담도 결석 (choledocholithiasis)",
+      "담낭암 (gallbladder cancer)",
+      "췌장두부암 (pancreas head cancer)",
+      "원위부 담도암 (distal CBD cancer)",
+      "바터팽대부암 (ampulla of Vater cancer)",
+      "간문부 담도암 (hilar cholangiocarcinoma)"
+    ],
+    "answer": [
+      6,
+      7,
+      8
+    ],
+    "explanation": "팽대부 주위암의 기본적인 치료는 (절제가 가능한 단계라면) 췌십이지장 절제술(pancreaticoduodenectomy) 이다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_20",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 46,
+    "question": "60세 남자가 10일 전부터 짙은 갈색 소변이 나오면서 결막이 노랗게 바뀌었다. 복통이나 발열은 없었으며 중등도의 식욕부진과 소화불량이 있었다. 신체검진에서 우측 늑골연을 따라 간이 1횡지 정도 만져지고 그 밑에 연하여 압통없는 주먹크기의 낭성 종물이 만져졌다. 가능성이 높은 진단은?",
+    "options": [
+      "담관 낭종",
+      "췌장두부암",
+      "원위부 담도결석",
+      "간내 담도 결석",
+      "간문부 담관암"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Couverner's sign에 해당된다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_21",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 77,
+    "question": "췌장원위부 악성종양 치료를 위한 원위부췌절제술 (distal pancreatectomy)를 시행할 때 결찰 및 절단되는 혈관은? (2가지)",
+    "options": [
+      "비동맥 (splenic artery)",
+      "담낭동맥 (cystic artery)",
+      "좌위동맥 (left gastric artery)",
+      "간동맥 (common hepatic artery)",
+      "짧은위동맥 (short gastric artery)",
+      "위십이지장동맥 (gastroduodenal artery)",
+      "상장간막동맥 (superior mesenteric artery)",
+      "하췌십이지장동맥 (inferior pancreaticoduodenal artery)"
+    ],
+    "answer": [
+      1,
+      5
+    ],
+    "explanation": "원위부췌절제술 (distal pancreatectomy)를 시행할 때 절단해야 하는 주요 동맥으로는 splenic artery, splenic vein, short gastric vessels, left gastroepiploic vessels가 있다. Cf)양성 또는 경계성 종양은 spleen을 보존하기 위해서 splenic vessel만 절제하고 short gastric과 lt. gastroepiploic a.는 보존한다. : 올해 강조내용입니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_22",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 78,
+    "question": "이자샘창자 절제술 (pancreaticoduodenectomy)을 시행할 때 결찰 및 절단되는 혈관은? (3가지)(짤변)",
+    "options": [
+      "비동맥 (splenic artery)",
+      "담낭동맥 (cystic artery)",
+      "좌위동맥 (left gastric artery)",
+      "간동맥 (common hepatic artery)",
+      "짧은위동맥 (short gastric artery)",
+      "위십이지장동맥 (gastroduodenal artery)",
+      "상장간막동맥 (superior mesenteric artery)",
+      "하췌십이지장동맥 (inferior pancreaticoduodenal artery)"
+    ],
+    "answer": [
+      2,
+      6,
+      8
+    ],
+    "explanation": "이자샘창자 절제술을 시행할 때 절단해야하는 주요동맥으로는 right gastroepiploic a., right gastric a., gastroduodenal a., cystic a., pancreaticoduodenal a.가 있다. PPT 45p",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_23",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 75,
+    "question": "63세 남자 환자가 3개월 동안 6kg의 체중감소와 복통으로 내원하였다. 복부 CT소견 (사진2)은 다음과 같다. 치료는?",
+    "options": [
+      "면역 치료",
+      "방사선 치료",
+      "항암 주사 치료 (5-FU)",
+      "원위부 췌장절제술 (distal pancreatecomy)",
+      "췌십이지장 절제술 (pancreaticoduodenectomy)"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "공식 해설: 단기간 동안의 체중감소, 복통, 복부 CT 소견으로 췌장암 진단. 원위부 췌장암의 기본적인 치료는 distal pancreatectomy이다. CT로 distal인지 판별하는 문제입니다.",
+    "images": [
+      "images/thu0917_2/image14.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_24",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 5,
+    "question": "65세 남자가 수 일 전부터 발생한 황달을 주소로 외래에서 시행한 복부 전산화 단층촬영에서 췌장의 머리 부분에 크기가 2.0 x 4.0 cm 인 종괴가 발견되어 수술을 시행하였고 수술 중 간협부의 담관이행부를 포함한 간담관에서의 암침범여부를 알기 위한 동결조직검사에서 왼쪽 간내 담관에만 암침범의 소견이 있었다. 근치적 수술은?",
+    "options": [
+      "좌측간절제술",
+      "췌장전절제술",
+      "췌장아전절제술",
+      "췌장전절제술과 좌측간절제술",
+      "췌십이지장절제술과 좌측간절제술"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "췌장두부암으로 수술은 췌십이지장절제술 (Pancreaticoduodenectomy) 수술 중 담관침범중 좌측간담관만 침범된 경우로 근치적 수술로 좌측간절제술을 포함한 췌십이지장절제술을 시행한다. 반복",
+    "images": [
+      "images/thu0917_2/image15.png"
+    ]
+  },
+  {
+    "id": "0917_thu2_25",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "56세 남자가 3일 전부터 발생한 황달로 병원에 왔다. 시행한 복부전산화단층촬영에서 총담관이 확장된 소견으로 보였으며, 췌장의 머리 부분에 2.5cm 정도 크기의 종괴가 발견되었고, 종괴는 주변 조직을 침범하지 않은 소견을 보였다. 그리고 간동맥 주변에서 1.0cm 정도 크기의 임파선 종대가 3개 관찰되었다. 환자는 악성 종양이 의심되어 PET-CT를 시행하였으며 원격전이는 없었다. 이 환자의 수술 전 병기는?",
+    "options": [
+      "T1N1M0, stage IIA",
+      "T2N2M0, stage IIA",
+      "T2N1M0, stage IIB",
+      "T3N0M0, stage IIB",
+      "T3N1M0, stage IIB"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "환자는 췌장의 악성 종양이 의심되는 소견을 보이고 있다. 췌장 머리 부분의 종괴 크기가 2.0cm 이상이고 주변조직으로의 침범이 관찰되지 않는 상황으로 T2, 그리고 간동맥 주변의 임파선이 커져 있으므로 현재 림프절 전이가 있을 것으로 생각되어 N1, 그리고 PET-CT에서 원격전이는 관찰되지 않았으므로 M0으로 볼 수 있어 Stage IIB에 해당한다. (안배움)",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_26",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "다음 중 췌장암의 위험인자를 고르시오.(짤변)",
+    "options": [
+      "커피",
+      "담석",
+      "염분",
+      "아스피린",
+      "만성췌장염"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "췌장암의 위험인자는 흡연, 만성췌장염, 당뇨, 비만 등이 있다. 유사한 유형의 문제입니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_27",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 3,
+    "question": "췌장암의 유전자 변이 중 가장 흔하고 초기단계에 관여하는 것은? (11, 10학번 짤)",
+    "options": [
+      "p16",
+      "p53",
+      "DPC",
+      "KRAS",
+      "BRCA2"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "K-ras oncogene activation이 95%에서 보이며 초기 단계에 관여. DPC는 late 단계에서 발현되고 변이 빈도는 20-30%이다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_28",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 4,
+    "question": "59세 남자가 소양증을 주소로 입원하였다. 복통은 없었고 우상복부에서 담낭이 만져졌다. 혈액검사결과는 다음과 같다.\n\n- AST\n- ALT 60/75 IU\n- L\n- 총단백 7.0g\n- dL\n- 알부민 4.0g\n- dL\n- ALP 420 IU\n- L\n- r-GTP 300 IU\n- L\n- TB\n- DB 18/10mg\n- dL\n가장 가능성이 높은 진단은?",
+    "options": [
+      "담낭암",
+      "급성담낭염",
+      "Klatskin 종양",
+      "근위부 담관암",
+      "췌장 두부의 선암"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "통증 없는 담낭의 확장 + 황달 종양에 의한 CBD obstruction Courvoisier's law(or sign; \"무통성 담낭확장 담관암\"): 신체검사에서 압통이 없이 촉지되는 담낭의 확장은 결석보다 담관암을 시사한다, Middle low CBD cancer에서 특징적이고 췌장 두부암에서도 나타날 수 있다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_29",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 29,
+    "question": "- 5. 52세 남자가 최근 황달과 체중감소가 나타났다. 신체 검진 상간 비대가 있었고\n- 공막의 황달소견이 관찰되었다. TB\n- DB 9.5/6.0mg\n- dL이었고\n- 소변에서 urobilinogen은 나오지 않았다. 가장 가능성 있는 질환은?",
+    "options": [
+      "간경변증",
+      "췌장두부암",
+      "전격성 간염",
+      "길버트신드롬",
+      "두빈-존슨신드롬"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Serum direct bilirubin이 증가되어 있고 urine urobilinogen은 정상이므로 간외담도폐색을 일으킬 수 있는 질환을 찾아야 한다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_30",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 6,
+    "question": "65세 남성이 6개월간 피로와 8kg의 체중감소가 있었다. 공막의 황달과 짙은 색의 소변이 있었다. 다음은 혈액 검사 소견이다.\n총빌리루빈 19mg/dL, 직접빌리루빈 14mg/dL, ALP 815mg/dL\nCT 소견상 췌두부에 3cm의 종괴가 보였다. 적합한 수술은 무엇인가?",
+    "options": [
+      "Antrectomy",
+      "CBD excision",
+      "Pancreas enucleation",
+      "Pancreatoduodenectomy",
+      "Extended cholecystectomy"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Pancreas head의 malignancy가 의심되는 종양의 수술은 Pancreaticoduodenectomy가 원칙이다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_31",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "홍태호 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": true,
+    "qNumber": 7,
+    "question": "72세 남자가 2주 간의 명치 부위 통증이 있었다. 2달간 5kg의 몸무게가 줄었으며 최근 발생한 당뇨로 경구 혈당강하제를 복용 중이다. 윗배에 압통은 있으나 종괴는 만져지지 않았다. 복부 초음파에서 췌장의 머리부위에 2.5cm 정도의 저에코의 종괴가 발견되었다. 이 환자의 검사결과는 다음과 같다. 다음으로 실시할 검사는?\n\n- Hb: 10.5g\n- dL\n- AST: 25 IU\n- L\n- ALT: 80 IU\n- L\n- amylase 60 unit CA19-9: 167 U\n- mL (정상<27 U\n- mL) CEA: 5 mg\n- mL (정상 <8 mg\n- mL)",
+    "options": [
+      "ERCP",
+      "DISDA scan",
+      "복부전산화촬영",
+      "복부 X-선 촬영",
+      "경피생검(percutaneous biopsy)"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "3: 복부전산화촬영 → resectability 확인 가능. 특이도가 95% 이상인데 비교적 검사 비용이 저렴하다. 4: 폐쇄성 황달이 있을 때 사용한다. 5: 수술적 절제가 불가능할 경우 항암화학요법을 사용하기 위해 생검을 실시한다. 가장 일반적인 췌장암 검사법 → CT",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_32",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 5,
+    "question": "췌장 두부에 발생한 췌장암 수술은 췌십이지장 절제술(위플씨 수술)을 시행한다. 이에 대한 아래 설명 중 맞는 것을 골라라. (10학번 짤)",
+    "options": [
+      "담낭은 절제하지 않는다.",
+      "부분 위절제를 하지 않는다.",
+      "비장 절제를 동반한다.",
+      "십이지장은 전부 절제한다.",
+      "췌장은 전절제한다."
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "위플씨 수술에서 잘리는 해부학적 구조물은 중요하다. GB, CBD 아랫부분, stomach의 절반, 췌장의 두부, duodenum 전체, jejunum 일부 + gastroduodenal a. 십이지장, 담낭은 전절제, 위와 췌장은 부분절제하며 비장절제는 시행하지 않는다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_33",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 34,
+    "question": "다음 중 췌장의 내분비조직에서 발생하는 양성 및 저악성도 종양으로 옳은 것은?",
+    "options": [
+      "Mucinous tumor",
+      "Intraductal papillary mucinous tumor",
+      "insulinoma",
+      "serous cystic neoplasm",
+      "solid-pseudo papillary tumor"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Insulinoma만 내분비 종양이고 나머지는 외분비 종양입니다. 췌장의 낭성종양: 장액낭종 (serous cyst adenoma) 점액낭종 (mucinous cyst adenoma) 고형가유두상종양 (solid pseudopapillary neoplasm) 췌관내유두상점액종 (intraductal papillary mucinous neoplasm, IPMN) 췌장의 내분비 종양: 인슐린종 가스트린종",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_34",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 5,
+    "question": "췌장암을 진단하는 데 있어 가장 유용한 영상학적 검사는?",
+    "options": [
+      "초음파 검사(US)",
+      "전산화단층촬영(CT)",
+      "자기공명영상(MRI)",
+      "양전자 방출 단층촬영(PET-CT)",
+      "내시경적 역행성 담췌관조영술(ERCP)"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "CT",
+    "images": []
+  },
+  {
+    "id": "0917_thu2_35",
+    "subject": "목2_0917_췌장암수술",
+    "subjectName": "[09/17 목2] 췌장암과 췌장수술 (홍태호)",
+    "day": "목",
+    "period": 2,
+    "year": "209 (9학번)",
+    "yearNum": 9,
+    "isRecent14Plus": false,
+    "professor": "이성 교수님",
+    "thisYearProfessor": "홍태호 교수님",
+    "isSameProfessor": false,
+    "qNumber": 74,
+    "question": "췌장암으로 유문부 보존 췌십이지장 절제술 후 14일째에도 위 배출 지연이 있어 시행한 상부위장관 조영술상 기계적 상부위장관 폐쇄는 없었다. 가스배출은 있으나 비위관으로 하루 800ml 이상의 위액이 배출되고 있다. 가장 적절한 조치는?",
+    "options": [
+      "관찰하고 기다린다.",
+      "십이지장공장문합술을 Roux-en-Y로 전환한다.",
+      "위공장 문합술을 시행한다.",
+      "Braun anastomosis를 시행한다.",
+      "Whipple 술식으로 전환한다."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PPPD 후 delayed gastric emptying입니다. 비위관 꽂고 기다립니다. 09학번인데 최근 강조점이랑 유사하네요",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_01",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 83,
+    "question": "간경화를 앓고 있던 62세 여성이 쓸개덩이로 내원하였다. 당뇨병과 고혈압을 앓고 있었고 소화불량과 간헐적인 우상복부 불편감, 오심 및 구토가 있었다. 검사실 검사소견은 아래와 같고 복부초음파 및 복부 CT 촬영 사진이다. 적절한 치료는? (21)\n혈색소 13.2 g/dL, 백혈구 7,200/mm3, 혈소판 139,000/mm3, 알부민 4.5 g/dL, 총빌리루빈 0.4 mg/dL,",
+    "options": [
+      "피부간경유쓸개배액술",
+      "면역치료",
+      "복강경쓸개절제술",
+      "확대쓸개절제술",
+      "고주파절제술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "CT 사진을 볼 때 담낭암이 간 실질을 침범한 모습이 보입니다. 이는 T1b 이상이므로 확대쓸개절제술을 해야합니다. 그냥 담낭암 나오면 병기 판단까지는 저희가 배운 내용으로 어려우니 확대쓸개절재술 하면 될 것 같습니다. 원으로 표시한 부분이 담낭암이며, 위쪽 오른쪽 사진에서 보이는 담낭벽의 비대칭적인 비후는 담낭암의 특징이라고 합니다. (안배웠습니다.) 쓸개덩이라고 분명하게 담낭 파트 문제임을 본 후 선지를 보고 암인지 용종인지 판단 하는 것이 가장 쉬울 것 같습니다.",
+    "images": [
+      "images/thu0917_3/image2.png",
+      "images/thu0917_3/image1.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_02",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 84,
+    "question": "간헐적인 소화불량을 호소하며 내원한 56세 여성의 복부초음파와 조영증강 복부 CT 검사 소견이다. 검사실 검사소견 및 종양표지자 결과는 모두 정상범위안에 있었다. 적절한 치료는? (21, 20, 19)",
+    "options": [
+      "경피적 담낭용종 조직검사",
+      "담낭절제술",
+      "3-6개월마다 복부초음파로 경과 관찰",
+      "고주파절제술",
+      "대증치료 (이담제, 소화제, 진통제, 식이요법 등)"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "영상검사에서 담낭용종 크기가 10mm 이상이므로 담낭절제술을 시행해야 한다. 크기는 모르겠으나 저희가 배운 담낭 용종 치료는 절제술이 유일하죠. 절제술 고릅시다. 초음파에서는 정확히 확인이 안 되지만, 오른쪽 CT 사진에는 담낭용종이 확인됩니다. 벽의 비대칭적인 비후가 보이지 않으니 담낭 용종입니다. (배우지 않음) 선지를 보고 판단해주시는게 좋을 듯 합니다.",
+    "images": [
+      "images/thu0917_3/image4.jpeg",
+      "images/thu0917_3/image3.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_03",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2019 (19학번)",
+    "yearNum": 19,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 1,
+    "question": "45세 남자가 상복부 통증으로 응급실에 내원하였다. 혈압 120/70 맥박80 호흡 16 체온 38 우상복부 압통이 있다.\n초음파 사진이다. 치료는? (19)",
+    "options": [
+      "항생제 투여 후 저지방식이하며 추적관찰",
+      "담석용해제",
+      "담낭절제술",
+      "ECRP",
+      "담낭창냄술"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "사진 상 용종이 안보이긴 합니다. 다만 선지만 봐도 담낭 용종이므로 절제술임을 유추할 수 있겠죠. 대충 용종 사진이 주어진 상태에서 상복부 통증이 있으니 담낭절제술 고르는 문제 같습니다.",
+    "images": [
+      "images/thu0917_3/image5.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_04",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 12,
+    "question": "62세 여자가 간헐적 상복부 통증과 소화불량으로 내원하였다. 초음파에서 8mm의 담낭 용종이 관찰되었다. 알맞은 치료는? (18)",
+    "options": [
+      "경과 관찰",
+      "소화제, 진통제를 통한 대증치료",
+      "담낭절제술",
+      "ERCP",
+      "PTBD"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "증상 있으니 절제합니다.",
+    "images": [
+      "images/thu0917_3/image6.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_05",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "담낭용종에서 담남암의 위험인자 가운데 옳은 것은? (18)",
+    "options": [
+      "유경성 용종",
+      "담석을 동반할 경우",
+      "다발성 병변",
+      "40대",
+      "크기 <10mm"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "틀리시면 안 됩니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_06",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 25,
+    "question": "담낭암의 위험인자 중 옳은 것은? (18)",
+    "options": [
+      "7mm 담낭용종",
+      "콜레스테롤 용종",
+      "황색 육아종당남염",
+      "담낭 선근종증",
+      "췌담관합류이상"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "APBJ죠. 틀리시면 안 됩니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_07",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 33,
+    "question": "다음 담낭의 병변 중 전암 병변인 것은? (18, 17, 16, 15)",
+    "options": [
+      "담낭염증성 용종",
+      "담낭 선근종증",
+      "담낭 혈관종",
+      "황색 육아종 담낭염",
+      "담낭선종"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "담낭 선종이 유일한 전암병변이였죠.",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_08",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 46,
+    "question": "75세 남자 환자가 복부 초음파 검사에서 지난 6개월간 크기가 증가하는 담낭의 이상소견을 주소로 내원하였다. 환자의 담낭 내시경 초음파 소견은 다음과 같다. 다음 중 악성의 가능성을 시사하는 소견을 모두 고르시오. (세가지) (17)",
+    "options": [
+      "남성",
+      "무증상",
+      "60세 이상에서 발견",
+      "다발성 병변",
+      "고에코 (hyperechoic) 병변",
+      "유경성 (pedunculated) 병변",
+      "용종이 10mm보다 큰 경우",
+      "6개월에 3mm이상 크기 증가"
+    ],
+    "answer": [
+      3,
+      7,
+      8
+    ],
+    "explanation": "틀리시면 안 됩니다. 앞으로 관련 문제 해설 생략하겠습니다.",
+    "images": [
+      "images/thu0917_3/image7.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_09",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2017 (17학번)",
+    "yearNum": 17,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 104,
+    "question": "다음 중 담낭절제술의 적응증이 아닌 것은? (17)",
+    "options": [
+      "증상이 있는 담낭 절제술",
+      "도재 담낭 (Porcelain GB)",
+      "직경 1.5cm의 담낭 용종",
+      "증상이 없는 직경 8cm의 담낭결석",
+      "증상이 없는 65세 남성의 담석증"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "단순 고령은 수술하지 않습니다. 위험인자일 뿐이죠.",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_10",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "평소 건강히 지내던 62세 남자가 건강진단에서 복부 초음파상 12mm 담낭용종이 발견되어 CT를 시행하였다.\n적합한 치료를 고르시오. (16, 15)",
+    "options": [
+      "경과 관찰",
+      "피부간경유 용종생검술",
+      "동시 항암방사선치료",
+      "내시경역행성췌담관조영술을 이용한 용종제거",
+      "담낭절제술"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "10mm 넘으니 절제합니다.",
+    "images": [
+      "images/thu0917_3/image8.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_11",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2014 (14학번)",
+    "yearNum": 14,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 14,
+    "question": "담낭암의 알려진 위험인자 중 옳은 것은? [14]",
+    "options": [
+      "황색육아종담낭염",
+      "담낭선근종증",
+      "총담관낭",
+      "10mm 미만의 담낭 용종",
+      "담낭콜레스테롤용종"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_12",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 70,
+    "question": "65세 여자가 수개월 전부터 간헐적 소화불량으로 인근 병원을 방문하여 복부초음파를 시행하여 담낭용종이 있다고 하여 CT 촬영을 하니 아래와 같은 소견을 보였다. 검사실 검사 소견상 특이소견은 없었고 위내시경에서는 만성\n위축성 위염 소견 외에는 별다른 이상 없었다. 이 환자에서 적절한 치료방법을 고르시오. (13)",
+    "options": [
+      "경과관찰",
+      "담낭절제술",
+      "체외충격파쇄석술",
+      "내시경역행성 췌담관조영술을 이용한 용종제거",
+      "경피적 용종 생검술"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "10mm 이상 + 노령이니 절제한다. 가 공식 해설입니다. 크기는 모르지만 저희가 배운 담낭 용종 치료는 절제술이 유일합니다. 절제합시다",
+    "images": [
+      "images/thu0917_3/image9.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_13",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 69,
+    "question": "다음 중 담낭절제술의 적응증에 해당하지 않는 것은? (13)",
+    "options": [
+      "석회화된 담낭",
+      "과거 담낭염의 합병증",
+      "무통증의 3cm 담석",
+      "통증이 심한 1cm 담석",
+      "3개 이상의 1cm 담석"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "배운 적응증이랑 조금 다르네요. 아무래도 13학번이니 가이드라인이 달라졌겠죠? 넘어갑시다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_14",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 14,
+    "question": "52세 여자가 6개월 전부터 간헐적 소화불량으로 복부 초음파를 시행하여 아래와 같은 담낭용종 소견을 발견하였으며 위내시경에는 만성 위축성 위염 소견 외에는 별다른 이상 없었다. 이 환자에서 가장 적절한 치료방법은? (12)",
+    "options": [
+      "경과 관찰",
+      "담낭절제술",
+      "체외충격파쇄석술",
+      "경피적 용종 생검술",
+      "내시경역행성 췌담관조영술을 이용한 용종제거"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "증상 있으니 절제술합니다.",
+    "images": [
+      "images/thu0917_3/image10.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_15",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 15,
+    "question": "담낭암의 위험인자는? (12)",
+    "options": [
+      "담낭선근종증",
+      "담관운동이상증",
+      "췌담관합류이상",
+      "황색육아종담낭염",
+      "10mm 미만의 담낭용종"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_16",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2012 (12학번)",
+    "yearNum": 12,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 16,
+    "question": "담낭용종이 발견되었을 경우 담낭절제술을 하지 않아도 되는 경우는? (12) – 이상 교수님",
+    "options": [
+      "담석을 동반한 담낭용종",
+      "10mm 미만의 무증상 담낭용종",
+      "담낭염 증상을 동반한 담낭선근종증",
+      "도자기모양담낭",
+      "크기가 증가하는 담낭용종"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_17",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2011 (11학번)",
+    "yearNum": 11,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 79,
+    "question": "26세 여자가 1년전부터 알고 있던 소화불량으로 병원 방문하여 복부 초음파를 했더니 그림과 같은 10mm이상의 병변이 발견되었고, 내시경검사에서는 만성 위축성 위염 소견 이외에는 특이 소견이 없었다. 이 환자에서 가장 적절한 치료방침은? (11)",
+    "options": [
+      "경피적 담낭 조루술",
+      "담낭절제술",
+      "체외중격파쇄석술",
+      "임상적 추적관찰",
+      "내시경 역핵성 췌담관조영술을 이용한 용종 제거"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "담석입니다. 담석 또한 절제술의 적응증이죠.",
+    "images": [
+      "images/thu0917_3/image11.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_18",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 67,
+    "question": "담낭에 용종이 있는 것을 알고 평소 별 증상 없이 건강하게 지내던 36세 남성이 복부 초음파를 시행하니 그림과 같이 9mm 크기의 용종이 발견되었다. 약 4년 전 건강검진에서 용종의 크기는 약 4mm인 것으로 알고 있었다. 이 환자에서 가장 적절한 치료방법은? (10)",
+    "options": [
+      "임상적 추적 관찰",
+      "경피적 담낭조루술",
+      "내시경역행췌담도조영술을 이용한 용종 제거",
+      "담낭절제술",
+      "체외충격파쇄석술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "용종이 커지면 절제술합니다. 사진은 안보이기도 하지만 문제 푸는데 아무 도움이 안 됩니다.",
+    "images": [
+      "images/thu0917_3/image12.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_19",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "학번미상",
+    "yearNum": 0,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 25,
+    "question": "다음 중 담낭암의 위험인자는?",
+    "options": [
+      "다발성 용종",
+      "크기가 10mm 이하일 때",
+      "도자기모양 담낭",
+      "유경성 용종(pedunculated polyp)",
+      "환자의 나이가 50세 이하일 경우"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_20",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "학번미상",
+    "yearNum": 0,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 68,
+    "question": "담낭용종성병변을 진단하는데 가장 기본적인 검사는?",
+    "options": [
+      "복부 X-선 촬영",
+      "복부초음파",
+      "내시경역행성췌담관조영술",
+      "복부컴퓨터단층촬영",
+      "복부자기공명영상"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_21",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2013 (13학번)",
+    "yearNum": 13,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 71,
+    "question": "복통으로 내원한 76세 여자에서 CT상 아래와 같은 소견으로 복강경 담낭절제술을 시행하였다. 조직검사결과 근육층 주위 결합조직을 보이는 담낭암으로 진단되었다. 향후 이 환자에서 필요한 치료는? (13)",
+    "options": [
+      "완치수술이 되었으므로 향후 경과관찰만 한다.",
+      "항암 화학요법만 시행한다",
+      "방사선요법만 시행한다.",
+      "재수술은 필요없고 동시 항암방사선요법을 시행한다.",
+      "재수술하여 확대담낭절제술을 시행한다."
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "근육충 주위 결합조직을 보이므로 T1b보다 더 진행한 담낭암입니다. 확대담낭절제술 RC 해주면 되겠죠.",
+    "images": [
+      "images/thu0917_3/image13.png"
+    ]
+  },
+  {
+    "id": "0917_thu3_22",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2011 (11학번)",
+    "yearNum": 11,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 42,
+    "question": "담낭의 선근종증과 관련하여 옳은 것은? (11)",
+    "options": [
+      "전암성 병변이므로 반드시 수술이 필요하다.",
+      "경피적 생검을 통해 악성 여부를 확인한다.",
+      "증상을 유발하거나 담석을 동반할 경우, 또는 담낭암의 가능성을 배제할 수 없을 때는 수술이 필요하다.",
+      "광범위 담낭 절제술을 시행하여야 한다.",
+      "Rokitansky-Aschoff sinus가 담낭 내강으로 이상 증식하여 생기는 유경성 병변이다."
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "선근종증은 양성 병변입니다. 경피적 생검은 하지 않고 악성이랑 구분 안될 경우 절제술 후 조직검사합니다. 정답입니다 양성 병변이라 수술도 안하는데 광범위 담낭 절제술을 할리가 없죠 선종증에 대한 설명입니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu3_23",
+    "subject": "목3_0917_담낭용종담낭암",
+    "subjectName": "[09/17 목3] 담낭용종과 담낭암 (이상권)",
+    "day": "목",
+    "period": 3,
+    "year": "2010 (10학번)",
+    "yearNum": 10,
+    "isRecent14Plus": false,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "이상권 교수님",
+    "isSameProfessor": true,
+    "qNumber": 42,
+    "question": "담낭의 선근종증(adenomyomatosis of gallbladder)과 관련해 옳은 것은? (10)",
+    "options": [
+      "담낭암의 위험인자이므로 반드시 수술이 필요하다.",
+      "Rokitansky-Aschoff sinus가 담낭 내강으로 이상 증식하여 생기는 유경성 병변이다.",
+      "유두상 선종(papillary adenoma)이 동반된다.",
+      "수술은 광범위 담낭절제술을 시행하여야 한다.",
+      "증상을 유발하거나 담석을 동반하거나 담낭암의 가능성을 배제할 수 없을 때는 수술이 필요하다."
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "3번은 안배웠는데 아니라고 하는군요. 나머지는 해설 생략하겠습니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu4_01",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2025 (25학번)",
+    "yearNum": 25,
+    "isRecent14Plus": true,
+    "professor": "타교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": false,
+    "qNumber": 1,
+    "question": "70세 남자가 복통으로 병원에 왔다. 통증은 수시간 지속되었으며 토했다고 한다. 술 또는 흡연의 기왕력은 없었다. 5년 전부터 담낭석을 복용하고 있다. 혈압 150/90 mmHg, 맥박수 110회/분, 호흡수 22회/분, 체온 39.2℃이다.\n\n- 혈색소 13.1 g\n- dL\n- 백혈구 15,500\n- mm³\n- 혈소판 425,000\n- mm³\n- 혈액요소질소 13.1 mg\n- dL\n- 크레아티닌 0.53 mg\n- dL\n- 총빌리루빈 0.7 mg\n- dL\n- 직접빌리루빈 0.4 mg\n- dL\n- 아스파트산아미노기전달효소 13 U\n- L 알라닌아미노기전달효소 13 U\n- L\n- 알칼리성인산염분해효소 79 U\n- L\n- 감마-글루타밀전달효소 29 U\n- L\n- 아밀라아제 99 U\n- L\n- 리파아제 131.7 U\n- L",
+    "options": [
+      "이자효소제",
+      "내시경초음파유도배액",
+      "췌장절제술",
+      "양성펌프억제제",
+      "스테로이드제"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "만성 췌장염 통증의 내시경적 치료는 괄약근 절개술, 췌관 스텐트 삽입술, 결석 제거술, 그리고 췌장 가성낭종 배액술을 포함할 수 있습니다 (해리슨 21판). 현재의 치료 패러다임은 단계적 접근법(step-up approach)입니다. 즉, 먼저 (경피적 또는 내시경을 통한) 위 또는 십이지장을 경유하는 배액술을 시행하고, 필요한 경우에만 다음 단계로 내시경적 또는 드물게 수술적 괴사조직 제거술을 시행하는 것입니다.",
+    "images": [
+      "images/thu0917_4/image1.png"
+    ]
+  },
+  {
+    "id": "0917_thu4_02",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2025 (25학번)",
+    "yearNum": 25,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 2,
+    "question": "55세 남자가 6주 전 급성 췌장염으로 치료 받고 퇴원한 뒤 복통으로 왔다. 상복부 통증과 반발통이 있고, 혈압은 98/78 mmHg, 맥박 115회/분, 호흡 24회/분, 체온은 38.9도였다. 혈액검사 결과 및 복부 단층촬영 사진이다. 치료는?\n\n- 혈색소 11.0 g\n- dL\n- 백혈구 13,800\n- mm3\n- 혈소판 141,000\n- mm3 아밀라아제 1235 U\n- L\n- 리파아제 634 U\n- L",
+    "options": [
+      "항생제투여",
+      "octreotide 투여",
+      "혈관조영술 및 색전술",
+      "괴사조직제거술",
+      "췌공장문합술"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "괴사성췌장염의 특징적인 혈액검사 및 영상검사 소견이며, 생체활력징후가 불안정해지는 등 infected necrosis 가능성이 의심되므로, 수술적 치료를 적극 고려하여야 한다. 6주 전 급성췌장염으로 치료받았고, 다시 복통이 생겼습니다. 체온 38.9, 맥박 115, 호흡 24, 혈압 98/78 이고 백혈구도 13,800으로 올라가 있습니다. 감염성 괴사를 의심할 수 있죠. 애플 2p에서 발열, 백혈구 증가만으로 감염성 괴사를 단정하지 않는다고 하셨는데, 초기에 sterile necrosis로 SIRS가 생기는 것과 달리, 수주 후 재발열·전신상태 악화가 오면 secondary infection을 더 의심할 수 있을 것 같습니다. 급성췌장염 후 4주 이상 지나면 괴사조직이 walled-off necrosis가 될 수 있습니다. 여기에 전신 감염 소견이 동반되면 단순 항생제 투여만으로 보기보다는 괴사조직에 대한 적극적인 source control이 필요합니다. 따라서 정답은 4) 괴사조직제거술입니다. 실제 치료는 항생제 + 내시경적 또는 경피적 배액을 먼저 하고 호전이 없으면 내시경적/최소침습적 necrosectomy로 진행하는 step-up approach를 사용한다고 합니다. 이 문제에서는 배액술 선택지가 없어서 괴사조직제거술을 골라야 할 것 같습니다. 5) 췌공장문합술 -> 만성 췌장염이 아니라 췌장 기능이 아직 살아 있는 급성 췌장염이므로 췌공장문합술을 할 필요는 없습니다. necrosis 자체도 급성 췌장염의 합병증입니다.",
+    "images": [
+      "images/thu0917_4/image2.png"
+    ]
+  },
+  {
+    "id": "0917_thu4_03",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2025 (25학번)",
+    "yearNum": 25,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 3,
+    "question": "42세 남자가 객혈 등으로 왔다. 10년간 매일 소주 1~2병을 마셨다고 하였으며, 만성췌장염으로 인한 복통도 호전이 없었다. 복부 컴퓨터 단층촬영 검사 다음이 같은 소견을 보여 수술적 치료를 시행하였다. 예측 가능한 합병증이 아닌 것은?",
+    "options": [
+      "감염",
+      "수술 부위 출혈",
+      "저혈당",
+      "지방변",
+      "지속적인 통증"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "췌도 확장을 동반한 만성 췌장염으로 췌장공장문합술을 시행하였으며, 만성췌장염으로 인한 내분비기능부전으로 고혈당이 발생할 수는 있으나 저혈당은 환자의 질환 및 수술과 관련이 없다. 이 파트 문제가 맞나 싶긴 한데 CT가 애플에 나온 거랑 같은 사진입니다. 상식적으로 답을 고르는 데는 문제 없으셨을 것 같습니다.",
+    "images": [
+      "images/thu0917_4/image3.png"
+    ]
+  },
+  {
+    "id": "0917_thu4_04",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2023 (23학번)",
+    "yearNum": 23,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 56,
+    "question": "45세 남자가 우상복부 통증으로 시행한 MRCP에서 담낭 결석 및 총담관 결석이 발견되어 담석 제거술을 받은 후 혈액검사 소견이다. 조치는?\n\n- 혈색소 13.5g\n- dL\n- 백혈구 10,800\n- mm3\n- 혈소판 150,000\n- mm3 AST\n- ALT 100 (0~32) / 68 (0~33) U\n- L\n- Total bilirubin 1.2 (0~1.2) mg\n- dL Amylase 350 U\n- L (28~100)",
+    "options": [
+      "항생제 치료 및 경과관찰",
+      "경피적 담낭배액술 (PTBD) 시행",
+      "담석용해제 투여",
+      "췌장염 증상 호전 후 담낭절제",
+      "퇴원 후에 추후 담낭염 발생시 담낭절제"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "복통+ Amylase ULN보다 3배 이상 증가해 있습니다. Acute pancreatitis죠. 담도결석에 의한 급성췌장염은 가능한 빨리 ERCP하고, 담도결석 제거한 뒤에, 췌장염이 개선된다면 담낭절제술 시행합니다. 19학번이랑 수치랑 워딩만 좀 다르네요.",
+    "images": []
+  },
+  {
+    "id": "0917_thu4_05",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2023 (23학번)",
+    "yearNum": 23,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 57,
+    "question": "56세 남자가 급성췌장염으로 입원 치료 후 호전되어 외래 추적 중 두달째에 고열과 복통이 발생하였다. 상복 부 주변으로 경계가 분명한 덩이가 만져지고 압통이 있었고 약간의 반동 압통도 있었다. 장음은 들리지 않았다. 혈압 100/70 mmHg, 맥박 110회/분, 호흡 23회/분, 체온 38.5도였다. 복부전산화 단층촬영사진과 혈액검사 소견이다. 이 환자에서 수일간 정맥 항생제 투여를 하였지만, 임상적으로 호전이 없다면, 가장 먼저 고려해야 할 치료는?\n\n- 혈색소 13.0 g\n- ml\n- 백혈구 18,400\n- mm\n- 혈소판?? 총 빌리루빈 1.5 mg\n- dL\n- 직접 빌리루빈 0.8 mg\n- dL 아스파르테이트아미노전달효소 60 U\n- L\n- 알라닌아미노전달효소 49 U\n- L 아밀라제 600 U\n- L\n- 리파아제 500 U\n- L",
+    "options": [
+      "내시경 팽대조임근절제술 및 췌관스텐트 삽입",
+      "먼쪽 이자절제술 (distal pancreatectomy)",
+      "개복 괴사조직제거술 (open necrosectomy)",
+      "내시경 경위 배액술 (endoscopic transgastric drainage)",
+      "내시경 경위 괴사조직제거술 (endoscopic transgastric necrosectomy)"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "급성췌장염의 국소합병증으로 췌장가성낭종 pseudocyst . 급성췌장염 발생후 2달만에 확인되었고 항생제 등 보존 치료에 반응이 없고 크기도 크고, 임상적으로 복통 고열 등의 증상이 지속되어 다음 치료로 배액술을 고려해야 하는 상황. 배액술은 경피적 또는 내시경적 방법이 있으나 환자의 CT 사진상 경피적으로 접근은 어렵고 위와 연접하여 내시경초음파를 이용한 내시경적 경위 배액술을 시행하여야 함",
+    "images": [
+      "images/thu0917_4/image4.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu4_06",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2022 (22학번)",
+    "yearNum": 22,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 62,
+    "question": "60세 여자가 내원 전일 밤부터 갑자기 발생한 상복부 통증으로 왔다. 환자는 건강검진에서 발견된 작은 쓸개돌들이 있었으나 증상이 없어 경과관찰 중이었다. 내원 당시 혈압은 95/65, 맥박은 115회/분, 호흡 23회/분, 체온은 37.3도였다. 복부 청진에서 장음은 감소되어 있었고, 우상복부 및 명치 부위에 압통과 반동압통이 있었다. 치료는?",
+    "options": [
+      "내시경적 역행성담도조영술 및 쓸개절제술",
+      "내시경적 낭종위배액술",
+      "이자죽은조직절제술",
+      "옆옆이자빈창자연결술",
+      "전체이자절제술"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "자세히 ct를 보면 GB랑 CBD에 빛나는 stone이 보입니다. Bilirubin 수치도 올라간걸 봐서 GB stone에 의해 CBD obstruction이 생긴 것을 임상양상에서도 추정할 수 있고, 담도결석에 의한 급성췌장염입니다. 담낭결석이 동반된 경우이므로 내시경적 역행성담도조영술을 시행하여 담도결석을 제거한 후 췌장염이 개선되면 가능한 빨리 담낭절제술을 시행합니다. →ERCP 최대한 빨리 하고 환자의 상태가 나아지면 cholecystectomy(담낭절제술)을 시행!!! 빈출",
+    "images": [
+      "images/thu0917_4/image5.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu4_07",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 29,
+    "question": "담낭 결석을 추적 관찰하고 있던 45세 남자 환자가 상복부 통증으로 내원하였다. 혈액 검사를 진행했고 결과는 다음과 같았다. 조치는? (2017,2015,2014 김기환 교수님 짤)",
+    "options": [
+      "응급 개복 담낭절제술",
+      "경피적 담낭배액술",
+      "췌장염 증상 호전 후 담낭절제술",
+      "췌장염 증상 호전시 퇴원 후 경과관찰",
+      "체외충격파쇄석술"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "바로 위에서 봤던 문제와 같은 문제입니다. Amylase, lipase가 각각 3배 이상 오른것+상복부 통증->acute pancreatitis의 진단 기준을 만족하고, GBstone을 추적하고 있었다는 걸로 보아, Gallstone pancreatitis인 것을 알 수 있습니다. ERCP 최대한 빨리 하고 환자의 상태가 나아지면 cholecystectomy(담낭절제술)을 시행한다!!",
+    "images": [
+      "images/thu0917_4/image6.png"
+    ]
+  },
+  {
+    "id": "0917_thu4_08",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2021 (21학번)",
+    "yearNum": 21,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 36,
+    "question": "다음 수술을 했다면 적응증은?",
+    "options": [
+      "췌관선암",
+      "급성췌장염",
+      "만성췌장염",
+      "췌장가성낭종",
+      "췌관내 유상상 점액종"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "만성 췌장염의 수술적 치료에서 배운 side to side pancreatico-jejunosotmy입니다.",
+    "images": [
+      "images/thu0917_4/image7.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu4_09",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 41,
+    "question": "췌장염의 외과적 치료 원칙에 대한 설명 중 가장 바른 것은? (2019짤)",
+    "options": [
+      "복통이 심하고 생체활력징후가 안정적이지 않을 경우 최대한 빨리 수술적 치료를 시행한다.",
+      "충분한 수액을 투여하는 경우 부종으로 인해 수술에 어려움을 겪을 가능성이 높으므로 자제하여야 한다.",
+      "급성췌장염의 합병증으로 췌장가성낭종이 발생하였을 경우 수술적 치료보다는 배액술을 먼저 고려해야 한다.",
+      "만성췌장염의 수술적 치료시 재발 방지를 위해 가급적 췌장의 안전한 절제를 고려한다.",
+      "췌장염에 동반하여 비장정맥혈전이 발생한 경우 위십이지장 정맥류 예방을 위해 비장절제술을 우선적으로 고려한다."
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "1번-췌장염에 대한 수술이 응급하게 이루어지는 경우는 없다고 했습니다. 수술은 항상 최후의 수단이지, 수액 등 보존적 치료가 우선입니다. 2번-충분한 수액 투여가 중요하다고 했습니다. 3번-급성 췌쟝염의 합병증으로 췌장 가성 낭종이 발생했을 때는 수술보다 배액술을 먼저 고려해야 합니다. 항상 보존적인 치료를 우선시해야 합니다! 4번-만성 췌장염 수술적 치료의 목표는 췌장염 자체를 치료하는 게 아니라 통증을 조절하기 위해 감압이나 괴사된 조직을 제거하는 것입니다. 재발하는 것과는 관계없겠죠. 5번-증상이 없는 환자에게 예방적 비장절제술을 시행하지 않는다고 했습니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu4_10",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2020 (20학번)",
+    "yearNum": 20,
+    "isRecent14Plus": true,
+    "professor": "한재현 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": true,
+    "qNumber": 41,
+    "question": "45세 남자 환자가 간헐적 복통과 대변에 기름이 뜬다고 외래로 내원하였다. 환자는 20대 이후로 거의 음주를 하였고 만성췌장염으로 외래에서 투약을 하며 경과를 보고 있다. 만약 이 환자가 향후에 경과가 더 악화되어 수술을 하게 된다면 그 이유로 가장 알맞은 것은? (2019,2018짤)",
+    "options": [
+      "복통",
+      "지방변",
+      "소화불량",
+      "췌석의 제거",
+      "췌장암 예방"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "만성췌장염에서 복통이 마약성 진통제로도 조절이 되지 않고, 환자의 일상생활을 도저히 할 수 없을 정도이면 수술적 치료를 고려할 수 있습니다. 만성 췌장염의 수술적 치료의 목표는 통증 조절이라고 강조하셨습니다.",
+    "images": []
+  },
+  {
+    "id": "0917_thu4_11",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2018 (18학번)",
+    "yearNum": 18,
+    "isRecent14Plus": true,
+    "professor": "이상권 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": false,
+    "qNumber": 43,
+    "question": "만성췌장염으로 반복되는 상복부 통증을 앓고 있던 46세 남자(CT 소견)에서 아래와 같은 수술을 시행하였다. 수술명은?",
+    "options": [
+      "distal pancreatectomy",
+      "pancreatocoduodenectomy",
+      "pancreatic necrosectomy",
+      "modified puestow procedure (lateral pancreaticojejunostomy)",
+      "beger procedure"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "만성췌장염이 있으면서 췌관 확장이 있으므로 modified puestow procedure(=저희가 배운 side to side pancreatico-jejunostomy입니다!!)가 가장 적절한 수술입니다.",
+    "images": [
+      "images/thu0917_4/image8.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu4_12",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2016 (16학번)",
+    "yearNum": 16,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": false,
+    "qNumber": 84,
+    "question": "55세 남자가 수년간 2-3개월에 한번씩 반복되는 심와부 동통, 체중감소 및 지방변을 주소로 내원하여 시행한 전산화단 층촬영 및 내시경적 역행성 담췌관조영술 사진이다. 내과적 치료에도 불구하고 지속되는 통증 및 체중감소를 보였다. 적절한 외과적 치료는? (2014 짤)",
+    "options": [
+      "위낭종문합술 cystogastrostomy",
+      "원위췌절제술 distal pancreatectomy",
+      "췌십이지장절제술 pancreaticoduodenectomy",
+      "췌공장단단문합술 end to end pancresticojejunostomy",
+      "췌공장측측문합술 side to side pancreaticojejunostomy"
+    ],
+    "answer": [
+      5
+    ],
+    "explanation": "체중감소+지방변이 있죠. 전형적인 만성췌장염 증상입니다. 이 환자는 만성췌장염 환자로 췌장의 석회화 및 췌관의 확장을 동반하고 있습니다. 강조하셨던 부분입니다!! 만성 췌장염이면서 췌관이 늘어나 있으면 side to side pancreaticojejunostomy!! 4번이랑 헷갈리시는 대참사가 일어나진 않길….",
+    "images": [
+      "images/thu0917_4/image9.jpg"
+    ]
+  },
+  {
+    "id": "0917_thu4_13",
+    "subject": "목4_0917_췌장염외과치료",
+    "subjectName": "[09/17 목4] 췌장염 외과치료 (한재현)",
+    "day": "목",
+    "period": 4,
+    "year": "2015 (15학번)",
+    "yearNum": 15,
+    "isRecent14Plus": true,
+    "professor": "김기환 교수님",
+    "thisYearProfessor": "한재현 교수님",
+    "isSameProfessor": false,
+    "qNumber": 13,
+    "question": "50세 남자가 급성 췌장염으로 7주정도 치료받던 중 소화가 안되고 등쪽으로 방사되는 통증이 심해졌다. 다음은 시행한 복부 전산화단층 사진이다. 가장 적절한 수술은?",
+    "options": [
+      "췌장 전절제술",
+      "낭-공장 문합술",
+      "측측췌공장문합술",
+      "췌십이지장 절제술",
+      "유문보존 췌십이지장절제술"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "급성 췌장염의 흔한 후기 합병증인 Pseudocyst입니다. 소화가 안 되는 건 pseudocyst가 intestine을 눌러서 그럴 것입니다. 대부분 자연 치유되지만, 증상 있을 경우 내시경을 이용한 배액술이 1차 치료이고, 실패할 경우 cystogastrostomy, cystoduodenostomy, cystojejunostomy와 같은 수술적 치료를 실시합니다. 수업시간에 슥 언급하신 부분입니다. 만성 췌장염이 아니라 췌장 기능이 아직 살아 있는 급성 췌장염이므로 측측췌공장문합술을 할 필요는 없습니다. Pseudocyst 자체도 급성 췌장염의 합병증입니다. Pseudocyst부터 해결해야 하므로 측측췌공장문합술이 아니라 낭-공장 문합술을 해야 할 것 같습니다.",
+    "images": [
+      "images/thu0917_4/image10.jpg"
+    ]
   }
 ]
